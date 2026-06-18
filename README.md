@@ -4,5 +4,4 @@ Telecom Churn Analytics Dashboard
 Cleaning Steps Used
 No cleaning required
 
-Dax Queries Used
-Goal Type = IF(goalscorers[own_goal] = True(), "Own Goal", IF(goalscorers[penalty] = True(), "Penalty", "Normal Goal"))
+Dax Queries
