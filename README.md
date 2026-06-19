@@ -1,3 +1,10 @@
+FIFA 2026 Worldcup Football Data Analytics Dashboard
+<img width="1162" height="652" alt="FIFA Dashboard" src="https://github.com/user-attachments/assets/628c9a19-fc0d-46d3-a4e2-4aad2f8d0500" />
+Cleaning Steps Used
+No cleaning required
+Meaure added for Goal Type
+
+
 Telecom Churn Analytics Dashboard
 <img width="1052" height="587" alt="image" src="https://github.com/user-attachments/assets/1b26b4b2-dda3-4047-a368-cf68f3df26fd" />
 
