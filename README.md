@@ -4,4 +4,11 @@ Telecom Churn Analytics Dashboard
 Cleaning Steps Used
 No cleaning required
 
+Netflix User Data Analytics Dashboard
+<img width="1157" height="652" alt="Netflix Dashboard" src="https://github.com/user-attachments/assets/e4e6fdfd-f33d-45b0-8f07-9f6eebef6067" />
+
+Cleaning Steps Used
+No cleaning required
+
+
 
