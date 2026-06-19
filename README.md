@@ -1,8 +1,13 @@
 FIFA 2026 Worldcup Football Data Analytics Dashboard
 <img width="1162" height="652" alt="FIFA Dashboard" src="https://github.com/user-attachments/assets/628c9a19-fc0d-46d3-a4e2-4aad2f8d0500" />
 Cleaning Steps Used
+
 No cleaning required
+
 Meaure added for Goal Type
+
+Goal Type = IF(goalscorers[own_goal] = True(), "Own Goal", IF(goalscorers[penalty] = True(), "Penalty", "Normal Goal"))
+
 
 
 Telecom Churn Analytics Dashboard
