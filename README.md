@@ -28,4 +28,13 @@ No cleaning required
 Cleaning Steps Used
 No Cleaning required
 
+**Indian Tourism Analytics Dashboard**
+<img width="1295" height="731" alt="Indian Tourism Dashboard" src="https://github.com/user-attachments/assets/8283dff4-b777-4154-a037-51b21fa4febb" />
+
+Cleaning Steps used
+No cleaning required
+
+Measure Added
+Popular Attraction Count = CALCULATE(COUNT('Top Indian Places to Visit'[Name]),'Top Indian Places to Visit'[Google review rating] >= 4.5)
+
 
