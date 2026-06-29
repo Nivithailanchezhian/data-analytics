@@ -1,4 +1,5 @@
-LinkedIn Profile : https://www.linkedin.com/in/nivi-I/
+<a href="https://www.linkedin.com/in/nivi-I/"><img width="3000" height="3000" alt="image" src="https://github.com/user-attachments/assets/2a8859b9-ac1c-411d-adea-71a05a184ff4" /></a>
+ 
 
 **FIFA 2026 Worldcup Football Data Analytics Dashboard**
 <img width="1162" height="652" alt="FIFA Dashboard" src="https://github.com/user-attachments/assets/628c9a19-fc0d-46d3-a4e2-4aad2f8d0500" />
