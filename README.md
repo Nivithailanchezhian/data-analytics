@@ -1,4 +1,4 @@
-<a href="https://www.linkedin.com/in/nivi-I/"><img width="150" height="150" alt="image" src="https://github.com/user-attachments/assets/2a8859b9-ac1c-411d-adea-71a05a184ff4" /></a>
+<a href="https://www.linkedin.com/in/nivi-I/"><img width="60" height="60" alt="image" src="https://github.com/user-attachments/assets/2a8859b9-ac1c-411d-adea-71a05a184ff4" /></a>
  
 
 **FIFA 2026 Worldcup Football Data Analytics Dashboard**
