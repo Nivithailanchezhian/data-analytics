@@ -41,3 +41,16 @@ Measure Added
 Popular Attraction Count = CALCULATE(COUNT('Top Indian Places to Visit'[Name]),'Top Indian Places to Visit'[Google review rating] >= 4.5)
 
 
+**Iran Geopolitical risk & Global Oil Market Analysis**
+<img width="1317" height="737" alt="Iran Geopolitical Dashboard" src="https://github.com/user-attachments/assets/bb522d47-98a7-43fe-9dc7-148a81ca5461" />
+
+Cleaning Steps used
+
+No cleaning required
+
+
+Added New Table
+DateTable = CALENDAR(MIN(oil_prices_daily[date]),MAX(oil_prices_daily[date]))
+
+
+
