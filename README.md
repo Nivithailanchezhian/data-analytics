@@ -1,3 +1,6 @@
+<a href="https://www.linkedin.com/in/nivi-I/"><img width="60" height="60" alt="image" src="https://github.com/user-attachments/assets/2a8859b9-ac1c-411d-adea-71a05a184ff4" /></a>
+ 
+
 **FIFA 2026 Worldcup Football Data Analytics Dashboard**
 <img width="1162" height="652" alt="FIFA Dashboard" src="https://github.com/user-attachments/assets/628c9a19-fc0d-46d3-a4e2-4aad2f8d0500" />
 Cleaning Steps Used
@@ -27,5 +30,14 @@ No cleaning required
 
 Cleaning Steps Used
 No Cleaning required
+
+**Indian Tourism Analytics Dashboard**
+<img width="1295" height="731" alt="Indian Tourism Dashboard" src="https://github.com/user-attachments/assets/8283dff4-b777-4154-a037-51b21fa4febb" />
+
+Cleaning Steps used
+No cleaning required
+
+Measure Added
+Popular Attraction Count = CALCULATE(COUNT('Top Indian Places to Visit'[Name]),'Top Indian Places to Visit'[Google review rating] >= 4.5)
 
 
