@@ -48,8 +48,8 @@ Cleaning Steps used
 
 No cleaning required
 
-
 Added New Table
+
 DateTable = CALENDAR(MIN(oil_prices_daily[date]),MAX(oil_prices_daily[date]))
 
 
