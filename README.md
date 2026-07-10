@@ -53,4 +53,14 @@ Added New Table
 DateTable = CALENDAR(MIN(oil_prices_daily[date]),MAX(oil_prices_daily[date]))
 
 
+**Forbes Companies Analytics Dashboard**
+<img width="1181" height="672" alt="Forbes Global Companies Dashboard" src="https://github.com/user-attachments/assets/53a5e1db-6c4d-430c-8cdc-0dfaee6162d7" />
+
+cleaning steps used
+
+No cleaning required
+
+
+
+
 
