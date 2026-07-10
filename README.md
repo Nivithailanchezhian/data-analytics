@@ -71,7 +71,7 @@ Added New Combined Table
 
 Combined Network = UNION(SELECTCOLUMNS('Signal Metrics 3g',"Network", "3G", "Speed",'Signal Metrics 3g'[Data Throughput (Mbps)],"Latency",'Signal Metrics 3g'[Latency (ms)], "Signal Strength", 'Signal Metrics 3g'[Signal Strength (dBm)], "Range", Blank()), SELECTCOLUMNS('march18_myspeed', "Network", "4G", "Speed", 'march18_myspeed'[Data Speed (Mbps)], "Latency", BLANK(), "Signal Strength", 'march18_myspeed'[Signal Strength (dBm)], "Range", BLANK()), SELECTCOLUMNS('5g_network_data', "Network", "5G", "Speed", '5g_network_data'[Download Speed (Mbps)], "Latency", '5g_network_data'[Latency (ms)], "Signal Strength", '5g_network_data'[Signal Strength (dBm)], "Range", BLANK()), SELECTCOLUMNS('6G_Prediction', "Network", "6G", "Speed", '6G_Prediction'[Download Speed(Mbps)], "Latency", '6G_Prediction'[Latency(ms)], "Signal Strength", BLANK(), "Range", '6G_Prediction'[Range(km)])) 
 
-Added Newv 6G Prediction Table
+Added New 6G Prediction Table
 
 6G_Prediction = ROW("Network", "6G", "Latency(ms)", (AVERAGE('Signal Metrics 3g'[Latency (ms)]) + AVERAGE ('5g_network_data'[Latency (ms)])) / 2 * 0.1, "Download Speed(Mbps)", (AVERAGE('Signal Metrics 3g'[Data Throughput (Mbps)]) + AVERAGE('march18_myspeed'[Data Speed (Mbps)]) + AVERAGE('5g_network_data'[Download Speed (Mbps)])) / 3 * 10, "Upload Speed (Mbps)", AVERAGE('5g_network_data'[Upload Speed (Mbps)]) * 10, "Throughput(Mbps)", (AVERAGE('Signal Metrics 3g'[Data Throughput (Mbps)]) + AVERAGE('5g_network_data'[Download Speed (Mbps)]) + AVERAGE(march18_myspeed[Data Speed (Mbps)])) / 3 * 12, "Signal Quality (%)", AVERAGE('Signal Metrics 3g'[Signal Quality (%)]) * 1.05, "Range(km)", 5)
 
