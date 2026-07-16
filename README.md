@@ -19,6 +19,14 @@ Goal Type = IF(goalscorers[own_goal] = True(), "Own Goal", IF(goalscorers[penalt
 Cleaning Steps Used
 No cleaning required
 
+**Solar Generation Analysis**
+<img width="1162" height="652" alt="Solar Generation Dashboard" src="https://github.com/user-attachments/assets/026e0995-d5c7-4f1a-a974-9a3dfea44e21" />
+
+Cleaning Steps Used
+
+No Cleaning required
+
+
 **Netflix User Data Analytics Dashboard**
 <img width="1157" height="652" alt="Netflix Dashboard" src="https://github.com/user-attachments/assets/e4e6fdfd-f33d-45b0-8f07-9f6eebef6067" />
 
@@ -74,6 +82,41 @@ Combined Network = UNION(SELECTCOLUMNS('Signal Metrics 3g',"Network", "3G", "Spe
 Added New 6G Prediction Table
 
 6G_Prediction = ROW("Network", "6G", "Latency(ms)", (AVERAGE('Signal Metrics 3g'[Latency (ms)]) + AVERAGE ('5g_network_data'[Latency (ms)])) / 2 * 0.1, "Download Speed(Mbps)", (AVERAGE('Signal Metrics 3g'[Data Throughput (Mbps)]) + AVERAGE('march18_myspeed'[Data Speed (Mbps)]) + AVERAGE('5g_network_data'[Download Speed (Mbps)])) / 3 * 10, "Upload Speed (Mbps)", AVERAGE('5g_network_data'[Upload Speed (Mbps)]) * 10, "Throughput(Mbps)", (AVERAGE('Signal Metrics 3g'[Data Throughput (Mbps)]) + AVERAGE('5g_network_data'[Download Speed (Mbps)]) + AVERAGE(march18_myspeed[Data Speed (Mbps)])) / 3 * 12, "Signal Quality (%)", AVERAGE('Signal Metrics 3g'[Signal Quality (%)]) * 1.05, "Range(km)", 5)
+
+
+**Network Traffic Analysis**
+<img width="1222" height="690" alt="Network traffic Performance Dashboard" src="https://github.com/user-attachments/assets/42c4e5d5-dce6-4633-ac14-392faa97562e" />
+
+Cleaning Steps used 
+
+No cleaning required
+
+Added Measures and Table
+
+CalendarTable = CALENDARAUTO()
+
+3-Period Rolling Throughput = 
+VAR CurrentTimestamp = MAX('network_traffic_clean'[Timestamp])
+VAR WindowStart = CurrentTimestamp - TIME(0, 45, 0)
+RETURN
+    CALCULATE(
+        AVERAGE('network_traffic_clean'[Throughput_Mbps]),
+        REMOVEFILTERS('CalendarTable'),
+        'network_traffic_clean'[Timestamp] > WindowStart &&
+        'network_traffic_clean'[Timestamp] <= CurrentTimestamp
+    )
+
+Critical Signal Drop Rate % = 
+DIVIDE(
+    CALCULATE(COUNTROWS('network_traffic_clean'), 'network_traffic_clean'[Packet_Loss_Rate] > 10),
+    [Total Packet Streams],
+    0
+)
+
+Total Packet Streams = COUNTROWS('network_traffic_clean')
+
+
+
 
 
 
