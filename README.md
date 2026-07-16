@@ -33,8 +33,9 @@ No Cleaning required
 Cleaning Steps Used
 No cleaning required
 
-**Global Ads Performance Analytics Dashboard**
-<img width="1260" height="710" alt="Global Ads Performance Dashboard" src="https://github.com/user-attachments/assets/9a35763e-12e7-4e88-af6a-c12553bcfd54" />
+**Global Ad Performance Analytics Dashboard**
+<img width="1128" height="635" alt="Global Ad performance dashboard" src="https://github.com/user-attachments/assets/516e47f0-4221-4cbd-b70e-cb55b267fc3e" />
+
 
 Cleaning Steps Used
 No Cleaning required
