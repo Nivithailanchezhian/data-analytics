@@ -1,5 +1,53 @@
 <a href="https://www.linkedin.com/in/nivi-I/"><img width="60" height="60" alt="image" src="https://github.com/user-attachments/assets/2a8859b9-ac1c-411d-adea-71a05a184ff4" /></a>
  
+**Digital Marketing Analysis**
+<img width="1337" height="752" alt="Digital Marketing Analysis" src="https://github.com/user-attachments/assets/27719bc3-48f9-4439-9be3-94f442dae33f" />
+
+Cleaning Steps used
+
+No cleaning required
+
+Measures Added:
+
+1.Ad Spend MoM % = DIVIDE([Total Ad Spend]-[Previous Period Ad Spend],[Previous Period Ad Spend],0)
+
+2.Clicks Lakhs = FORMAT(DIVIDE(SUM('Digital Marketing Analytics'[Clicks]),100000),"0.0")&"L"
+
+3.Conversion Rate = DIVIDE([Total Conversions],[Total Sessions],0)
+
+4.Conversions MoM % = DIVIDE([Total Conversions]-[Previous Period Conversions],[Previous Period Conversions],0)
+
+5.CPA = DIVIDE([Total Ad Spend], [Total Conversions])
+
+6.CPA MoM % = DIVIDE([CPA]-[Previous Month CPA],[Previous Month CPA])
+
+7.CTR = DIVIDE(SUM('Digital Marketing Analytics'[Clicks]), SUM('Digital Marketing Analytics'[Impressions]),0)
+
+8.Engagements Lakhs = FORMAT(DIVIDE(SUM('Digital Marketing Analytics'[Engagements]),100000),"0.0")&"L"
+
+9.Previous Month CPA = CALCULATE([CPA],DATEADD('Digital Marketing Analytics'[Date],-1,MONTH))
+
+10.Previous Month ROAS = CALCULATE([ROAS],DATEADD('Digital Marketing Analytics'[Date],-1,MONTH))
+
+11.Previous Month Sessions = CALCULATE([Total Sessions],DATEADD('Digital Marketing Analytics'[Date],-1,MONTH))
+
+12.Previous Period Ad Spend = CALCULATE([Total Ad Spend],DATEADD('Digital Marketing Analytics'[Date],-1,MONTH))
+
+13.Previous Period Conversions = CALCULATE([Total Conversions],DATEADD('Digital Marketing Analytics'[Date],-1,MONTH))
+
+14.Previous Period Revenue = CALCULATE([Total Revenue], DATEADD('Digital Marketing Analytics'[Date],-1,MONTH))
+
+15.Reach Lakhs = FORMAT(DIVIDE(SUM('Digital Marketing Analytics'[Reach]),100000),"0.0")&"L"
+
+16.Revenue MoM % = DIVIDE([Total Revenue]-[Previous Period Revenue],[Previous Period Revenue],0)
+
+17.ROAS = DIVIDE([Total Revenue], [Total Ad Spend])
+
+18.ROAS MoM % = DIVIDE([ROAS]-[Previous Month ROAS],[Previous Month ROAS],0)
+
+19.Sessions MoM % = DIVIDE([Total Sessions]-[Previous Month Sessions],[Previous Month Sessions])
+
+
 
 **FIFA 2026 Worldcup Football Data Analytics Dashboard**
 <img width="1162" height="652" alt="FIFA Dashboard" src="https://github.com/user-attachments/assets/628c9a19-fc0d-46d3-a4e2-4aad2f8d0500" />
@@ -122,56 +170,6 @@ Total Packet Streams = COUNTROWS('network_traffic_clean')
 Cleaning Steps used 
 
 No cleaning required
-
-**Digital Marketing Analysis**
-<img width="1337" height="752" alt="Digital Marketing Analysis" src="https://github.com/user-attachments/assets/27719bc3-48f9-4439-9be3-94f442dae33f" />
-
- Cleaning Steps used
-
- No cleaning required
-
-Added Measures
-
-1.Ad Spend MoM % = DIVIDE([Total Ad Spend]-[Previous Period Ad Spend],[Previous Period Ad Spend],0)
-
-2.Clicks Lakhs = FORMAT(DIVIDE(SUM('Digital Marketing Analytics'[Clicks]),100000),"0.0")&"L"
-
-3.Conversion Rate = DIVIDE([Total Conversions],[Total Sessions],0)
-
-4.Conversions MoM % = DIVIDE([Total Conversions]-[Previous Period Conversions],[Previous Period Conversions],0)
-
-5.CPA = DIVIDE([Total Ad Spend], [Total Conversions])
-
-6.CPA MoM % = DIVIDE([CPA]-[Previous Month CPA],[Previous Month CPA])
-
-7.CTR = DIVIDE(SUM('Digital Marketing Analytics'[Clicks]), SUM('Digital Marketing Analytics'[Impressions]),0)
-
-8.Engagements Lakhs = FORMAT(DIVIDE(SUM('Digital Marketing Analytics'[Engagements]),100000),"0.0")&"L"
-
-9.Previous Month CPA = CALCULATE([CPA],DATEADD('Digital Marketing Analytics'[Date],-1,MONTH))
-
-10.Previous Month ROAS = CALCULATE([ROAS],DATEADD('Digital Marketing Analytics'[Date],-1,MONTH))
-
-11.Previous Month Sessions = CALCULATE([Total Sessions],DATEADD('Digital Marketing Analytics'[Date],-1,MONTH))
-
-12.Previous Period Ad Spend = CALCULATE([Total Ad Spend],DATEADD('Digital Marketing Analytics'[Date],-1,MONTH))
-
-13.Previous Period Conversions = CALCULATE([Total Conversions],DATEADD('Digital Marketing Analytics'[Date],-1,MONTH))
-
-14.Previous Period Revenue = CALCULATE([Total Revenue], DATEADD('Digital Marketing Analytics'[Date],-1,MONTH))
-
-15.Reach Lakhs = FORMAT(DIVIDE(SUM('Digital Marketing Analytics'[Reach]),100000),"0.0")&"L"
-
-16.Revenue MoM % = DIVIDE([Total Revenue]-[Previous Period Revenue],[Previous Period Revenue],0)
-
-17.ROAS = DIVIDE([Total Revenue], [Total Ad Spend])
-
-18.ROAS MoM % = DIVIDE([ROAS]-[Previous Month ROAS],[Previous Month ROAS],0)
-
-19.Sessions MoM % = DIVIDE([Total Sessions]-[Previous Month Sessions],[Previous Month Sessions])
-
-
-
 
 
 
