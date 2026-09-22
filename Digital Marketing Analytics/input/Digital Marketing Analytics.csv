@@ -1,0 +1,973 @@
+Date,Campagin_ID,Campagin_Name,Platform,Campagin_Type,Industry,Ad_Spend,Revenue,Impressions,Reach,Clicks,Engagements,Sessions,Leads,Conversions,Target_Audience,Campaign_Objectives,Device,Country,Campagin_Status
+01-Jan-26,CMP001,Twitter Engagement,Twitter,Engagement,Technology,2779.38,11117.52,693065,138613,34653.25,69306.5,27722.6,2772.26,23,Working Professionals,Increase Engagement,Mobile,India,Active
+01-Jan-26,CMP002,Google Search Lead,Google,Lead Generation,E-Commerce,2235.33,8941.32,177455,35491,8872.75,17745.5,7098.2,709.82,11,Online Shoppers,Generate Leads,Desktop,USA,Paused
+01-Jan-26,CMP003,Google PPC,Google,PPC,Finance,3128.04,12512.16,28055,5611,1402.75,2805.5,1122.2,112.22,10,Working Professionals,Drive Website Traffic,Mobile,USA,Completed
+01-Jan-26,CMP004,Twitter Engagement,Twitter,Engagement,Education,4127.76,16511.04,409465,81893,20473.25,40946.5,16378.6,1637.86,72,Students,Increase Engagement,Tablet,Australia,Completed
+02-Jan-26,CMP005,LinkedIn B2B Lead Campaign,LinkedIn,Lead Generation,Healthcare,254.61,1018.44,493070,98614,24653.5,49307,19722.8,1972.28,86,Parents,Generate Leads,Tablet,Canada,Paused
+02-Jan-26,CMP006,LinkedIn B2B Lead Campaign,LinkedIn,Lead Generation,Finance,1923.93,7695.72,992640,198528,49632,99264,39705.6,3970.56,6,Working Professionals,Generate Leads,Desktop,Canada,Active
+02-Jan-26,CMP007,Twitter Lead Generation,Twitter,Lead Generation,Technology,1792.44,7169.76,524110,104822,26205.5,52411,20964.4,2096.44,36,Working Professionals,Generate Leads,Tablet,Malaysia,Completed
+02-Jan-26,CMP008,Facebook Website Traffic,Facebook,Traffic,SaaS,1097.55,4390.2,287305,57461,14365.25,28730.5,11492.2,1149.22,45,Business Owners,Drive Website Traffic,Mobile,UAE,Paused
+03-Jan-26,CMP009,Instagram Engagement,Instagram,Engagement,SaaS,1874.34,7497.36,1841725,368345,92086.25,184172.5,73669,7366.9,48,Business Owners,Increase Engagement,Desktop,Canada,Completed
+03-Jan-26,CMP010,Twitter Engagement,Twitter,Engagement,E-Commerce,4161.78,16647.12,1106335,221267,55316.75,110633.5,44253.4,4425.34,120,Online Shoppers,Increase Engagement,Mobile,Malaysia,Active
+03-Jan-26,CMP011,Instagram Reach,Instagram,Brand Awareness,Technology,890.64,3562.56,1844385,368877,92219.25,184438.5,73775.4,7377.54,72,Working Professionals,Increase Brand Awareness,Desktop,India,Active
+03-Jan-26,CMP012,Twitter Engagement,Twitter,Engagement,Technology,3074.85,12299.4,7850,1570,392.5,785,314,31.4,16,Working Professionals,Increase Engagement,Tablet,USA,Active
+04-Jan-26,CMP013,ShareChat Brand Awareness,ShareChat,Brand Awareness,Education,1885.41,7541.64,2159700,431940,107985,215970,86388,8638.8,62,Students,Increase Brand Awareness,Desktop,Australia,Paused
+04-Jan-26,CMP014,Twitter Conversion,Twitter,Conversion,E-Commerce,2564.19,10256.76,265790,53158,13289.5,26579,10631.6,1063.16,5,Online Shoppers,Drive Conversions,Tablet,Malaysia,Completed
+04-Jan-26,CMP015,Instagram Engagement,Instagram,Engagement,E-Commerce,1333.26,5333.04,7655,1531,382.75,765.5,306.2,30.62,22,Online Shoppers,Increase Engagement,Mobile,UAE,Active
+04-Jan-26,CMP016,Instagram Engagement,Instagram,Engagement,Education,1445.94,5783.76,37000,7400,1850,3700,1480,148,5,Students,Increase Engagement,Desktop,UK,Active
+05-Jan-26,CMP017,Facebook Website Traffic,Facebook,Traffic,Real Estate,4430.52,17722.08,564000,112800,28200,56400,22560,2256,8,High-Income Professionals,Drive Website Traffic,Tablet,Australia,Active
+05-Jan-26,CMP018,Google Search Lead,Google,Lead Generation,Retail,1012.77,4051.08,1042385,208477,52119.25,104238.5,41695.4,4169.54,79,Young Adults,Generate Leads,Tablet,UAE,Completed
+05-Jan-26,CMP019,Instagram Lead Generation,Instagram,Lead Generation,SaaS,2488.77,9955.08,109060,21812,5453,10906,4362.4,436.24,82,Business Owners,Generate Leads,Desktop,Canada,Paused
+05-Jan-26,CMP020,Instagram Reach,Instagram,Brand Awareness,E-Commerce,1559.79,6239.16,757750,151550,37887.5,75775,30310,3031,91,Online Shoppers,Increase Brand Awareness,Mobile,Canada,Paused
+06-Jan-26,CMP021,ShareChat Brand Awareness,ShareChat,Brand Awareness,Technology,2667.33,10669.32,619215,123843,30960.75,61921.5,24768.6,2476.86,99,Working Professionals,Increase Brand Awareness,Mobile,Malaysia,Paused
+06-Jan-26,CMP022,Twitter Lead Generation,Twitter,Lead Generation,SaaS,4244.58,16978.32,1063990,212798,53199.5,106399,42559.6,4255.96,186,Business Owners,Generate Leads,Mobile,Singapore,Completed
+06-Jan-26,CMP023,ShareChat Lead Generation,ShareChat,Lead Generation,Real Estate,593.28,2373.12,574875,114975,28743.75,57487.5,22995,2299.5,70,High-Income Professionals,Generate Leads,Tablet,Malaysia,Completed
+06-Jan-26,CMP024,Twitter Lead Generation,Twitter,Lead Generation,Real Estate,3474.54,13898.16,1266345,253269,63317.25,126634.5,50653.8,5065.38,56,High-Income Professionals,Generate Leads,Mobile,Singapore,Active
+07-Jan-26,CMP025,Instagram Conversion,Instagram,Conversion,E-Commerce,1965.69,7862.76,558120,111624,27906,55812,22324.8,2232.48,38,Online Shoppers,Drive Conversions,Tablet,Malaysia,Paused
+07-Jan-26,CMP026,Google Website Traffic,Google,Traffic,Finance,387.54,1550.16,314950,62990,15747.5,31495,12598,1259.8,13,Working Professionals,Drive Website Traffic,Tablet,India,Completed
+07-Jan-26,CMP027,ShareChat Reach,ShareChat,Brand Awareness,Technology,2025,8100,237410,47482,11870.5,23741,9496.4,949.64,1,Working Professionals,Increase Brand Awareness,Mobile,USA,Active
+07-Jan-26,CMP028,Google PPC,Google,PPC,E-Commerce,491.76,1967.04,205040,41008,10252,20504,8201.6,820.16,158,Online Shoppers,Drive Website Traffic,Tablet,Malaysia,Paused
+08-Jan-26,CMP029,ShareChat Brand Awareness,ShareChat,Brand Awareness,Real Estate,2123.28,8493.12,12615,2523,630.75,1261.5,504.6,50.46,59,High-Income Professionals,Increase Brand Awareness,Desktop,India,Completed
+08-Jan-26,CMP030,ShareChat Lead Generation,ShareChat,Lead Generation,Real Estate,1283.4,5133.6,620380,124076,31019,62038,24815.2,2481.52,16,High-Income Professionals,Generate Leads,Tablet,India,Active
+08-Jan-26,CMP031,LinkedIn B2B Lead Campaign,LinkedIn,Lead Generation,Finance,125.82,503.28,230785,46157,11539.25,23078.5,9231.4,923.14,68,Working Professionals,Generate Leads,Desktop,UAE,Completed
+08-Jan-26,CMP032,LinkedIn Enterprise,LinkedIn,Lead Generation,SaaS,1567.08,6268.32,214355,42871,10717.75,21435.5,8574.2,857.42,8,Business Owners,Generate Leads,Mobile,Australia,Active
+09-Jan-26,CMP033,LinkedIn B2B Lead Campaign,LinkedIn,Lead Generation,SaaS,1433.79,5735.16,43870,8774,2193.5,4387,1754.8,175.48,64,Business Owners,Generate Leads,Mobile,Singapore,Paused
+09-Jan-26,CMP034,Instagram Conversion,Instagram,Conversion,Retail,629.55,2518.2,362290,72458,18114.5,36229,14491.6,1449.16,21,Young Adults,Drive Conversions,Mobile,USA,Paused
+09-Jan-26,CMP035,LinkedIn B2B Lead Campaign,LinkedIn,Lead Generation,Real Estate,1500.39,6001.56,55940,11188,2797,5594,2237.6,223.76,5,High-Income Professionals,Generate Leads,Desktop,Singapore,Completed
+09-Jan-26,CMP036,Twitter Engagement,Twitter,Engagement,SaaS,2976.93,11907.72,1008910,201782,50445.5,100891,40356.4,4035.64,51,Business Owners,Increase Engagement,Desktop,Singapore,Completed
+10-Jan-26,CMP037,Facebook Conversion,Facebook,Conversion,E-Commerce,100.17,400.68,726670,145334,36333.5,72667,29066.8,2906.68,1,Online Shoppers,Drive Conversions,Tablet,Malaysia,Active
+10-Jan-26,CMP038,Google Search Lead,Google,Lead Generation,Real Estate,1691.73,6766.92,700705,140141,35035.25,70070.5,28028.2,2802.82,104,High-Income Professionals,Generate Leads,Mobile,USA,Completed
+10-Jan-26,CMP039,LinkedIn B2B Lead Generation,LinkedIn,Lead Generation,Education,1604.61,6418.44,41420,8284,2071,4142,1656.8,165.68,9,Students,Generate Leads,Tablet,Singapore,Paused
+10-Jan-26,CMP040,LinkedIn B2B Lead Generation,LinkedIn,Lead Generation,E-Commerce,3682.17,14728.68,103385,20677,5169.25,10338.5,4135.4,413.54,23,Online Shoppers,Generate Leads,Mobile,Canada,Paused
+11-Jan-26,CMP041,Facebook Brand Awareness,Facebook,Brand Awareness,Real Estate,2791.71,11166.84,78660,15732,3933,7866,3146.4,314.64,4,High-Income Professionals,Increase Brand Awareness,Mobile,UK,Active
+11-Jan-26,CMP042,Twitter Brand Awareness,Twitter,Brand Awareness,Real Estate,95.58,382.32,682110,136422,34105.5,68211,27284.4,2728.44,41,High-Income Professionals,Increase Brand Awareness,Mobile,Malaysia,Active
+11-Jan-26,CMP043,LinkedIn B2B Awareness,LinkedIn,Brand Awareness,SaaS,1458.18,5832.72,297765,59553,14888.25,29776.5,11910.6,1191.06,20,Business Owners,Increase Brand Awareness,Mobile,Malaysia,Paused
+11-Jan-26,CMP044,Instagram Engagement,Instagram,Engagement,SaaS,2644.83,10579.32,47805,9561,2390.25,4780.5,1912.2,191.22,11,Business Owners,Increase Engagement,Desktop,Canada,Completed
+12-Jan-26,CMP045,Facebook Lead Generation,Facebook,Lead Generation,Real Estate,1553.85,6215.4,458785,91757,22939.25,45878.5,18351.4,1835.14,6,High-Income Professionals,Generate Leads,Desktop,UK,Paused
+12-Jan-26,CMP046,Google PPC,Google,PPC,Technology,1692.81,6771.24,216700,43340,10835,21670,8668,866.8,179,Working Professionals,Drive Website Traffic,Mobile,Australia,Active
+12-Jan-26,CMP047,Google Search Lead,Google,Lead Generation,Retail,1780.92,7123.68,38400,7680,1920,3840,1536,153.6,3,Young Adults,Generate Leads,Desktop,USA,Active
+12-Jan-26,CMP048,ShareChat Brand Awareness,ShareChat,Brand Awareness,SaaS,183.06,732.24,371295,74259,18564.75,37129.5,14851.8,1485.18,8,Business Owners,Increase Brand Awareness,Desktop,Malaysia,Active
+13-Jan-26,CMP049,Facebook Lead Generation,Facebook,Lead Generation,Retail,3706.11,14824.44,103755,20751,5187.75,10375.5,4150.2,415.02,109,Young Adults,Generate Leads,Mobile,UK,Active
+13-Jan-26,CMP050,Google PPC,Google,PPC,Retail,2486.16,9944.64,1961590,392318,98079.5,196159,78463.6,7846.36,113,Young Adults,Drive Website Traffic,Tablet,Singapore,Active
+13-Jan-26,CMP051,ShareChat Lead Generation,ShareChat,Lead Generation,Real Estate,753.21,3012.84,1326625,265325,66331.25,132662.5,53065,5306.5,4,High-Income Professionals,Generate Leads,Mobile,Singapore,Active
+13-Jan-26,CMP052,Twitter Engagement,Twitter,Engagement,Technology,2055.78,8223.12,1184365,236873,59218.25,118436.5,47374.6,4737.46,26,Working Professionals,Increase Engagement,Mobile,UK,Completed
+14-Jan-26,CMP053,LinkedIn Enterprise,LinkedIn,Lead Generation,Retail,1991.16,7964.64,984630,196926,49231.5,98463,39385.2,3938.52,180,Young Adults,Generate Leads,Tablet,Australia,Active
+14-Jan-26,CMP054,Google Conversion,Google,Conversion,SaaS,2344.68,9378.72,291775,58355,14588.75,29177.5,11671,1167.1,11,Business Owners,Drive Conversions,Mobile,UAE,Completed
+14-Jan-26,CMP055,Instagram Reach,Instagram,Brand Awareness,Real Estate,3593.34,14373.36,481460,96292,24073,48146,19258.4,1925.84,33,High-Income Professionals,Increase Brand Awareness,Desktop,USA,Paused
+14-Jan-26,CMP056,Instagram Lead Generation,Instagram,Lead Generation,Real Estate,719.01,2876.04,1429820,285964,71491,142982,57192.8,5719.28,2,High-Income Professionals,Generate Leads,Mobile,USA,Paused
+15-Jan-26,CMP057,Twitter Engagement,Twitter,Engagement,Education,1610.1,6440.4,1568315,313663,78415.75,156831.5,62732.6,6273.26,21,Students,Increase Engagement,Tablet,India,Completed
+15-Jan-26,CMP058,Facebook Brand Awareness,Facebook,Brand Awareness,Finance,3732.66,14930.64,110685,22137,5534.25,11068.5,4427.4,442.74,17,Working Professionals,Increase Brand Awareness,Tablet,India,Active
+15-Jan-26,CMP059,Twitter Lead Generation,Twitter,Lead Generation,Finance,2318.49,9273.96,54975,10995,2748.75,5497.5,2199,219.9,79,Working Professionals,Generate Leads,Desktop,Canada,Completed
+15-Jan-26,CMP060,Twitter Engagement,Twitter,Engagement,Real Estate,772.83,3091.32,287220,57444,14361,28722,11488.8,1148.88,11,High-Income Professionals,Increase Engagement,Desktop,UAE,Completed
+16-Jan-26,CMP061,LinkedIn Enterprise,LinkedIn,Lead Generation,SaaS,4274.19,17096.76,1768850,353770,88442.5,176885,70754,7075.4,162,Business Owners,Generate Leads,Tablet,Australia,Active
+16-Jan-26,CMP062,ShareChat Brand Awareness,ShareChat,Brand Awareness,Retail,3570.39,14281.56,343010,68602,17150.5,34301,13720.4,1372.04,22,Young Adults,Increase Brand Awareness,Desktop,Australia,Active
+16-Jan-26,CMP063,ShareChat Engagement,ShareChat,Engagement,SaaS,3428.82,13715.28,1519870,303974,75993.5,151987,60794.8,6079.48,51,Business Owners,Increase Engagement,Tablet,UAE,Completed
+16-Jan-26,CMP064,Facebook Lead Generation,Facebook,Lead Generation,SaaS,1080.27,4321.08,1356605,271321,67830.25,135660.5,54264.2,5426.42,80,Business Owners,Generate Leads,Tablet,Singapore,Completed
+17-Jan-26,CMP065,LinkedIn Enterprise,LinkedIn,Lead Generation,Technology,4432.5,17730,766795,153359,38339.75,76679.5,30671.8,3067.18,79,Working Professionals,Generate Leads,Tablet,Singapore,Completed
+17-Jan-26,CMP066,Twitter Lead Generation,Twitter,Lead Generation,Technology,2534.76,10139.04,814035,162807,40701.75,81403.5,32561.4,3256.14,4,Working Professionals,Generate Leads,Desktop,India,Paused
+17-Jan-26,CMP067,Google Website Traffic,Google,Traffic,Education,1559.07,6236.28,1334495,266899,66724.75,133449.5,53379.8,5337.98,261,Students,Drive Website Traffic,Tablet,USA,Paused
+17-Jan-26,CMP068,Google Search Lead,Google,Lead Generation,Real Estate,2854.17,11416.68,223500,44700,11175,22350,8940,894,36,High-Income Professionals,Generate Leads,Mobile,UK,Completed
+18-Jan-26,CMP069,LinkedIn B2B Awareness,LinkedIn,Brand Awareness,Finance,4429.8,17719.2,610720,122144,30536,61072,24428.8,2442.88,60,Working Professionals,Increase Brand Awareness,Mobile,Malaysia,Completed
+18-Jan-26,CMP070,Instagram Reach,Instagram,Brand Awareness,Real Estate,483.57,1934.28,27735,5547,1386.75,2773.5,1109.4,110.94,1,High-Income Professionals,Increase Brand Awareness,Desktop,Singapore,Completed
+18-Jan-26,CMP071,Instagram Engagement,Instagram,Engagement,Healthcare,314.19,1256.76,979960,195992,48998,97996,39198.4,3919.84,11,Parents,Increase Engagement,Tablet,Malaysia,Active
+18-Jan-26,CMP072,ShareChat Engagement,ShareChat,Engagement,E-Commerce,1635.93,6543.72,321145,64229,16057.25,32114.5,12845.8,1284.58,60,Online Shoppers,Increase Engagement,Tablet,UAE,Completed
+19-Jan-26,CMP073,ShareChat Lead Generation,ShareChat,Lead Generation,E-Commerce,2019.24,8076.96,310465,62093,15523.25,31046.5,12418.6,1241.86,7,Online Shoppers,Generate Leads,Tablet,Singapore,Completed
+19-Jan-26,CMP074,Instagram Conversion,Instagram,Conversion,SaaS,3240.72,12962.88,1289150,257830,64457.5,128915,51566,5156.6,145,Business Owners,Drive Conversions,Mobile,India,Active
+19-Jan-26,CMP075,Facebook Brand Awareness,Facebook,Brand Awareness,E-Commerce,978.39,3913.56,1170290,234058,58514.5,117029,46811.6,4681.16,128,Online Shoppers,Increase Brand Awareness,Desktop,Australia,Completed
+19-Jan-26,CMP076,ShareChat Brand Awareness,ShareChat,Brand Awareness,Real Estate,1813.05,7252.2,662220,132444,33111,66222,26488.8,2648.88,6,High-Income Professionals,Increase Brand Awareness,Mobile,USA,Active
+20-Jan-26,CMP077,Google Search Lead,Google,Lead Generation,Real Estate,4004.91,16019.64,702985,140597,35149.25,70298.5,28119.4,2811.94,23,High-Income Professionals,Generate Leads,Desktop,Malaysia,Paused
+20-Jan-26,CMP078,LinkedIn B2B Lead Campaign,LinkedIn,Lead Generation,SaaS,1848.06,7392.24,1074010,214802,53700.5,107401,42960.4,4296.04,43,Business Owners,Generate Leads,Mobile,India,Paused
+20-Jan-26,CMP079,Facebook Website Traffic,Facebook,Traffic,Retail,153.72,614.88,133325,26665,6666.25,13332.5,5333,533.3,9,Young Adults,Drive Website Traffic,Tablet,UK,Completed
+20-Jan-26,CMP080,Google Website Traffic,Google,Traffic,E-Commerce,2862.81,11451.24,114070,22814,5703.5,11407,4562.8,456.28,36,Online Shoppers,Drive Website Traffic,Tablet,Singapore,Paused
+21-Jan-26,CMP081,Twitter Engagement,Twitter,Engagement,Finance,3532.14,14128.56,316940,63388,15847,31694,12677.6,1267.76,4,Working Professionals,Increase Engagement,Desktop,UAE,Paused
+21-Jan-26,CMP082,Instagram Lead Generation,Instagram,Lead Generation,SaaS,2111.49,8445.96,427040,85408,21352,42704,17081.6,1708.16,8,Business Owners,Generate Leads,Tablet,UK,Completed
+21-Jan-26,CMP083,ShareChat Reach,ShareChat,Brand Awareness,Healthcare,1868.94,7475.76,1076515,215303,53825.75,107651.5,43060.6,4306.06,65,Parents,Increase Brand Awareness,Tablet,Malaysia,Paused
+21-Jan-26,CMP084,Google Conversion,Google,Conversion,Finance,330.75,1323,1017490,203498,50874.5,101749,40699.6,4069.96,162,Working Professionals,Drive Conversions,Desktop,Australia,Paused
+22-Jan-26,CMP085,ShareChat Engagement,ShareChat,Engagement,E-Commerce,4376.34,17505.36,23985,4797,1199.25,2398.5,959.4,95.94,67,Online Shoppers,Increase Engagement,Desktop,India,Paused
+22-Jan-26,CMP086,Twitter Conversion,Twitter,Conversion,SaaS,1137.51,4550.04,1625820,325164,81291,162582,65032.8,6503.28,177,Business Owners,Drive Conversions,Tablet,India,Paused
+22-Jan-26,CMP087,Instagram Engagement,Instagram,Engagement,E-Commerce,4433.58,17734.32,1060375,212075,53018.75,106037.5,42415,4241.5,96,Online Shoppers,Increase Engagement,Desktop,UAE,Paused
+22-Jan-26,CMP088,Twitter Lead Generation,Twitter,Lead Generation,Technology,3826.71,15306.84,111350,22270,5567.5,11135,4454,445.4,7,Working Professionals,Generate Leads,Mobile,UK,Paused
+23-Jan-26,CMP089,LinkedIn B2B Lead Generation,LinkedIn,Lead Generation,Finance,1048.86,4195.44,1241310,248262,62065.5,124131,49652.4,4965.24,61,Working Professionals,Generate Leads,Desktop,UK,Completed
+23-Jan-26,CMP090,Google Website Traffic,Google,Traffic,Finance,1642.95,6571.8,1390875,278175,69543.75,139087.5,55635,5563.5,22,Working Professionals,Drive Website Traffic,Mobile,Canada,Active
+23-Jan-26,CMP091,Twitter Brand Awareness,Twitter,Brand Awareness,Real Estate,4168.89,16675.56,808545,161709,40427.25,80854.5,32341.8,3234.18,60,High-Income Professionals,Increase Brand Awareness,Tablet,Malaysia,Completed
+23-Jan-26,CMP092,ShareChat Reach,ShareChat,Brand Awareness,Real Estate,167.58,670.32,182685,36537,9134.25,18268.5,7307.4,730.74,2,High-Income Professionals,Increase Brand Awareness,Desktop,Australia,Active
+24-Jan-26,CMP093,LinkedIn B2B Lead Generation,LinkedIn,Lead Generation,Healthcare,3878.28,15513.12,2098005,419601,104900.25,209800.5,83920.2,8392.02,87,Parents,Generate Leads,Desktop,India,Completed
+24-Jan-26,CMP094,Google Website Traffic,Google,Traffic,SaaS,1235.52,4942.08,39010,7802,1950.5,3901,1560.4,156.04,53,Business Owners,Drive Website Traffic,Tablet,Malaysia,Completed
+24-Jan-26,CMP095,Instagram Reach,Instagram,Brand Awareness,SaaS,1308.87,5235.48,9270,1854,463.5,927,370.8,37.08,9,Business Owners,Increase Brand Awareness,Mobile,Canada,Active
+24-Jan-26,CMP096,Instagram Reach,Instagram,Brand Awareness,Healthcare,1871.55,7486.2,673055,134611,33652.75,67305.5,26922.2,2692.22,73,Parents,Increase Brand Awareness,Desktop,UAE,Completed
+25-Jan-26,CMP097,Twitter Lead Generation,Twitter,Lead Generation,Technology,4365.72,17462.88,127095,25419,6354.75,12709.5,5083.8,508.38,12,Working Professionals,Generate Leads,Tablet,USA,Active
+25-Jan-26,CMP098,Google Website Traffic,Google,Traffic,Finance,3465.18,13860.72,847595,169519,42379.75,84759.5,33903.8,3390.38,2,Working Professionals,Drive Website Traffic,Mobile,Canada,Active
+25-Jan-26,CMP099,Google Conversion,Google,Conversion,Real Estate,4428.45,17713.8,404385,80877,20219.25,40438.5,16175.4,1617.54,36,High-Income Professionals,Drive Conversions,Desktop,Canada,Completed
+25-Jan-26,CMP100,Google Website Traffic,Google,Traffic,Finance,2809.98,11239.92,678265,135653,33913.25,67826.5,27130.6,2713.06,26,Working Professionals,Drive Website Traffic,Mobile,USA,Paused
+26-Jan-26,CMP101,Google Website Traffic,Google,Traffic,E-Commerce,4280.76,17123.04,22045,4409,1102.25,2204.5,881.8,88.18,169,Online Shoppers,Drive Website Traffic,Tablet,Australia,Paused
+26-Jan-26,CMP102,ShareChat Lead Generation,ShareChat,Lead Generation,Retail,346.14,1384.56,67310,13462,3365.5,6731,2692.4,269.24,81,Young Adults,Generate Leads,Tablet,UK,Paused
+26-Jan-26,CMP103,Twitter Conversion,Twitter,Conversion,Technology,2629.44,10517.76,1303935,260787,65196.75,130393.5,52157.4,5215.74,201,Working Professionals,Drive Conversions,Tablet,Canada,Completed
+26-Jan-26,CMP104,Facebook Website Traffic,Facebook,Traffic,Healthcare,207.54,830.16,1505525,301105,75276.25,150552.5,60221,6022.1,8,Parents,Drive Website Traffic,Mobile,India,Paused
+27-Jan-26,CMP105,Twitter Brand Awareness,Twitter,Brand Awareness,E-Commerce,1217.7,4870.8,178370,35674,8918.5,17837,7134.8,713.48,3,Online Shoppers,Increase Brand Awareness,Tablet,UK,Completed
+27-Jan-26,CMP106,Twitter Conversion,Twitter,Conversion,E-Commerce,3290.94,13163.76,81330,16266,4066.5,8133,3253.2,325.32,1,Online Shoppers,Drive Conversions,Mobile,Australia,Active
+27-Jan-26,CMP107,Instagram Reach,Instagram,Brand Awareness,E-Commerce,1658.25,6633,815135,163027,40756.75,81513.5,32605.4,3260.54,150,Online Shoppers,Increase Brand Awareness,Mobile,Australia,Active
+27-Jan-26,CMP108,Twitter Engagement,Twitter,Engagement,Technology,1831.95,7327.8,948500,189700,47425,94850,37940,3794,118,Working Professionals,Increase Engagement,Mobile,UAE,Active
+28-Jan-26,CMP109,Google Conversion,Google,Conversion,Real Estate,3468.15,13872.6,342920,68584,17146,34292,13716.8,1371.68,10,High-Income Professionals,Drive Conversions,Mobile,Singapore,Completed
+28-Jan-26,CMP110,Google PPC,Google,PPC,Education,167.4,669.6,1751755,350351,87587.75,175175.5,70070.2,7007.02,13,Students,Drive Website Traffic,Mobile,Singapore,Completed
+28-Jan-26,CMP111,Google Search Lead,Google,Lead Generation,Retail,1787.4,7149.6,43180,8636,2159,4318,1727.2,172.72,5,Young Adults,Generate Leads,Tablet,Australia,Completed
+28-Jan-26,CMP112,Facebook Brand Awareness,Facebook,Brand Awareness,SaaS,2597.49,10389.96,1117685,223537,55884.25,111768.5,44707.4,4470.74,25,Business Owners,Increase Brand Awareness,Desktop,UK,Paused
+29-Jan-26,CMP113,LinkedIn B2B Awareness,LinkedIn,Brand Awareness,E-Commerce,2834.46,11337.84,898250,179650,44912.5,89825,35930,3593,250,Online Shoppers,Increase Brand Awareness,Desktop,UK,Active
+29-Jan-26,CMP114,LinkedIn B2B Lead Campaign,LinkedIn,Lead Generation,SaaS,2628.18,10512.72,21610,4322,1080.5,2161,864.4,86.44,3,Business Owners,Generate Leads,Tablet,UK,Paused
+29-Jan-26,CMP115,Instagram Lead Generation,Instagram,Lead Generation,Real Estate,3137.67,12550.68,329670,65934,16483.5,32967,13186.8,1318.68,44,High-Income Professionals,Generate Leads,Tablet,UK,Paused
+29-Jan-26,CMP116,Twitter Lead Generation,Twitter,Lead Generation,Finance,508.23,2032.92,716725,143345,35836.25,71672.5,28669,2866.9,62,Working Professionals,Generate Leads,Mobile,Malaysia,Paused
+30-Jan-26,CMP117,ShareChat Engagement,ShareChat,Engagement,Education,2974.32,11897.28,424115,84823,21205.75,42411.5,16964.6,1696.46,41,Students,Increase Engagement,Tablet,Canada,Completed
+30-Jan-26,CMP118,Facebook Brand Awareness,Facebook,Brand Awareness,Healthcare,4387.59,17550.36,1637420,327484,81871,163742,65496.8,6549.68,116,Parents,Increase Brand Awareness,Desktop,Canada,Completed
+30-Jan-26,CMP119,Instagram Reach,Instagram,Brand Awareness,Education,2967.3,11869.2,57570,11514,2878.5,5757,2302.8,230.28,16,Students,Increase Brand Awareness,Desktop,UK,Active
+30-Jan-26,CMP120,Facebook Website Traffic,Facebook,Traffic,Technology,1541.97,6167.88,684575,136915,34228.75,68457.5,27383,2738.3,9,Working Professionals,Drive Website Traffic,Desktop,India,Paused
+31-Jan-26,CMP121,Facebook Brand Awareness,Facebook,Brand Awareness,Real Estate,1301.58,5206.32,56170,11234,2808.5,5617,2246.8,224.68,10,High-Income Professionals,Increase Brand Awareness,Desktop,India,Active
+31-Jan-26,CMP122,Google Search Lead,Google,Lead Generation,Finance,788.67,3154.68,317465,63493,15873.25,31746.5,12698.6,1269.86,26,Working Professionals,Generate Leads,Tablet,Australia,Completed
+31-Jan-26,CMP123,ShareChat Reach,ShareChat,Brand Awareness,Healthcare,2144.34,8577.36,317895,63579,15894.75,31789.5,12715.8,1271.58,44,Parents,Increase Brand Awareness,Tablet,UK,Active
+31-Jan-26,CMP124,Facebook Conversion,Facebook,Conversion,SaaS,2156.67,8626.68,276885,55377,13844.25,27688.5,11075.4,1107.54,120,Business Owners,Drive Conversions,Mobile,UK,Active
+01-Feb-26,CMP125,Facebook Brand Awareness,Facebook,Brand Awareness,E-Commerce,2777.85,11666.97,724910,144982,36245.5,72491,28996.4,2899.64,61,Online Shoppers,Increase Brand Awareness,Mobile,Singapore,Active
+01-Feb-26,CMP126,ShareChat Reach,ShareChat,Brand Awareness,E-Commerce,3710.16,15582.672,196425,39285,9821.25,19642.5,7857,785.7,6,Online Shoppers,Increase Brand Awareness,Desktop,Singapore,Paused
+01-Feb-26,CMP127,ShareChat Lead Generation,ShareChat,Lead Generation,Finance,1123.92,4720.464,5355,1071,267.75,535.5,214.2,21.42,17,Working Professionals,Generate Leads,Tablet,India,Completed
+01-Feb-26,CMP128,Twitter Engagement,Twitter,Engagement,SaaS,453.42,1904.364,1241485,248297,62074.25,124148.5,49659.4,4965.94,44,Business Owners,Increase Engagement,Tablet,India,Completed
+02-Feb-26,CMP129,Google PPC,Google,PPC,SaaS,1382.4,5806.08,195480,39096,9774,19548,7819.2,781.92,44,Business Owners,Drive Website Traffic,Mobile,India,Completed
+02-Feb-26,CMP130,LinkedIn B2B Awareness,LinkedIn,Brand Awareness,E-Commerce,3826.89,16072.938,177630,35526,8881.5,17763,7105.2,710.52,6,Online Shoppers,Increase Brand Awareness,Desktop,Singapore,Active
+02-Feb-26,CMP131,Twitter Engagement,Twitter,Engagement,Retail,140.49,590.058,152495,30499,7624.75,15249.5,6099.8,609.98,4,Young Adults,Increase Engagement,Desktop,Malaysia,Completed
+02-Feb-26,CMP132,ShareChat Reach,ShareChat,Brand Awareness,Real Estate,1741.23,7313.166,566140,113228,28307,56614,22645.6,2264.56,5,High-Income Professionals,Increase Brand Awareness,Desktop,UAE,Paused
+03-Feb-26,CMP133,Facebook Conversion,Facebook,Conversion,Retail,2142.9,9000.18,201790,40358,10089.5,20179,8071.6,807.16,23,Young Adults,Drive Conversions,Mobile,India,Completed
+03-Feb-26,CMP134,ShareChat Reach,ShareChat,Brand Awareness,Healthcare,1858.86,7807.212,332395,66479,16619.75,33239.5,13295.8,1329.58,116,Parents,Increase Brand Awareness,Desktop,USA,Completed
+03-Feb-26,CMP135,Instagram Reach,Instagram,Brand Awareness,Healthcare,2784.69,11695.698,156730,31346,7836.5,15673,6269.2,626.92,17,Parents,Increase Brand Awareness,Mobile,UAE,Paused
+03-Feb-26,CMP136,Google Search Lead,Google,Lead Generation,Finance,881.55,3702.51,65635,13127,3281.75,6563.5,2625.4,262.54,9,Working Professionals,Generate Leads,Mobile,UAE,Completed
+04-Feb-26,CMP137,Instagram Lead Generation,Instagram,Lead Generation,Technology,1435.95,6030.99,72090,14418,3604.5,7209,2883.6,288.36,37,Working Professionals,Generate Leads,Tablet,USA,Completed
+04-Feb-26,CMP138,Facebook Brand Awareness,Facebook,Brand Awareness,E-Commerce,2850.57,11972.394,793450,158690,39672.5,79345,31738,3173.8,205,Online Shoppers,Increase Brand Awareness,Tablet,Singapore,Paused
+04-Feb-26,CMP139,ShareChat Lead Generation,ShareChat,Lead Generation,Education,352.53,1480.626,349270,69854,17463.5,34927,13970.8,1397.08,88,Students,Generate Leads,Tablet,Singapore,Paused
+04-Feb-26,CMP140,Facebook Lead Generation,Facebook,Lead Generation,SaaS,2670.03,11214.126,1233400,246680,61670,123340,49336,4933.6,16,Business Owners,Generate Leads,Tablet,Singapore,Paused
+05-Feb-26,CMP141,Google PPC,Google,PPC,Technology,649.53,2728.026,1223825,244765,61191.25,122382.5,48953,4895.3,165,Working Professionals,Drive Website Traffic,Tablet,Malaysia,Completed
+05-Feb-26,CMP142,ShareChat Brand Awareness,ShareChat,Brand Awareness,SaaS,2879.01,12091.842,327985,65597,16399.25,32798.5,13119.4,1311.94,117,Business Owners,Increase Brand Awareness,Desktop,Malaysia,Paused
+05-Feb-26,CMP143,LinkedIn Enterprise,LinkedIn,Lead Generation,E-Commerce,2280.33,9577.386,297730,59546,14886.5,29773,11909.2,1190.92,73,Online Shoppers,Generate Leads,Mobile,Malaysia,Paused
+05-Feb-26,CMP144,ShareChat Engagement,ShareChat,Engagement,Healthcare,2255.67,9473.814,650630,130126,32531.5,65063,26025.2,2602.52,76,Parents,Increase Engagement,Mobile,Australia,Completed
+06-Feb-26,CMP145,LinkedIn Enterprise,LinkedIn,Lead Generation,Education,1137.42,4777.164,790765,158153,39538.25,79076.5,31630.6,3163.06,123,Students,Generate Leads,Mobile,India,Paused
+06-Feb-26,CMP146,LinkedIn B2B Awareness,LinkedIn,Brand Awareness,Technology,3382.56,14206.752,58305,11661,2915.25,5830.5,2332.2,233.22,9,Working Professionals,Increase Brand Awareness,Tablet,Canada,Active
+06-Feb-26,CMP147,Facebook Conversion,Facebook,Conversion,Retail,1798.83,7555.086,184830,36966,9241.5,18483,7393.2,739.32,2,Young Adults,Drive Conversions,Tablet,USA,Active
+06-Feb-26,CMP148,Facebook Conversion,Facebook,Conversion,Real Estate,2873.52,12068.784,1996405,399281,99820.25,199640.5,79856.2,7985.62,40,High-Income Professionals,Drive Conversions,Tablet,India,Completed
+07-Feb-26,CMP149,Twitter Lead Generation,Twitter,Lead Generation,Technology,1325.34,5566.428,503510,100702,25175.5,50351,20140.4,2014.04,333,Working Professionals,Generate Leads,Desktop,UK,Completed
+07-Feb-26,CMP150,ShareChat Engagement,ShareChat,Engagement,Real Estate,2914.2,12239.64,320950,64190,16047.5,32095,12838,1283.8,158,High-Income Professionals,Increase Engagement,Tablet,Singapore,Active
+07-Feb-26,CMP151,Twitter Engagement,Twitter,Engagement,Retail,2108.43,8855.406,316320,63264,15816,31632,12652.8,1265.28,32,Young Adults,Increase Engagement,Mobile,UAE,Completed
+07-Feb-26,CMP152,Instagram Reach,Instagram,Brand Awareness,E-Commerce,3744.45,15726.69,1053510,210702,52675.5,105351,42140.4,4214.04,181,Online Shoppers,Increase Brand Awareness,Mobile,Canada,Completed
+08-Feb-26,CMP153,Twitter Engagement,Twitter,Engagement,Healthcare,515.52,2165.184,168180,33636,8409,16818,6727.2,672.72,1,Parents,Increase Engagement,Tablet,Singapore,Paused
+08-Feb-26,CMP154,ShareChat Lead Generation,ShareChat,Lead Generation,Healthcare,4118.94,17299.548,802825,160565,40141.25,80282.5,32113,3211.3,60,Parents,Generate Leads,Tablet,UAE,Active
+08-Feb-26,CMP155,Instagram Conversion,Instagram,Conversion,Healthcare,915.39,3844.638,1469885,293977,73494.25,146988.5,58795.4,5879.54,44,Parents,Drive Conversions,Mobile,Australia,Paused
+08-Feb-26,CMP156,LinkedIn B2B Lead Generation,LinkedIn,Lead Generation,Technology,459.99,1931.958,902970,180594,45148.5,90297,36118.8,3611.88,107,Working Professionals,Generate Leads,Tablet,UAE,Completed
+09-Feb-26,CMP157,Google Conversion,Google,Conversion,Retail,3156.57,13257.594,2014945,402989,100747.25,201494.5,80597.8,8059.78,1,Young Adults,Drive Conversions,Tablet,Canada,Active
+09-Feb-26,CMP158,Facebook Brand Awareness,Facebook,Brand Awareness,Technology,2628.99,11041.758,470120,94024,23506,47012,18804.8,1880.48,7,Working Professionals,Increase Brand Awareness,Mobile,India,Paused
+09-Feb-26,CMP159,Google Search Lead,Google,Lead Generation,Education,145.8,612.36,317670,63534,15883.5,31767,12706.8,1270.68,61,Students,Generate Leads,Tablet,USA,Paused
+09-Feb-26,CMP160,Facebook Brand Awareness,Facebook,Brand Awareness,Healthcare,1652.58,6940.836,287815,57563,14390.75,28781.5,11512.6,1151.26,38,Parents,Increase Brand Awareness,Mobile,UK,Completed
+10-Feb-26,CMP161,Google PPC,Google,PPC,Real Estate,1475.01,6195.042,8985,1797,449.25,898.5,359.4,35.94,30,High-Income Professionals,Drive Website Traffic,Desktop,UAE,Paused
+10-Feb-26,CMP162,Instagram Lead Generation,Instagram,Lead Generation,Retail,2817.72,11834.424,350020,70004,17501,35002,14000.8,1400.08,10,Young Adults,Generate Leads,Tablet,UK,Active
+10-Feb-26,CMP163,Google Website Traffic,Google,Traffic,Real Estate,2971.98,12482.316,1169985,233997,58499.25,116998.5,46799.4,4679.94,78,High-Income Professionals,Drive Website Traffic,Desktop,Singapore,Active
+10-Feb-26,CMP164,Facebook Brand Awareness,Facebook,Brand Awareness,Healthcare,264.15,1109.43,305725,61145,15286.25,30572.5,12229,1222.9,59,Parents,Increase Brand Awareness,Tablet,UK,Active
+11-Feb-26,CMP165,Facebook Brand Awareness,Facebook,Brand Awareness,SaaS,4136.85,17374.77,259130,51826,12956.5,25913,10365.2,1036.52,102,Business Owners,Increase Brand Awareness,Tablet,Singapore,Active
+11-Feb-26,CMP166,ShareChat Engagement,ShareChat,Engagement,Real Estate,2384.91,10016.622,1047330,209466,52366.5,104733,41893.2,4189.32,23,High-Income Professionals,Increase Engagement,Tablet,Canada,Active
+11-Feb-26,CMP167,ShareChat Reach,ShareChat,Brand Awareness,Healthcare,2866.59,12039.678,881470,176294,44073.5,88147,35258.8,3525.88,30,Parents,Increase Brand Awareness,Desktop,Malaysia,Active
+11-Feb-26,CMP168,LinkedIn B2B Lead Generation,LinkedIn,Lead Generation,E-Commerce,3382.65,14207.13,1535665,307133,76783.25,153566.5,61426.6,6142.66,34,Online Shoppers,Generate Leads,Desktop,UK,Completed
+12-Feb-26,CMP169,LinkedIn Enterprise,LinkedIn,Lead Generation,Real Estate,4309.56,18100.152,676650,135330,33832.5,67665,27066,2706.6,121,High-Income Professionals,Generate Leads,Tablet,Singapore,Active
+12-Feb-26,CMP170,Google Conversion,Google,Conversion,Healthcare,2173.86,9130.212,1703630,340726,85181.5,170363,68145.2,6814.52,128,Parents,Drive Conversions,Desktop,UAE,Active
+12-Feb-26,CMP171,Instagram Reach,Instagram,Brand Awareness,Finance,2874.24,12071.808,669210,133842,33460.5,66921,26768.4,2676.84,15,Working Professionals,Increase Brand Awareness,Tablet,Canada,Paused
+12-Feb-26,CMP172,Instagram Reach,Instagram,Brand Awareness,Education,642.06,2696.652,113335,22667,5666.75,11333.5,4533.4,453.34,93,Students,Increase Brand Awareness,Tablet,USA,Active
+13-Feb-26,CMP173,ShareChat Engagement,ShareChat,Engagement,Finance,3140.82,13191.444,555580,111116,27779,55558,22223.2,2222.32,100,Working Professionals,Increase Engagement,Desktop,Singapore,Active
+13-Feb-26,CMP174,Instagram Lead Generation,Instagram,Lead Generation,Healthcare,1874.61,7873.362,660015,132003,33000.75,66001.5,26400.6,2640.06,213,Parents,Generate Leads,Mobile,Singapore,Active
+13-Feb-26,CMP175,LinkedIn B2B Lead Campaign,LinkedIn,Lead Generation,Healthcare,1339.29,5625.018,1367980,273596,68399,136798,54719.2,5471.92,180,Parents,Generate Leads,Desktop,Malaysia,Paused
+13-Feb-26,CMP176,Instagram Reach,Instagram,Brand Awareness,Real Estate,3262.68,13703.256,811340,162268,40567,81134,32453.6,3245.36,87,High-Income Professionals,Increase Brand Awareness,Tablet,Singapore,Completed
+14-Feb-26,CMP177,Twitter Brand Awareness,Twitter,Brand Awareness,E-Commerce,2972.16,12483.072,52480,10496,2624,5248,2099.2,209.92,68,Online Shoppers,Increase Brand Awareness,Mobile,UK,Paused
+14-Feb-26,CMP178,LinkedIn B2B Awareness,LinkedIn,Brand Awareness,Healthcare,3609.63,15160.446,484235,96847,24211.75,48423.5,19369.4,1936.94,22,Parents,Increase Brand Awareness,Desktop,USA,Paused
+14-Feb-26,CMP179,LinkedIn B2B Awareness,LinkedIn,Brand Awareness,Finance,3496.68,14686.056,267560,53512,13378,26756,10702.4,1070.24,17,Working Professionals,Increase Brand Awareness,Mobile,Singapore,Active
+14-Feb-26,CMP180,ShareChat Lead Generation,ShareChat,Lead Generation,Technology,3538.71,14862.582,459970,91994,22998.5,45997,18398.8,1839.88,201,Working Professionals,Generate Leads,Tablet,Malaysia,Completed
+15-Feb-26,CMP181,Instagram Engagement,Instagram,Engagement,Finance,99.45,417.69,436775,87355,21838.75,43677.5,17471,1747.1,14,Working Professionals,Increase Engagement,Desktop,Canada,Active
+15-Feb-26,CMP182,Twitter Brand Awareness,Twitter,Brand Awareness,Real Estate,229.77,965.034,476720,95344,23836,47672,19068.8,1906.88,21,High-Income Professionals,Increase Brand Awareness,Desktop,India,Completed
+15-Feb-26,CMP183,Facebook Brand Awareness,Facebook,Brand Awareness,Technology,2955.78,12414.276,147550,29510,7377.5,14755,5902,590.2,14,Working Professionals,Increase Brand Awareness,Mobile,UK,Active
+15-Feb-26,CMP184,LinkedIn B2B Lead Generation,LinkedIn,Lead Generation,SaaS,2391.93,10046.106,386555,77311,19327.75,38655.5,15462.2,1546.22,7,Business Owners,Generate Leads,Tablet,Canada,Active
+16-Feb-26,CMP185,Instagram Conversion,Instagram,Conversion,Retail,3158.64,13266.288,948580,189716,47429,94858,37943.2,3794.32,172,Young Adults,Drive Conversions,Tablet,Singapore,Completed
+16-Feb-26,CMP186,Twitter Conversion,Twitter,Conversion,Education,4491.36,18863.712,1340755,268151,67037.75,134075.5,53630.2,5363.02,36,Students,Drive Conversions,Desktop,USA,Active
+16-Feb-26,CMP187,Google Search Lead,Google,Lead Generation,Healthcare,441,1852.2,1233210,246642,61660.5,123321,49328.4,4932.84,30,Parents,Generate Leads,Desktop,India,Paused
+16-Feb-26,CMP188,Twitter Engagement,Twitter,Engagement,Healthcare,2367.9,9945.18,233740,46748,11687,23374,9349.6,934.96,110,Parents,Increase Engagement,Mobile,Singapore,Active
+17-Feb-26,CMP189,Facebook Brand Awareness,Facebook,Brand Awareness,Technology,2990.43,12559.806,1218985,243797,60949.25,121898.5,48759.4,4875.94,6,Working Professionals,Increase Brand Awareness,Mobile,Malaysia,Paused
+17-Feb-26,CMP190,ShareChat Brand Awareness,ShareChat,Brand Awareness,SaaS,3163.32,13285.944,758735,151747,37936.75,75873.5,30349.4,3034.94,39,Business Owners,Increase Brand Awareness,Tablet,USA,Completed
+17-Feb-26,CMP191,Twitter Brand Awareness,Twitter,Brand Awareness,Retail,766.98,3221.316,1596005,319201,79800.25,159600.5,63840.2,6384.02,42,Young Adults,Increase Brand Awareness,Desktop,Malaysia,Active
+17-Feb-26,CMP192,Facebook Website Traffic,Facebook,Traffic,Retail,1330.11,5586.462,25175,5035,1258.75,2517.5,1007,100.7,6,Young Adults,Drive Website Traffic,Desktop,UAE,Active
+18-Feb-26,CMP193,Facebook Lead Generation,Facebook,Lead Generation,Education,2437.74,10238.508,324170,64834,16208.5,32417,12966.8,1296.68,1,Students,Generate Leads,Tablet,India,Active
+18-Feb-26,CMP194,ShareChat Lead Generation,ShareChat,Lead Generation,SaaS,3240.45,13609.89,172480,34496,8624,17248,6899.2,689.92,32,Business Owners,Generate Leads,Tablet,Canada,Active
+18-Feb-26,CMP195,Facebook Conversion,Facebook,Conversion,Healthcare,2791.89,11725.938,403970,80794,20198.5,40397,16158.8,1615.88,12,Parents,Drive Conversions,Desktop,UAE,Completed
+18-Feb-26,CMP196,Facebook Conversion,Facebook,Conversion,Real Estate,4099.68,17218.656,98245,19649,4912.25,9824.5,3929.8,392.98,16,High-Income Professionals,Drive Conversions,Tablet,Australia,Active
+19-Feb-26,CMP197,Instagram Engagement,Instagram,Engagement,Retail,2147.22,9018.324,137600,27520,6880,13760,5504,550.4,1,Young Adults,Increase Engagement,Desktop,Malaysia,Completed
+19-Feb-26,CMP198,LinkedIn B2B Lead Campaign,LinkedIn,Lead Generation,Retail,211.68,889.056,9895,1979,494.75,989.5,395.8,39.58,11,Young Adults,Generate Leads,Desktop,Canada,Completed
+19-Feb-26,CMP199,Instagram Lead Generation,Instagram,Lead Generation,Technology,2157.84,9062.928,1134985,226997,56749.25,113498.5,45399.4,4539.94,34,Working Professionals,Generate Leads,Tablet,India,Active
+19-Feb-26,CMP200,Google Search Lead,Google,Lead Generation,Real Estate,4489.65,18856.53,113500,22700,5675,11350,4540,454,54,High-Income Professionals,Generate Leads,Tablet,UAE,Active
+20-Feb-26,CMP201,ShareChat Lead Generation,ShareChat,Lead Generation,Healthcare,3987.72,16748.424,120430,24086,6021.5,12043,4817.2,481.72,5,Parents,Generate Leads,Mobile,Australia,Completed
+20-Feb-26,CMP202,Google Website Traffic,Google,Traffic,Finance,3888.18,16330.356,703570,140714,35178.5,70357,28142.8,2814.28,42,Working Professionals,Drive Website Traffic,Tablet,Australia,Paused
+20-Feb-26,CMP203,Twitter Conversion,Twitter,Conversion,Healthcare,2002.95,8412.39,974265,194853,48713.25,97426.5,38970.6,3897.06,14,Parents,Drive Conversions,Mobile,Malaysia,Completed
+20-Feb-26,CMP204,Instagram Lead Generation,Instagram,Lead Generation,Finance,3528.81,14821.002,316135,63227,15806.75,31613.5,12645.4,1264.54,54,Working Professionals,Generate Leads,Desktop,India,Paused
+21-Feb-26,CMP205,Facebook Conversion,Facebook,Conversion,Retail,1749.69,7348.698,1938810,387762,96940.5,193881,77552.4,7755.24,38,Young Adults,Drive Conversions,Mobile,UAE,Paused
+21-Feb-26,CMP206,Instagram Lead Generation,Instagram,Lead Generation,Finance,4073.85,17110.17,24380,4876,1219,2438,975.2,97.52,14,Working Professionals,Generate Leads,Mobile,Singapore,Paused
+21-Feb-26,CMP207,Google Website Traffic,Google,Traffic,Education,2942.91,12360.222,46950,9390,2347.5,4695,1878,187.8,1,Students,Drive Website Traffic,Mobile,Singapore,Paused
+21-Feb-26,CMP208,Instagram Engagement,Instagram,Engagement,Real Estate,386.55,1623.51,2055770,411154,102788.5,205577,82230.8,8223.08,182,High-Income Professionals,Increase Engagement,Mobile,India,Active
+22-Feb-26,CMP209,Google Search Lead,Google,Lead Generation,Retail,620.82,2607.444,244910,48982,12245.5,24491,9796.4,979.64,2,Young Adults,Generate Leads,Desktop,USA,Completed
+22-Feb-26,CMP210,Twitter Engagement,Twitter,Engagement,Finance,2440.71,10250.982,2127085,425417,106354.25,212708.5,85083.4,8508.34,158,Working Professionals,Increase Engagement,Mobile,USA,Paused
+22-Feb-26,CMP211,Instagram Engagement,Instagram,Engagement,Retail,1985.58,8339.436,658300,131660,32915,65830,26332,2633.2,21,Young Adults,Increase Engagement,Tablet,Canada,Active
+22-Feb-26,CMP212,Instagram Lead Generation,Instagram,Lead Generation,Finance,3878.55,16289.91,1680070,336014,84003.5,168007,67202.8,6720.28,34,Working Professionals,Generate Leads,Desktop,Malaysia,Active
+23-Feb-26,CMP213,Facebook Website Traffic,Facebook,Traffic,Healthcare,885.78,3720.276,547625,109525,27381.25,54762.5,21905,2190.5,26,Parents,Drive Website Traffic,Desktop,Australia,Active
+23-Feb-26,CMP214,Google Search Lead,Google,Lead Generation,Retail,4008.51,16835.742,2432320,486464,121616,243232,97292.8,9729.28,68,Young Adults,Generate Leads,Desktop,UAE,Completed
+23-Feb-26,CMP215,ShareChat Brand Awareness,ShareChat,Brand Awareness,Healthcare,2182.68,9167.256,1157485,231497,57874.25,115748.5,46299.4,4629.94,69,Parents,Increase Brand Awareness,Desktop,UAE,Completed
+23-Feb-26,CMP216,Instagram Reach,Instagram,Brand Awareness,Education,2225.07,9345.294,233355,46671,11667.75,23335.5,9334.2,933.42,30,Students,Increase Brand Awareness,Desktop,USA,Active
+24-Feb-26,CMP217,Facebook Conversion,Facebook,Conversion,Education,654.21,2747.682,562300,112460,28115,56230,22492,2249.2,133,Students,Drive Conversions,Desktop,Singapore,Active
+24-Feb-26,CMP218,Google Search Lead,Google,Lead Generation,Retail,3930.21,16506.882,1234435,246887,61721.75,123443.5,49377.4,4937.74,12,Young Adults,Generate Leads,Tablet,UK,Completed
+24-Feb-26,CMP219,Twitter Conversion,Twitter,Conversion,Healthcare,3670.11,15414.462,199560,39912,9978,19956,7982.4,798.24,17,Parents,Drive Conversions,Tablet,Australia,Paused
+24-Feb-26,CMP220,LinkedIn Enterprise,LinkedIn,Lead Generation,Education,2025.09,8505.378,448735,89747,22436.75,44873.5,17949.4,1794.94,32,Students,Generate Leads,Tablet,Singapore,Active
+25-Feb-26,CMP221,LinkedIn B2B Lead Generation,LinkedIn,Lead Generation,Education,2352.24,9879.408,248950,49790,12447.5,24895,9958,995.8,23,Students,Generate Leads,Tablet,UAE,Completed
+25-Feb-26,CMP222,Google Website Traffic,Google,Traffic,SaaS,2993.58,12573.036,722605,144521,36130.25,72260.5,28904.2,2890.42,48,Business Owners,Drive Website Traffic,Desktop,USA,Active
+25-Feb-26,CMP223,Twitter Lead Generation,Twitter,Lead Generation,E-Commerce,118.17,496.314,103555,20711,5177.75,10355.5,4142.2,414.22,6,Online Shoppers,Generate Leads,Mobile,UK,Completed
+25-Feb-26,CMP224,Instagram Conversion,Instagram,Conversion,Technology,720.99,3028.158,931895,186379,46594.75,93189.5,37275.8,3727.58,7,Working Professionals,Drive Conversions,Tablet,Malaysia,Completed
+26-Feb-26,CMP225,LinkedIn B2B Lead Generation,LinkedIn,Lead Generation,Healthcare,1359.99,5711.958,299810,59962,14990.5,29981,11992.4,1199.24,20,Parents,Generate Leads,Tablet,Malaysia,Active
+26-Feb-26,CMP226,Google PPC,Google,PPC,SaaS,4002.39,16810.038,18660,3732,933,1866,746.4,74.64,16,Business Owners,Drive Website Traffic,Tablet,UAE,Completed
+26-Feb-26,CMP227,Facebook Website Traffic,Facebook,Traffic,Retail,1912.95,8034.39,424525,84905,21226.25,42452.5,16981,1698.1,71,Young Adults,Drive Website Traffic,Tablet,UAE,Completed
+26-Feb-26,CMP228,Facebook Brand Awareness,Facebook,Brand Awareness,Education,3570.03,14994.126,1970980,394196,98549,197098,78839.2,7883.92,22,Students,Increase Brand Awareness,Desktop,India,Paused
+27-Feb-26,CMP229,Facebook Brand Awareness,Facebook,Brand Awareness,Real Estate,243.36,1022.112,1659300,331860,82965,165930,66372,6637.2,48,High-Income Professionals,Increase Brand Awareness,Desktop,USA,Paused
+27-Feb-26,CMP230,ShareChat Brand Awareness,ShareChat,Brand Awareness,Technology,920.61,3866.562,175175,35035,8758.75,17517.5,7007,700.7,152,Working Professionals,Increase Brand Awareness,Desktop,UK,Active
+27-Feb-26,CMP231,Twitter Brand Awareness,Twitter,Brand Awareness,E-Commerce,4406.49,18507.258,1375280,275056,68764,137528,55011.2,5501.12,10,Online Shoppers,Increase Brand Awareness,Tablet,Canada,Completed
+27-Feb-26,CMP232,Twitter Brand Awareness,Twitter,Brand Awareness,Healthcare,3920.13,16464.546,388690,77738,19434.5,38869,15547.6,1554.76,9,Parents,Increase Brand Awareness,Mobile,UAE,Completed
+28-Feb-26,CMP233,Google PPC,Google,PPC,SaaS,2080.89,8739.738,1719990,343998,85999.5,171999,68799.6,6879.96,91,Business Owners,Drive Website Traffic,Tablet,Malaysia,Active
+28-Feb-26,CMP234,LinkedIn B2B Awareness,LinkedIn,Brand Awareness,E-Commerce,875.52,3677.184,1468480,293696,73424,146848,58739.2,5873.92,105,Online Shoppers,Increase Brand Awareness,Tablet,Singapore,Completed
+28-Feb-26,CMP235,Twitter Brand Awareness,Twitter,Brand Awareness,Technology,3744.54,15727.068,125305,25061,6265.25,12530.5,5012.2,501.22,19,Working Professionals,Increase Brand Awareness,Desktop,UK,Active
+28-Feb-26,CMP236,Google PPC,Google,PPC,E-Commerce,2064.24,8669.808,371390,74278,18569.5,37139,14855.6,1485.56,96,Online Shoppers,Drive Website Traffic,Tablet,UAE,Paused
+01-Mar-26,CMP237,Google Conversion,Google,Conversion,Real Estate,1576.71,6953.2911,59775,11955,2988.75,5977.5,2391,239.1,32,High-Income Professionals,Drive Conversions,Desktop,USA,Paused
+01-Mar-26,CMP238,Twitter Conversion,Twitter,Conversion,Retail,2534.76,11178.2916,243365,48673,12168.25,24336.5,9734.6,973.46,229,Young Adults,Drive Conversions,Desktop,UAE,Active
+01-Mar-26,CMP239,Instagram Conversion,Instagram,Conversion,Education,2681.73,11826.4293,76805,15361,3840.25,7680.5,3072.2,307.22,22,Students,Drive Conversions,Desktop,UK,Active
+01-Mar-26,CMP240,Facebook Brand Awareness,Facebook,Brand Awareness,Education,482.49,2127.7809,541220,108244,27061,54122,21648.8,2164.88,25,Students,Increase Brand Awareness,Tablet,India,Paused
+02-Mar-26,CMP241,Facebook Website Traffic,Facebook,Traffic,Healthcare,189.9,837.459,177475,35495,8873.75,17747.5,7099,709.9,7,Parents,Drive Website Traffic,Tablet,UK,Paused
+02-Mar-26,CMP242,Instagram Conversion,Instagram,Conversion,E-Commerce,1830.06,8070.5646,190630,38126,9531.5,19063,7625.2,762.52,20,Online Shoppers,Drive Conversions,Mobile,Singapore,Active
+02-Mar-26,CMP243,Facebook Brand Awareness,Facebook,Brand Awareness,Real Estate,3395.97,14976.2277,5215,1043,260.75,521.5,208.6,20.86,1,High-Income Professionals,Increase Brand Awareness,Tablet,Canada,Completed
+02-Mar-26,CMP244,LinkedIn B2B Lead Generation,LinkedIn,Lead Generation,Education,249.39,1099.8099,2018835,403767,100941.75,201883.5,80753.4,8075.34,58,Students,Generate Leads,Tablet,USA,Active
+03-Mar-26,CMP245,Facebook Brand Awareness,Facebook,Brand Awareness,Finance,2402.82,10596.4362,179960,35992,8998,17996,7198.4,719.84,3,Working Professionals,Increase Brand Awareness,Mobile,India,Active
+03-Mar-26,CMP246,Twitter Engagement,Twitter,Engagement,Healthcare,1336.23,5892.7743,13520,2704,676,1352,540.8,54.08,14,Parents,Increase Engagement,Desktop,UAE,Active
+03-Mar-26,CMP247,Google PPC,Google,PPC,E-Commerce,134.37,592.5717,188665,37733,9433.25,18866.5,7546.6,754.66,15,Online Shoppers,Drive Website Traffic,Mobile,India,Active
+03-Mar-26,CMP248,Twitter Lead Generation,Twitter,Lead Generation,Education,2038.68,8990.5788,921505,184301,46075.25,92150.5,36860.2,3686.02,226,Students,Generate Leads,Desktop,Australia,Active
+04-Mar-26,CMP249,ShareChat Engagement,ShareChat,Engagement,Retail,2125.53,9373.5873,290750,58150,14537.5,29075,11630,1163,9,Young Adults,Increase Engagement,Desktop,Malaysia,Paused
+04-Mar-26,CMP250,LinkedIn Enterprise,LinkedIn,Lead Generation,Finance,4448.34,19617.1794,35355,7071,1767.75,3535.5,1414.2,141.42,18,Working Professionals,Generate Leads,Mobile,India,Completed
+04-Mar-26,CMP251,LinkedIn Enterprise,LinkedIn,Lead Generation,Real Estate,3003.57,13245.7437,435775,87155,21788.75,43577.5,17431,1743.1,40,High-Income Professionals,Generate Leads,Mobile,Malaysia,Paused
+04-Mar-26,CMP252,Facebook Lead Generation,Facebook,Lead Generation,Healthcare,2664,11748.24,982740,196548,49137,98274,39309.6,3930.96,225,Parents,Generate Leads,Mobile,Australia,Active
+05-Mar-26,CMP253,Google PPC,Google,PPC,Healthcare,1298.16,5724.8856,1162430,232486,58121.5,116243,46497.2,4649.72,84,Parents,Drive Website Traffic,Desktop,India,Paused
+05-Mar-26,CMP254,LinkedIn B2B Lead Generation,LinkedIn,Lead Generation,Real Estate,408.51,1801.5291,960730,192146,48036.5,96073,38429.2,3842.92,48,High-Income Professionals,Generate Leads,Desktop,USA,Paused
+05-Mar-26,CMP255,Facebook Lead Generation,Facebook,Lead Generation,Real Estate,4077.36,17981.1576,559275,111855,27963.75,55927.5,22371,2237.1,49,High-Income Professionals,Generate Leads,Desktop,Australia,Completed
+05-Mar-26,CMP256,Twitter Conversion,Twitter,Conversion,SaaS,984.87,4343.2767,24490,4898,1224.5,2449,979.6,97.96,13,Business Owners,Drive Conversions,Desktop,UK,Active
+06-Mar-26,CMP257,Facebook Lead Generation,Facebook,Lead Generation,Technology,3227.13,14231.6433,51680,10336,2584,5168,2067.2,206.72,2,Working Professionals,Generate Leads,Mobile,USA,Completed
+06-Mar-26,CMP258,LinkedIn Enterprise,LinkedIn,Lead Generation,Real Estate,2615.58,11534.7078,452555,90511,22627.75,45255.5,18102.2,1810.22,14,High-Income Professionals,Generate Leads,Desktop,India,Active
+06-Mar-26,CMP259,Twitter Conversion,Twitter,Conversion,Healthcare,206.37,910.0917,985300,197060,49265,98530,39412,3941.2,4,Parents,Drive Conversions,Desktop,Singapore,Completed
+06-Mar-26,CMP260,LinkedIn B2B Awareness,LinkedIn,Brand Awareness,Education,873.27,3851.1207,1886285,377257,94314.25,188628.5,75451.4,7545.14,46,Students,Increase Brand Awareness,Mobile,Canada,Completed
+07-Mar-26,CMP261,Facebook Lead Generation,Facebook,Lead Generation,Technology,2996.82,13215.9762,47450,9490,2372.5,4745,1898,189.8,52,Working Professionals,Generate Leads,Tablet,USA,Paused
+07-Mar-26,CMP262,ShareChat Brand Awareness,ShareChat,Brand Awareness,Real Estate,446.49,1969.0209,849215,169843,42460.75,84921.5,33968.6,3396.86,15,High-Income Professionals,Increase Brand Awareness,Desktop,Australia,Active
+07-Mar-26,CMP263,Facebook Brand Awareness,Facebook,Brand Awareness,Finance,2864.79,12633.7239,257255,51451,12862.75,25725.5,10290.2,1029.02,5,Working Professionals,Increase Brand Awareness,Desktop,UAE,Active
+07-Mar-26,CMP264,Google PPC,Google,PPC,Technology,2275.11,10033.2351,1230495,246099,61524.75,123049.5,49219.8,4921.98,110,Working Professionals,Drive Website Traffic,Desktop,UAE,Paused
+08-Mar-26,CMP265,LinkedIn Enterprise,LinkedIn,Lead Generation,SaaS,3587.67,15821.6247,57060,11412,2853,5706,2282.4,228.24,3,Business Owners,Generate Leads,Tablet,UK,Completed
+08-Mar-26,CMP266,Facebook Website Traffic,Facebook,Traffic,Healthcare,1637.91,7223.1831,92725,18545,4636.25,9272.5,3709,370.9,43,Parents,Drive Website Traffic,Mobile,Singapore,Completed
+08-Mar-26,CMP267,Google Website Traffic,Google,Traffic,SaaS,1719.54,7583.1714,444315,88863,22215.75,44431.5,17772.6,1777.26,103,Business Owners,Drive Website Traffic,Desktop,Australia,Completed
+08-Mar-26,CMP268,ShareChat Engagement,ShareChat,Engagement,Healthcare,4245.66,18723.3606,134755,26951,6737.75,13475.5,5390.2,539.02,15,Parents,Increase Engagement,Mobile,UK,Completed
+09-Mar-26,CMP269,Google PPC,Google,PPC,Retail,2663.37,11745.4617,75600,15120,3780,7560,3024,302.4,13,Young Adults,Drive Website Traffic,Desktop,Canada,Paused
+09-Mar-26,CMP270,Twitter Engagement,Twitter,Engagement,SaaS,1678.59,7402.5819,701700,140340,35085,70170,28068,2806.8,14,Business Owners,Increase Engagement,Desktop,Malaysia,Active
+09-Mar-26,CMP271,Instagram Lead Generation,Instagram,Lead Generation,Finance,621.63,2741.3883,43115,8623,2155.75,4311.5,1724.6,172.46,65,Working Professionals,Generate Leads,Mobile,USA,Paused
+09-Mar-26,CMP272,Google Search Lead,Google,Lead Generation,E-Commerce,719.19,3171.6279,1385280,277056,69264,138528,55411.2,5541.12,83,Online Shoppers,Generate Leads,Desktop,USA,Active
+10-Mar-26,CMP273,Twitter Brand Awareness,Twitter,Brand Awareness,Healthcare,3277.89,14455.4949,494655,98931,24732.75,49465.5,19786.2,1978.62,37,Parents,Increase Brand Awareness,Tablet,Canada,Completed
+10-Mar-26,CMP274,Twitter Conversion,Twitter,Conversion,Education,2919.06,12873.0546,554450,110890,27722.5,55445,22178,2217.8,23,Students,Drive Conversions,Mobile,USA,Active
+10-Mar-26,CMP275,Instagram Engagement,Instagram,Engagement,Real Estate,3207.15,14143.5315,853150,170630,42657.5,85315,34126,3412.6,191,High-Income Professionals,Increase Engagement,Desktop,Australia,Completed
+10-Mar-26,CMP276,ShareChat Lead Generation,ShareChat,Lead Generation,E-Commerce,1407.42,6206.7222,166525,33305,8326.25,16652.5,6661,666.1,8,Online Shoppers,Generate Leads,Mobile,Malaysia,Active
+11-Mar-26,CMP277,ShareChat Lead Generation,ShareChat,Lead Generation,Technology,4154.04,18319.3164,315940,63188,15797,31594,12637.6,1263.76,12,Working Professionals,Generate Leads,Tablet,Singapore,Active
+11-Mar-26,CMP278,LinkedIn B2B Lead Generation,LinkedIn,Lead Generation,Finance,2655,11708.55,165295,33059,8264.75,16529.5,6611.8,661.18,3,Working Professionals,Generate Leads,Tablet,USA,Paused
+11-Mar-26,CMP279,Instagram Lead Generation,Instagram,Lead Generation,Retail,3111.66,13722.4206,1058190,211638,52909.5,105819,42327.6,4232.76,157,Young Adults,Generate Leads,Mobile,USA,Paused
+11-Mar-26,CMP280,Google Conversion,Google,Conversion,Technology,1949.94,8599.2354,1927165,385433,96358.25,192716.5,77086.6,7708.66,184,Working Professionals,Drive Conversions,Mobile,Australia,Paused
+12-Mar-26,CMP281,Facebook Website Traffic,Facebook,Traffic,E-Commerce,3396.51,14978.6091,492235,98447,24611.75,49223.5,19689.4,1968.94,108,Online Shoppers,Drive Website Traffic,Mobile,India,Active
+12-Mar-26,CMP282,ShareChat Brand Awareness,ShareChat,Brand Awareness,Finance,618.12,2725.9092,100145,20029,5007.25,10014.5,4005.8,400.58,7,Working Professionals,Increase Brand Awareness,Tablet,UK,Completed
+12-Mar-26,CMP283,Google Website Traffic,Google,Traffic,E-Commerce,2737.8,12073.698,556645,111329,27832.25,55664.5,22265.8,2226.58,108,Online Shoppers,Drive Website Traffic,Tablet,Canada,Completed
+12-Mar-26,CMP284,Twitter Conversion,Twitter,Conversion,Education,3993.48,17611.2468,192850,38570,9642.5,19285,7714,771.4,3,Students,Drive Conversions,Mobile,India,Paused
+13-Mar-26,CMP285,Twitter Lead Generation,Twitter,Lead Generation,Healthcare,3371.67,14869.0647,181735,36347,9086.75,18173.5,7269.4,726.94,19,Parents,Generate Leads,Tablet,Australia,Active
+13-Mar-26,CMP286,Instagram Reach,Instagram,Brand Awareness,E-Commerce,3089.07,13622.7987,932375,186475,46618.75,93237.5,37295,3729.5,66,Online Shoppers,Increase Brand Awareness,Desktop,USA,Completed
+13-Mar-26,CMP287,Facebook Website Traffic,Facebook,Traffic,Healthcare,2331.54,10282.0914,385980,77196,19299,38598,15439.2,1543.92,35,Parents,Drive Website Traffic,Tablet,USA,Completed
+13-Mar-26,CMP288,Instagram Lead Generation,Instagram,Lead Generation,Education,1861.38,8208.6858,1334530,266906,66726.5,133453,53381.2,5338.12,103,Students,Generate Leads,Mobile,USA,Active
+14-Mar-26,CMP289,LinkedIn B2B Lead Generation,LinkedIn,Lead Generation,SaaS,2583.27,11392.2207,1136840,227368,56842,113684,45473.6,4547.36,34,Business Owners,Generate Leads,Mobile,UK,Completed
+14-Mar-26,CMP290,ShareChat Reach,ShareChat,Brand Awareness,Retail,1946.34,8583.3594,1650785,330157,82539.25,165078.5,66031.4,6603.14,65,Young Adults,Increase Brand Awareness,Tablet,Australia,Completed
+14-Mar-26,CMP291,ShareChat Engagement,ShareChat,Engagement,Technology,3248.46,14325.7086,1224325,244865,61216.25,122432.5,48973,4897.3,114,Working Professionals,Increase Engagement,Tablet,Malaysia,Active
+14-Mar-26,CMP292,ShareChat Brand Awareness,ShareChat,Brand Awareness,Real Estate,2229.48,9832.0068,1884600,376920,94230,188460,75384,7538.4,12,High-Income Professionals,Increase Brand Awareness,Desktop,USA,Completed
+15-Mar-26,CMP293,Twitter Lead Generation,Twitter,Lead Generation,Healthcare,4424.04,19510.0164,26660,5332,1333,2666,1066.4,106.64,56,Parents,Generate Leads,Tablet,Canada,Paused
+15-Mar-26,CMP294,Google Website Traffic,Google,Traffic,Healthcare,297.36,1311.3576,565515,113103,28275.75,56551.5,22620.6,2262.06,3,Parents,Drive Website Traffic,Desktop,India,Paused
+15-Mar-26,CMP295,ShareChat Engagement,ShareChat,Engagement,E-Commerce,471.06,2077.3746,1803855,360771,90192.75,180385.5,72154.2,7215.42,19,Online Shoppers,Increase Engagement,Desktop,Canada,Paused
+15-Mar-26,CMP296,ShareChat Lead Generation,ShareChat,Lead Generation,Education,4267.71,18820.6011,34180,6836,1709,3418,1367.2,136.72,7,Students,Generate Leads,Tablet,UK,Active
+16-Mar-26,CMP297,Instagram Conversion,Instagram,Conversion,Technology,1317.33,5809.4253,92725,18545,4636.25,9272.5,3709,370.9,28,Working Professionals,Drive Conversions,Mobile,UAE,Completed
+16-Mar-26,CMP298,Google Search Lead,Google,Lead Generation,Healthcare,695.25,3066.0525,130480,26096,6524,13048,5219.2,521.92,70,Parents,Generate Leads,Tablet,UAE,Completed
+16-Mar-26,CMP299,Facebook Lead Generation,Facebook,Lead Generation,Education,4080.96,17997.0336,62375,12475,3118.75,6237.5,2495,249.5,3,Students,Generate Leads,Desktop,UAE,Paused
+16-Mar-26,CMP300,LinkedIn Enterprise,LinkedIn,Lead Generation,Healthcare,458.19,2020.6179,860990,172198,43049.5,86099,34439.6,3443.96,226,Parents,Generate Leads,Desktop,Australia,Paused
+17-Mar-26,CMP301,ShareChat Lead Generation,ShareChat,Lead Generation,Retail,1316.61,5806.2501,1371685,274337,68584.25,137168.5,54867.4,5486.74,231,Young Adults,Generate Leads,Desktop,UAE,Completed
+17-Mar-26,CMP302,Facebook Conversion,Facebook,Conversion,Real Estate,4288.95,18914.2695,388385,77677,19419.25,38838.5,15535.4,1553.54,40,High-Income Professionals,Drive Conversions,Mobile,UK,Active
+17-Mar-26,CMP303,Google Conversion,Google,Conversion,Technology,3145.05,13869.6705,788675,157735,39433.75,78867.5,31547,3154.7,177,Working Professionals,Drive Conversions,Mobile,Singapore,Active
+17-Mar-26,CMP304,Twitter Lead Generation,Twitter,Lead Generation,Retail,1835.82,8095.9662,696760,139352,34838,69676,27870.4,2787.04,176,Young Adults,Generate Leads,Tablet,UK,Active
+18-Mar-26,CMP305,LinkedIn B2B Lead Generation,LinkedIn,Lead Generation,Real Estate,689.31,3039.8571,1503110,300622,75155.5,150311,60124.4,6012.44,36,High-Income Professionals,Generate Leads,Desktop,USA,Paused
+18-Mar-26,CMP306,LinkedIn B2B Lead Campaign,LinkedIn,Lead Generation,Real Estate,3677.04,16215.7464,12940,2588,647,1294,517.6,51.76,101,High-Income Professionals,Generate Leads,Tablet,Singapore,Completed
+18-Mar-26,CMP307,ShareChat Brand Awareness,ShareChat,Brand Awareness,Retail,2495.97,11007.2277,87810,17562,4390.5,8781,3512.4,351.24,10,Young Adults,Increase Brand Awareness,Desktop,UK,Active
+18-Mar-26,CMP308,ShareChat Brand Awareness,ShareChat,Brand Awareness,SaaS,3802.05,16767.0405,496085,99217,24804.25,49608.5,19843.4,1984.34,9,Business Owners,Increase Brand Awareness,Tablet,UK,Active
+19-Mar-26,CMP309,LinkedIn Enterprise,LinkedIn,Lead Generation,Finance,1166.13,5142.6333,153185,30637,7659.25,15318.5,6127.4,612.74,2,Working Professionals,Generate Leads,Tablet,UAE,Completed
+19-Mar-26,CMP310,Instagram Reach,Instagram,Brand Awareness,Retail,1913.94,8440.4754,198300,39660,9915,19830,7932,793.2,82,Young Adults,Increase Brand Awareness,Tablet,Canada,Active
+19-Mar-26,CMP311,Facebook Conversion,Facebook,Conversion,Technology,1397.79,6164.2539,1013005,202601,50650.25,101300.5,40520.2,4052.02,96,Working Professionals,Drive Conversions,Mobile,UAE,Completed
+19-Mar-26,CMP312,ShareChat Reach,ShareChat,Brand Awareness,E-Commerce,4069.62,17947.0242,318030,63606,15901.5,31803,12721.2,1272.12,22,Online Shoppers,Increase Brand Awareness,Tablet,Australia,Paused
+20-Mar-26,CMP313,Google Search Lead,Google,Lead Generation,Healthcare,2619.72,11552.9652,40835,8167,2041.75,4083.5,1633.4,163.34,19,Parents,Generate Leads,Tablet,Canada,Active
+20-Mar-26,CMP314,Instagram Conversion,Instagram,Conversion,SaaS,1138.32,5019.9912,560185,112037,28009.25,56018.5,22407.4,2240.74,105,Business Owners,Drive Conversions,Tablet,Canada,Completed
+20-Mar-26,CMP315,Instagram Engagement,Instagram,Engagement,Real Estate,825.57,3640.7637,292790,58558,14639.5,29279,11711.6,1171.16,18,High-Income Professionals,Increase Engagement,Mobile,Australia,Paused
+20-Mar-26,CMP316,ShareChat Reach,ShareChat,Brand Awareness,Retail,3578.13,15779.5533,624420,124884,31221,62442,24976.8,2497.68,111,Young Adults,Increase Brand Awareness,Tablet,USA,Active
+21-Mar-26,CMP317,LinkedIn Enterprise,LinkedIn,Lead Generation,SaaS,976.41,4305.9681,694075,138815,34703.75,69407.5,27763,2776.3,24,Business Owners,Generate Leads,Tablet,UAE,Active
+21-Mar-26,CMP318,Instagram Lead Generation,Instagram,Lead Generation,Finance,1266.39,5584.7799,764400,152880,38220,76440,30576,3057.6,23,Working Professionals,Generate Leads,Tablet,Singapore,Paused
+21-Mar-26,CMP319,ShareChat Reach,ShareChat,Brand Awareness,Technology,812.34,3582.4194,2082290,416458,104114.5,208229,83291.6,8329.16,272,Working Professionals,Increase Brand Awareness,Desktop,Canada,Paused
+21-Mar-26,CMP320,Google Search Lead,Google,Lead Generation,Education,1175.13,5182.3233,803755,160751,40187.75,80375.5,32150.2,3215.02,15,Students,Generate Leads,Mobile,Canada,Paused
+22-Mar-26,CMP321,Google Search Lead,Google,Lead Generation,Education,4340.16,19140.1056,446055,89211,22302.75,44605.5,17842.2,1784.22,124,Students,Generate Leads,Tablet,India,Paused
+22-Mar-26,CMP322,Instagram Reach,Instagram,Brand Awareness,Healthcare,3150.54,13893.8814,214055,42811,10702.75,21405.5,8562.2,856.22,9,Parents,Increase Brand Awareness,Tablet,USA,Active
+22-Mar-26,CMP323,Twitter Conversion,Twitter,Conversion,SaaS,1336.68,5894.7588,8215,1643,410.75,821.5,328.6,32.86,9,Business Owners,Drive Conversions,Mobile,Malaysia,Active
+22-Mar-26,CMP324,Instagram Engagement,Instagram,Engagement,Healthcare,3044.07,13424.3487,139025,27805,6951.25,13902.5,5561,556.1,7,Parents,Increase Engagement,Mobile,Malaysia,Completed
+23-Mar-26,CMP325,Google Search Lead,Google,Lead Generation,Real Estate,3032.55,13373.5455,345310,69062,17265.5,34531,13812.4,1381.24,137,High-Income Professionals,Generate Leads,Mobile,UAE,Completed
+23-Mar-26,CMP326,LinkedIn Enterprise,LinkedIn,Lead Generation,Retail,390.96,1724.1336,904755,180951,45237.75,90475.5,36190.2,3619.02,51,Young Adults,Generate Leads,Desktop,India,Paused
+23-Mar-26,CMP327,ShareChat Reach,ShareChat,Brand Awareness,SaaS,957.96,4224.6036,1083900,216780,54195,108390,43356,4335.6,42,Business Owners,Increase Brand Awareness,Desktop,USA,Completed
+23-Mar-26,CMP328,ShareChat Engagement,ShareChat,Engagement,Retail,3153.33,13906.1853,893590,178718,44679.5,89359,35743.6,3574.36,51,Young Adults,Increase Engagement,Desktop,USA,Paused
+24-Mar-26,CMP329,ShareChat Engagement,ShareChat,Engagement,Finance,3174.03,13997.4723,980595,196119,49029.75,98059.5,39223.8,3922.38,208,Working Professionals,Increase Engagement,Desktop,UAE,Active
+24-Mar-26,CMP330,Google Search Lead,Google,Lead Generation,SaaS,3658.14,16132.3974,164410,32882,8220.5,16441,6576.4,657.64,16,Business Owners,Generate Leads,Desktop,Malaysia,Paused
+24-Mar-26,CMP331,Google Website Traffic,Google,Traffic,Retail,3944.43,17394.9363,1483410,296682,74170.5,148341,59336.4,5933.64,41,Young Adults,Drive Website Traffic,Tablet,Canada,Paused
+24-Mar-26,CMP332,Instagram Conversion,Instagram,Conversion,Education,438.48,1933.6968,879425,175885,43971.25,87942.5,35177,3517.7,77,Students,Drive Conversions,Tablet,Singapore,Active
+25-Mar-26,CMP333,Twitter Engagement,Twitter,Engagement,Technology,3758.85,16576.5285,854380,170876,42719,85438,34175.2,3417.52,5,Working Professionals,Increase Engagement,Mobile,Australia,Active
+25-Mar-26,CMP334,Twitter Engagement,Twitter,Engagement,Retail,723.15,3189.0915,255425,51085,12771.25,25542.5,10217,1021.7,11,Young Adults,Increase Engagement,Tablet,UAE,Paused
+25-Mar-26,CMP335,Google Search Lead,Google,Lead Generation,Real Estate,977.4,4310.334,350840,70168,17542,35084,14033.6,1403.36,42,High-Income Professionals,Generate Leads,Mobile,UK,Active
+25-Mar-26,CMP336,Instagram Lead Generation,Instagram,Lead Generation,Healthcare,4205.34,18545.5494,59620,11924,2981,5962,2384.8,238.48,4,Parents,Generate Leads,Mobile,UK,Paused
+26-Mar-26,CMP337,Google Conversion,Google,Conversion,E-Commerce,3805.65,16782.9165,758185,151637,37909.25,75818.5,30327.4,3032.74,39,Online Shoppers,Drive Conversions,Tablet,Canada,Active
+26-Mar-26,CMP338,Twitter Conversion,Twitter,Conversion,Technology,191.88,846.1908,553035,110607,27651.75,55303.5,22121.4,2212.14,58,Working Professionals,Drive Conversions,Tablet,UK,Paused
+26-Mar-26,CMP339,Instagram Conversion,Instagram,Conversion,Education,708.39,3123.9999,85605,17121,4280.25,8560.5,3424.2,342.42,37,Students,Drive Conversions,Desktop,Malaysia,Completed
+26-Mar-26,CMP340,ShareChat Reach,ShareChat,Brand Awareness,Real Estate,2793.78,12320.5698,668390,133678,33419.5,66839,26735.6,2673.56,12,High-Income Professionals,Increase Brand Awareness,Mobile,UK,Completed
+27-Mar-26,CMP341,LinkedIn Enterprise,LinkedIn,Lead Generation,Real Estate,1767.51,7794.7191,1493470,298694,74673.5,149347,59738.8,5973.88,79,High-Income Professionals,Generate Leads,Desktop,India,Completed
+27-Mar-26,CMP342,LinkedIn Enterprise,LinkedIn,Lead Generation,SaaS,2020.23,8909.2143,885535,177107,44276.75,88553.5,35421.4,3542.14,93,Business Owners,Generate Leads,Tablet,Canada,Active
+27-Mar-26,CMP343,ShareChat Reach,ShareChat,Brand Awareness,Retail,2944.53,12985.3773,881535,176307,44076.75,88153.5,35261.4,3526.14,4,Young Adults,Increase Brand Awareness,Mobile,Malaysia,Completed
+27-Mar-26,CMP344,Twitter Brand Awareness,Twitter,Brand Awareness,Real Estate,1097.73,4840.9893,149460,29892,7473,14946,5978.4,597.84,9,High-Income Professionals,Increase Brand Awareness,Desktop,India,Paused
+28-Mar-26,CMP345,LinkedIn B2B Lead Generation,LinkedIn,Lead Generation,E-Commerce,111.6,492.156,345410,69082,17270.5,34541,13816.4,1381.64,1,Online Shoppers,Generate Leads,Mobile,UAE,Paused
+28-Mar-26,CMP346,Twitter Engagement,Twitter,Engagement,Education,817.65,3605.8365,33760,6752,1688,3376,1350.4,135.04,3,Students,Increase Engagement,Desktop,UAE,Completed
+28-Mar-26,CMP347,Google Conversion,Google,Conversion,SaaS,931.23,4106.7243,1159965,231993,57998.25,115996.5,46398.6,4639.86,87,Business Owners,Drive Conversions,Mobile,India,Completed
+28-Mar-26,CMP348,ShareChat Reach,ShareChat,Brand Awareness,SaaS,3038.4,13399.344,830105,166021,41505.25,83010.5,33204.2,3320.42,10,Business Owners,Increase Brand Awareness,Tablet,Singapore,Completed
+29-Mar-26,CMP349,LinkedIn B2B Lead Generation,LinkedIn,Lead Generation,Retail,3465.09,15281.0469,967820,193564,48391,96782,38712.8,3871.28,138,Young Adults,Generate Leads,Tablet,UAE,Active
+29-Mar-26,CMP350,LinkedIn B2B Lead Campaign,LinkedIn,Lead Generation,Healthcare,1680.93,7412.9013,13205,2641,660.25,1320.5,528.2,52.82,2,Parents,Generate Leads,Desktop,Malaysia,Completed
+29-Mar-26,CMP351,LinkedIn B2B Lead Generation,LinkedIn,Lead Generation,E-Commerce,3330.36,14686.8876,822260,164452,41113,82226,32890.4,3289.04,43,Online Shoppers,Generate Leads,Mobile,UAE,Completed
+29-Mar-26,CMP352,LinkedIn B2B Lead Campaign,LinkedIn,Lead Generation,Education,471.33,2078.5653,88655,17731,4432.75,8865.5,3546.2,354.62,3,Students,Generate Leads,Desktop,Singapore,Completed
+30-Mar-26,CMP353,Google Search Lead,Google,Lead Generation,Real Estate,1919.52,8465.0832,1407595,281519,70379.75,140759.5,56303.8,5630.38,84,High-Income Professionals,Generate Leads,Desktop,Canada,Completed
+30-Mar-26,CMP354,Google Website Traffic,Google,Traffic,Healthcare,2615.13,11532.7233,688520,137704,34426,68852,27540.8,2754.08,41,Parents,Drive Website Traffic,Mobile,USA,Completed
+30-Mar-26,CMP355,ShareChat Engagement,ShareChat,Engagement,Retail,1091.07,4811.6187,1617740,323548,80887,161774,64709.6,6470.96,1,Young Adults,Increase Engagement,Tablet,UAE,Active
+30-Mar-26,CMP356,Facebook Brand Awareness,Facebook,Brand Awareness,Retail,3291.75,14516.6175,1129360,225872,56468,112936,45174.4,4517.44,4,Young Adults,Increase Brand Awareness,Tablet,Canada,Active
+31-Mar-26,CMP357,Instagram Lead Generation,Instagram,Lead Generation,Technology,2214.99,9768.1059,978975,195795,48948.75,97897.5,39159,3915.9,20,Working Professionals,Generate Leads,Desktop,Malaysia,Active
+31-Mar-26,CMP358,ShareChat Engagement,ShareChat,Engagement,SaaS,4116.96,18155.7936,376000,75200,18800,37600,15040,1504,5,Business Owners,Increase Engagement,Desktop,UK,Paused
+31-Mar-26,CMP359,Twitter Lead Generation,Twitter,Lead Generation,Real Estate,2709,11946.69,1384575,276915,69228.75,138457.5,55383,5538.3,60,High-Income Professionals,Generate Leads,Desktop,India,Active
+31-Mar-26,CMP360,Instagram Lead Generation,Instagram,Lead Generation,Healthcare,2591.73,11429.5293,397360,79472,19868,39736,15894.4,1589.44,20,Parents,Generate Leads,Tablet,India,Active
+01-Apr-26,CMP361,ShareChat Reach,ShareChat,Brand Awareness,SaaS,3506.13,16235.13497,93365,18673,4668.25,9336.5,3734.6,373.46,3,Business Owners,Increase Brand Awareness,Tablet,Australia,Completed
+01-Apr-26,CMP362,ShareChat Brand Awareness,ShareChat,Brand Awareness,Education,1087.38,5035.11309,1868330,373666,93416.5,186833,74733.2,7473.32,109,Students,Increase Brand Awareness,Tablet,Australia,Active
+01-Apr-26,CMP363,Instagram Engagement,Instagram,Engagement,Healthcare,4206.51,19478.24456,1020085,204017,51004.25,102008.5,40803.4,4080.34,128,Parents,Increase Engagement,Mobile,UAE,Paused
+01-Apr-26,CMP364,Instagram Conversion,Instagram,Conversion,Healthcare,3798.45,17588.72273,840520,168104,42026,84052,33620.8,3362.08,24,Parents,Drive Conversions,Mobile,Malaysia,Paused
+02-Apr-26,CMP365,ShareChat Brand Awareness,ShareChat,Brand Awareness,Education,614.97,2847.618585,1060930,212186,53046.5,106093,42437.2,4243.72,85,Students,Increase Brand Awareness,Mobile,Canada,Completed
+02-Apr-26,CMP366,Instagram Conversion,Instagram,Conversion,Retail,1763.28,8164.86804,812905,162581,40645.25,81290.5,32516.2,3251.62,19,Young Adults,Drive Conversions,Desktop,India,Completed
+02-Apr-26,CMP367,LinkedIn B2B Lead Campaign,LinkedIn,Lead Generation,SaaS,2462.22,11401.30971,336630,67326,16831.5,33663,13465.2,1346.52,46,Business Owners,Generate Leads,Mobile,Australia,Paused
+02-Apr-26,CMP368,Facebook Lead Generation,Facebook,Lead Generation,E-Commerce,4070.88,18850.20984,82410,16482,4120.5,8241,3296.4,329.64,82,Online Shoppers,Generate Leads,Mobile,UK,Completed
+03-Apr-26,CMP369,Facebook Website Traffic,Facebook,Traffic,Healthcare,846.45,3919.486725,150065,30013,7503.25,15006.5,6002.6,600.26,6,Parents,Drive Website Traffic,Tablet,Malaysia,Active
+03-Apr-26,CMP370,Twitter Engagement,Twitter,Engagement,E-Commerce,4225.23,19564.92752,404665,80933,20233.25,40466.5,16186.6,1618.66,62,Online Shoppers,Increase Engagement,Desktop,Canada,Paused
+03-Apr-26,CMP371,Twitter Conversion,Twitter,Conversion,Real Estate,3883.5,17982.54675,934200,186840,46710,93420,37368,3736.8,207,High-Income Professionals,Drive Conversions,Desktop,UK,Paused
+03-Apr-26,CMP372,Instagram Engagement,Instagram,Engagement,Real Estate,3550.23,16439.34002,1030910,206182,51545.5,103091,41236.4,4123.64,152,High-Income Professionals,Increase Engagement,Mobile,India,Completed
+04-Apr-26,CMP373,Twitter Lead Generation,Twitter,Lead Generation,Education,892.44,4132.44342,727510,145502,36375.5,72751,29100.4,2910.04,2,Students,Generate Leads,Tablet,Canada,Paused
+04-Apr-26,CMP374,Google Website Traffic,Google,Traffic,SaaS,342.72,1586.96496,432995,86599,21649.75,43299.5,17319.8,1731.98,16,Business Owners,Drive Website Traffic,Mobile,USA,Paused
+04-Apr-26,CMP375,LinkedIn B2B Lead Generation,LinkedIn,Lead Generation,Real Estate,137.25,635.536125,704550,140910,35227.5,70455,28182,2818.2,18,High-Income Professionals,Generate Leads,Desktop,UK,Active
+04-Apr-26,CMP376,LinkedIn Enterprise,LinkedIn,Lead Generation,SaaS,4140.36,19171.93698,882630,176526,44131.5,88263,35305.2,3530.52,168,Business Owners,Generate Leads,Desktop,Canada,Active
+05-Apr-26,CMP377,ShareChat Reach,ShareChat,Brand Awareness,Education,3872.88,17933.37084,25320,5064,1266,2532,1012.8,101.28,1,Students,Increase Brand Awareness,Desktop,UK,Active
+05-Apr-26,CMP378,LinkedIn Enterprise,LinkedIn,Lead Generation,Education,1535.31,7109.252955,128705,25741,6435.25,12870.5,5148.2,514.82,12,Students,Generate Leads,Tablet,Australia,Completed
+05-Apr-26,CMP379,Facebook Website Traffic,Facebook,Traffic,Retail,1705.95,7899.401475,836375,167275,41818.75,83637.5,33455,3345.5,21,Young Adults,Drive Website Traffic,Mobile,Australia,Paused
+05-Apr-26,CMP380,Facebook Website Traffic,Facebook,Traffic,Finance,2330.01,10789.11131,1482755,296551,74137.75,148275.5,59310.2,5931.02,114,Working Professionals,Drive Website Traffic,Mobile,Canada,Paused
+06-Apr-26,CMP381,Google Conversion,Google,Conversion,SaaS,1720.89,7968.581145,84000,16800,4200,8400,3360,336,1,Business Owners,Drive Conversions,Desktop,USA,Paused
+06-Apr-26,CMP382,ShareChat Reach,ShareChat,Brand Awareness,Retail,587.07,2718.427635,685510,137102,34275.5,68551,27420.4,2742.04,56,Young Adults,Increase Brand Awareness,Mobile,Canada,Paused
+06-Apr-26,CMP383,Facebook Lead Generation,Facebook,Lead Generation,Technology,4454.73,20627.62727,94135,18827,4706.75,9413.5,3765.4,376.54,8,Working Professionals,Generate Leads,Tablet,India,Active
+06-Apr-26,CMP384,Twitter Engagement,Twitter,Engagement,Education,3809.88,17641.64934,329965,65993,16498.25,32996.5,13198.6,1319.86,23,Students,Increase Engagement,Desktop,India,Completed
+07-Apr-26,CMP385,Facebook Lead Generation,Facebook,Lead Generation,SaaS,3419.1,15832.14255,71120,14224,3556,7112,2844.8,284.48,14,Business Owners,Generate Leads,Desktop,Singapore,Paused
+07-Apr-26,CMP386,Twitter Lead Generation,Twitter,Lead Generation,E-Commerce,3990.87,18479.72354,1329895,265979,66494.75,132989.5,53195.8,5319.58,35,Online Shoppers,Generate Leads,Tablet,USA,Completed
+07-Apr-26,CMP387,Twitter Brand Awareness,Twitter,Brand Awareness,Finance,1920.24,8891.67132,58580,11716,2929,5858,2343.2,234.32,75,Working Professionals,Increase Brand Awareness,Tablet,USA,Active
+07-Apr-26,CMP388,ShareChat Reach,ShareChat,Brand Awareness,Education,3915.45,18130.49123,117855,23571,5892.75,11785.5,4714.2,471.42,75,Students,Increase Brand Awareness,Desktop,UK,Active
+08-Apr-26,CMP389,Facebook Lead Generation,Facebook,Lead Generation,Education,815.94,3778.21017,554445,110889,27722.25,55444.5,22177.8,2217.78,16,Students,Generate Leads,Mobile,Canada,Paused
+08-Apr-26,CMP390,Google PPC,Google,PPC,Retail,590.94,2736.34767,598765,119753,29938.25,59876.5,23950.6,2395.06,100,Young Adults,Drive Website Traffic,Tablet,Singapore,Active
+08-Apr-26,CMP391,Google PPC,Google,PPC,SaaS,3039.12,14072.64516,19565,3913,978.25,1956.5,782.6,78.26,8,Business Owners,Drive Website Traffic,Tablet,India,Completed
+08-Apr-26,CMP392,Instagram Conversion,Instagram,Conversion,Technology,1386.81,6421.623705,135905,27181,6795.25,13590.5,5436.2,543.62,1,Working Professionals,Drive Conversions,Tablet,UK,Active
+09-Apr-26,CMP393,LinkedIn B2B Lead Campaign,LinkedIn,Lead Generation,Retail,165.42,765.97731,101055,20211,5052.75,10105.5,4042.2,404.22,32,Young Adults,Generate Leads,Desktop,Australia,Active
+09-Apr-26,CMP394,Facebook Brand Awareness,Facebook,Brand Awareness,E-Commerce,1395.54,6462.04797,99780,19956,4989,9978,3991.2,399.12,2,Online Shoppers,Increase Brand Awareness,Desktop,UK,Completed
+09-Apr-26,CMP395,LinkedIn B2B Awareness,LinkedIn,Brand Awareness,Retail,1502.19,6955.890795,104780,20956,5239,10478,4191.2,419.12,18,Young Adults,Increase Brand Awareness,Mobile,Australia,Paused
+09-Apr-26,CMP396,ShareChat Brand Awareness,ShareChat,Brand Awareness,E-Commerce,1102.77,5106.376485,405185,81037,20259.25,40518.5,16207.4,1620.74,2,Online Shoppers,Increase Brand Awareness,Mobile,India,Completed
+10-Apr-26,CMP397,Instagram Conversion,Instagram,Conversion,Education,3876.66,17950.87413,873280,174656,43664,87328,34931.2,3493.12,12,Students,Drive Conversions,Desktop,Malaysia,Active
+10-Apr-26,CMP398,Twitter Lead Generation,Twitter,Lead Generation,Healthcare,1534.23,7104.252015,86120,17224,4306,8612,3444.8,344.48,10,Parents,Generate Leads,Desktop,Singapore,Paused
+10-Apr-26,CMP399,Facebook Website Traffic,Facebook,Traffic,Technology,2070.09,9585.551745,197205,39441,9860.25,19720.5,7888.2,788.82,3,Working Professionals,Drive Website Traffic,Desktop,India,Completed
+10-Apr-26,CMP400,Twitter Conversion,Twitter,Conversion,E-Commerce,2451.51,11351.71706,179820,35964,8991,17982,7192.8,719.28,1,Online Shoppers,Drive Conversions,Tablet,Malaysia,Active
+11-Apr-26,CMP401,LinkedIn B2B Lead Campaign,LinkedIn,Lead Generation,Education,3271.14,15147.01377,518560,103712,25928,51856,20742.4,2074.24,23,Students,Generate Leads,Tablet,Singapore,Active
+11-Apr-26,CMP402,Facebook Conversion,Facebook,Conversion,Finance,3432.15,15892.57058,1767275,353455,88363.75,176727.5,70691,7069.1,148,Working Professionals,Drive Conversions,Mobile,UAE,Paused
+11-Apr-26,CMP403,LinkedIn B2B Awareness,LinkedIn,Brand Awareness,Healthcare,2608.74,12079.77057,373795,74759,18689.75,37379.5,14951.8,1495.18,66,Parents,Increase Brand Awareness,Desktop,Canada,Completed
+11-Apr-26,CMP404,Facebook Brand Awareness,Facebook,Brand Awareness,Healthcare,1305.63,6045.719715,410770,82154,20538.5,41077,16430.8,1643.08,38,Parents,Increase Brand Awareness,Mobile,Australia,Paused
+12-Apr-26,CMP405,LinkedIn B2B Lead Campaign,LinkedIn,Lead Generation,Technology,3982.95,18443.04998,128660,25732,6433,12866,5146.4,514.64,57,Working Professionals,Generate Leads,Desktop,USA,Paused
+12-Apr-26,CMP406,Google Conversion,Google,Conversion,Healthcare,4069.71,18844.79216,80285,16057,4014.25,8028.5,3211.4,321.14,11,Parents,Drive Conversions,Tablet,India,Completed
+12-Apr-26,CMP407,Google PPC,Google,PPC,E-Commerce,2565.09,11877.64925,787410,157482,39370.5,78741,31496.4,3149.64,12,Online Shoppers,Drive Website Traffic,Desktop,Singapore,Paused
+12-Apr-26,CMP408,Instagram Conversion,Instagram,Conversion,Real Estate,3571.83,16539.35882,1243680,248736,62184,124368,49747.2,4974.72,56,High-Income Professionals,Drive Conversions,Mobile,Canada,Paused
+13-Apr-26,CMP409,ShareChat Engagement,ShareChat,Engagement,SaaS,715.5,3313.12275,148530,29706,7426.5,14853,5941.2,594.12,7,Business Owners,Increase Engagement,Tablet,UAE,Paused
+13-Apr-26,CMP410,LinkedIn B2B Lead Campaign,LinkedIn,Lead Generation,Finance,1893.06,8765.81433,669710,133942,33485.5,66971,26788.4,2678.84,24,Working Professionals,Generate Leads,Mobile,Australia,Active
+13-Apr-26,CMP411,LinkedIn Enterprise,LinkedIn,Lead Generation,Retail,965.7,4471.67385,153210,30642,7660.5,15321,6128.4,612.84,27,Young Adults,Generate Leads,Desktop,USA,Active
+13-Apr-26,CMP412,LinkedIn B2B Awareness,LinkedIn,Brand Awareness,Technology,2657.25,12304.39613,43180,8636,2159,4318,1727.2,172.72,3,Working Professionals,Increase Brand Awareness,Mobile,USA,Active
+14-Apr-26,CMP413,ShareChat Engagement,ShareChat,Engagement,SaaS,1705.77,7898.567985,316430,63286,15821.5,31643,12657.2,1265.72,7,Business Owners,Increase Engagement,Desktop,Malaysia,Active
+14-Apr-26,CMP414,Twitter Brand Awareness,Twitter,Brand Awareness,Healthcare,1957.32,9063.37026,691290,138258,34564.5,69129,27651.6,2765.16,3,Parents,Increase Brand Awareness,Mobile,Canada,Completed
+14-Apr-26,CMP415,Google Website Traffic,Google,Traffic,Retail,3001.77,13899.69599,1109405,221881,55470.25,110940.5,44376.2,4437.62,31,Young Adults,Drive Website Traffic,Mobile,Singapore,Active
+14-Apr-26,CMP416,LinkedIn Enterprise,LinkedIn,Lead Generation,Healthcare,158.49,733.887945,616545,123309,30827.25,61654.5,24661.8,2466.18,71,Parents,Generate Leads,Desktop,USA,Active
+15-Apr-26,CMP417,Instagram Engagement,Instagram,Engagement,Education,4390.29,20329.23785,153220,30644,7661,15322,6128.8,612.88,5,Students,Increase Engagement,Tablet,Canada,Active
+15-Apr-26,CMP418,Google Website Traffic,Google,Traffic,Real Estate,3197.79,14807.3666,707490,141498,35374.5,70749,28299.6,2829.96,14,High-Income Professionals,Drive Website Traffic,Tablet,UAE,Completed
+15-Apr-26,CMP419,Twitter Engagement,Twitter,Engagement,Finance,1113.3,5155.13565,1724965,344993,86248.25,172496.5,68998.6,6899.86,5,Working Professionals,Increase Engagement,Mobile,India,Paused
+15-Apr-26,CMP420,Google PPC,Google,PPC,Real Estate,4109.04,19026.90972,1262690,252538,63134.5,126269,50507.6,5050.76,24,High-Income Professionals,Drive Website Traffic,Mobile,Canada,Completed
+16-Apr-26,CMP421,Twitter Conversion,Twitter,Conversion,Education,3370.41,15606.68351,1236135,247227,61806.75,123613.5,49445.4,4944.54,121,Students,Drive Conversions,Mobile,Singapore,Paused
+16-Apr-26,CMP422,Instagram Lead Generation,Instagram,Lead Generation,Healthcare,2642.58,12236.46669,99840,19968,4992,9984,3993.6,399.36,9,Parents,Generate Leads,Mobile,Singapore,Completed
+16-Apr-26,CMP423,ShareChat Engagement,ShareChat,Engagement,E-Commerce,1834.83,8496.180315,811135,162227,40556.75,81113.5,32445.4,3244.54,5,Online Shoppers,Increase Engagement,Mobile,Canada,Active
+16-Apr-26,CMP424,Instagram Conversion,Instagram,Conversion,Healthcare,2268.81,10505.72471,894540,178908,44727,89454,35781.6,3578.16,60,Parents,Drive Conversions,Tablet,Australia,Active
+17-Apr-26,CMP425,ShareChat Brand Awareness,ShareChat,Brand Awareness,Technology,233.37,1080.619785,86705,17341,4335.25,8670.5,3468.2,346.82,14,Working Professionals,Increase Brand Awareness,Desktop,UAE,Paused
+17-Apr-26,CMP426,Twitter Brand Awareness,Twitter,Brand Awareness,Education,3767.4,17444.9457,1676695,335339,83834.75,167669.5,67067.8,6706.78,37,Students,Increase Brand Awareness,Tablet,UK,Paused
+17-Apr-26,CMP427,Google Conversion,Google,Conversion,Finance,4285.62,19844.56341,40345,8069,2017.25,4034.5,1613.8,161.38,7,Working Professionals,Drive Conversions,Tablet,India,Active
+17-Apr-26,CMP428,Twitter Engagement,Twitter,Engagement,Real Estate,1650.78,7643.93679,1308940,261788,65447,130894,52357.6,5235.76,47,High-Income Professionals,Increase Engagement,Desktop,Australia,Completed
+18-Apr-26,CMP429,ShareChat Engagement,ShareChat,Engagement,Retail,2343.87,10853.29004,797750,159550,39887.5,79775,31910,3191,53,Young Adults,Increase Engagement,Desktop,UAE,Active
+18-Apr-26,CMP430,Facebook Conversion,Facebook,Conversion,Education,441.36,2043.71748,499835,99967,24991.75,49983.5,19993.4,1999.34,16,Students,Drive Conversions,Desktop,UAE,Active
+18-Apr-26,CMP431,LinkedIn Enterprise,LinkedIn,Lead Generation,Education,708.39,3280.199895,566700,113340,28335,56670,22668,2266.8,32,Students,Generate Leads,Tablet,Canada,Active
+18-Apr-26,CMP432,Instagram Reach,Instagram,Brand Awareness,E-Commerce,317.97,1472.360085,974540,194908,48727,97454,38981.6,3898.16,144,Online Shoppers,Increase Brand Awareness,Mobile,Malaysia,Paused
+19-Apr-26,CMP433,Instagram Conversion,Instagram,Conversion,Healthcare,700.47,3243.526335,502690,100538,25134.5,50269,20107.6,2010.76,4,Parents,Drive Conversions,Desktop,Malaysia,Active
+19-Apr-26,CMP434,LinkedIn B2B Lead Campaign,LinkedIn,Lead Generation,Real Estate,4221.45,19547.42423,161075,32215,8053.75,16107.5,6443,644.3,4,High-Income Professionals,Generate Leads,Desktop,Malaysia,Paused
+19-Apr-26,CMP435,Facebook Brand Awareness,Facebook,Brand Awareness,Healthcare,1669.77,7731.869985,68430,13686,3421.5,6843,2737.2,273.72,7,Parents,Increase Brand Awareness,Desktop,Singapore,Completed
+19-Apr-26,CMP436,Facebook Conversion,Facebook,Conversion,SaaS,494.1,2287.93005,301755,60351,15087.75,30175.5,12070.2,1207.02,24,Business Owners,Drive Conversions,Tablet,UAE,Paused
+20-Apr-26,CMP437,Instagram Lead Generation,Instagram,Lead Generation,SaaS,2939.85,13612.97543,990715,198143,49535.75,99071.5,39628.6,3962.86,25,Business Owners,Generate Leads,Desktop,USA,Completed
+20-Apr-26,CMP438,LinkedIn Enterprise,LinkedIn,Lead Generation,Real Estate,1431.18,6627.07899,447210,89442,22360.5,44721,17888.4,1788.84,69,High-Income Professionals,Generate Leads,Desktop,Malaysia,Active
+20-Apr-26,CMP439,ShareChat Reach,ShareChat,Brand Awareness,SaaS,1427.49,6609.992445,25695,5139,1284.75,2569.5,1027.8,102.78,8,Business Owners,Increase Brand Awareness,Desktop,Australia,Active
+20-Apr-26,CMP440,Twitter Engagement,Twitter,Engagement,Healthcare,3843.63,17797.92872,1381345,276269,69067.25,138134.5,55253.8,5525.38,1,Parents,Increase Engagement,Desktop,Singapore,Completed
+21-Apr-26,CMP441,LinkedIn B2B Lead Campaign,LinkedIn,Lead Generation,Education,1401.84,6491.22012,939795,187959,46989.75,93979.5,37591.8,3759.18,57,Students,Generate Leads,Desktop,Australia,Paused
+21-Apr-26,CMP442,LinkedIn B2B Lead Generation,LinkedIn,Lead Generation,SaaS,746.82,3458.15001,110780,22156,5539,11078,4431.2,443.12,8,Business Owners,Generate Leads,Desktop,UAE,Active
+21-Apr-26,CMP443,ShareChat Lead Generation,ShareChat,Lead Generation,Retail,1127.88,5222.64834,882355,176471,44117.75,88235.5,35294.2,3529.42,30,Young Adults,Generate Leads,Desktop,UK,Completed
+21-Apr-26,CMP444,Facebook Website Traffic,Facebook,Traffic,E-Commerce,703.8,3258.9459,2229805,445961,111490.25,222980.5,89192.2,8919.22,105,Online Shoppers,Drive Website Traffic,Tablet,USA,Paused
+22-Apr-26,CMP445,Instagram Engagement,Instagram,Engagement,Real Estate,2992.32,13855.93776,273290,54658,13664.5,27329,10931.6,1093.16,44,High-Income Professionals,Increase Engagement,Tablet,Australia,Active
+22-Apr-26,CMP446,Facebook Conversion,Facebook,Conversion,Technology,2046.96,9478.44828,1138660,227732,56933,113866,45546.4,4554.64,121,Working Professionals,Drive Conversions,Desktop,Malaysia,Paused
+22-Apr-26,CMP447,Facebook Brand Awareness,Facebook,Brand Awareness,E-Commerce,3552.3,16448.92515,1332000,266400,66600,133200,53280,5328,47,Online Shoppers,Increase Brand Awareness,Mobile,UAE,Paused
+22-Apr-26,CMP448,Google Search Lead,Google,Lead Generation,Finance,4479.48,20742.23214,446275,89255,22313.75,44627.5,17851,1785.1,51,Working Professionals,Generate Leads,Desktop,USA,Active
+23-Apr-26,CMP449,ShareChat Brand Awareness,ShareChat,Brand Awareness,Healthcare,397.08,1838.67894,74815,14963,3740.75,7481.5,2992.6,299.26,3,Parents,Increase Brand Awareness,Tablet,UAE,Active
+23-Apr-26,CMP450,Instagram Reach,Instagram,Brand Awareness,Finance,3077.01,14248.09481,900250,180050,45012.5,90025,36010,3601,37,Working Professionals,Increase Brand Awareness,Mobile,USA,Active
+23-Apr-26,CMP451,Instagram Engagement,Instagram,Engagement,Retail,2332.71,10801.61366,1629840,325968,81492,162984,65193.6,6519.36,45,Young Adults,Increase Engagement,Mobile,UAE,Paused
+23-Apr-26,CMP452,Instagram Engagement,Instagram,Engagement,Retail,1809.9,8380.74195,1454865,290973,72743.25,145486.5,58194.6,5819.46,60,Young Adults,Increase Engagement,Desktop,Canada,Paused
+24-Apr-26,CMP453,Twitter Engagement,Twitter,Engagement,Retail,342.45,1585.714725,835525,167105,41776.25,83552.5,33421,3342.1,47,Young Adults,Increase Engagement,Tablet,Singapore,Completed
+24-Apr-26,CMP454,Google Website Traffic,Google,Traffic,E-Commerce,2439.18,11294.62299,15510,3102,775.5,1551,620.4,62.04,5,Online Shoppers,Drive Website Traffic,Mobile,Malaysia,Completed
+24-Apr-26,CMP455,Twitter Brand Awareness,Twitter,Brand Awareness,Education,748.53,3466.068165,1327685,265537,66384.25,132768.5,53107.4,5310.74,33,Students,Increase Brand Awareness,Tablet,UAE,Active
+24-Apr-26,CMP456,ShareChat Reach,ShareChat,Brand Awareness,Education,279.18,1292.74299,207335,41467,10366.75,20733.5,8293.4,829.34,8,Students,Increase Brand Awareness,Tablet,USA,Completed
+25-Apr-26,CMP457,ShareChat Lead Generation,ShareChat,Lead Generation,Education,3558.87,16479.34754,339145,67829,16957.25,33914.5,13565.8,1356.58,18,Students,Generate Leads,Mobile,UK,Paused
+25-Apr-26,CMP458,LinkedIn Enterprise,LinkedIn,Lead Generation,Healthcare,328.95,1523.202975,113020,22604,5651,11302,4520.8,452.08,38,Parents,Generate Leads,Tablet,UAE,Paused
+25-Apr-26,CMP459,Instagram Conversion,Instagram,Conversion,Real Estate,4315.23,19981.67252,1713265,342653,85663.25,171326.5,68530.6,6853.06,98,High-Income Professionals,Drive Conversions,Tablet,India,Completed
+25-Apr-26,CMP460,LinkedIn B2B Lead Campaign,LinkedIn,Lead Generation,Technology,3528.36,16338.07098,240095,48019,12004.75,24009.5,9603.8,960.38,191,Working Professionals,Generate Leads,Desktop,Canada,Completed
+26-Apr-26,CMP461,Google Search Lead,Google,Lead Generation,Finance,2507.4,11610.5157,1823730,364746,91186.5,182373,72949.2,7294.92,155,Working Professionals,Generate Leads,Tablet,Canada,Active
+26-Apr-26,CMP462,Instagram Lead Generation,Instagram,Lead Generation,SaaS,3531.24,16351.40682,221295,44259,11064.75,22129.5,8851.8,885.18,13,Business Owners,Generate Leads,Tablet,UAE,Completed
+26-Apr-26,CMP463,ShareChat Brand Awareness,ShareChat,Brand Awareness,SaaS,2102.4,9735.1632,1049760,209952,52488,104976,41990.4,4199.04,170,Business Owners,Increase Brand Awareness,Tablet,UK,Completed
+26-Apr-26,CMP464,ShareChat Engagement,ShareChat,Engagement,Finance,3800.43,17597.89112,623455,124691,31172.75,62345.5,24938.2,2493.82,41,Working Professionals,Increase Engagement,Tablet,Canada,Completed
+27-Apr-26,CMP465,Google PPC,Google,PPC,E-Commerce,1317.69,6101.563545,1093640,218728,54682,109364,43745.6,4374.56,107,Online Shoppers,Drive Website Traffic,Mobile,UAE,Paused
+27-Apr-26,CMP466,Instagram Lead Generation,Instagram,Lead Generation,E-Commerce,2341.8,10843.7049,102710,20542,5135.5,10271,4108.4,410.84,28,Online Shoppers,Generate Leads,Tablet,Malaysia,Completed
+27-Apr-26,CMP467,Facebook Conversion,Facebook,Conversion,Real Estate,2146.68,9940.20174,56100,11220,2805,5610,2244,224.4,9,High-Income Professionals,Drive Conversions,Mobile,UAE,Active
+27-Apr-26,CMP468,Instagram Engagement,Instagram,Engagement,Healthcare,906.39,4197.038895,2075910,415182,103795.5,207591,83036.4,8303.64,115,Parents,Increase Engagement,Tablet,UK,Paused
+28-Apr-26,CMP469,LinkedIn Enterprise,LinkedIn,Lead Generation,Real Estate,984.96,4560.85728,94400,18880,4720,9440,3776,377.6,26,High-Income Professionals,Generate Leads,Mobile,Singapore,Paused
+28-Apr-26,CMP470,Google Conversion,Google,Conversion,Education,3216.87,14895.71654,890945,178189,44547.25,89094.5,35637.8,3563.78,123,Students,Drive Conversions,Mobile,Singapore,Active
+28-Apr-26,CMP471,Google PPC,Google,PPC,E-Commerce,1336.05,6186.579525,212870,42574,10643.5,21287,8514.8,851.48,17,Online Shoppers,Drive Website Traffic,Desktop,USA,Paused
+28-Apr-26,CMP472,ShareChat Engagement,ShareChat,Engagement,Education,3173.94,14696.92917,263520,52704,13176,26352,10540.8,1054.08,35,Students,Increase Engagement,Desktop,UK,Completed
+29-Apr-26,CMP473,Twitter Brand Awareness,Twitter,Brand Awareness,SaaS,1588.5,7355.54925,94280,18856,4714,9428,3771.2,377.12,2,Business Owners,Increase Brand Awareness,Desktop,UAE,Active
+29-Apr-26,CMP474,Instagram Conversion,Instagram,Conversion,E-Commerce,1178.01,5454.775305,2118020,423604,105901,211802,84720.8,8472.08,13,Online Shoppers,Drive Conversions,Tablet,UK,Active
+29-Apr-26,CMP475,Google PPC,Google,PPC,Education,1660.95,7691.028975,182470,36494,9123.5,18247,7298.8,729.88,4,Students,Drive Website Traffic,Desktop,Malaysia,Active
+29-Apr-26,CMP476,ShareChat Lead Generation,ShareChat,Lead Generation,Healthcare,3035.97,14058.05909,385585,77117,19279.25,38558.5,15423.4,1542.34,126,Parents,Generate Leads,Tablet,UK,Active
+30-Apr-26,CMP477,ShareChat Reach,ShareChat,Brand Awareness,Education,231.75,1073.118375,587715,117543,29385.75,58771.5,23508.6,2350.86,53,Students,Increase Brand Awareness,Desktop,Australia,Paused
+30-Apr-26,CMP478,Facebook Brand Awareness,Facebook,Brand Awareness,E-Commerce,2953.89,13677.98765,270415,54083,13520.75,27041.5,10816.6,1081.66,21,Online Shoppers,Increase Brand Awareness,Desktop,Malaysia,Completed
+30-Apr-26,CMP479,Facebook Brand Awareness,Facebook,Brand Awareness,Real Estate,4249.17,19675.78169,1706360,341272,85318,170636,68254.4,6825.44,24,High-Income Professionals,Increase Brand Awareness,Mobile,Malaysia,Active
+30-Apr-26,CMP480,LinkedIn B2B Lead Generation,LinkedIn,Lead Generation,Real Estate,975.6,4517.5158,1689710,337942,84485.5,168971,67588.4,6758.84,50,High-Income Professionals,Generate Leads,Desktop,Malaysia,Paused
+01-May-26,CMP481,Instagram Engagement,Instagram,Engagement,Technology,1025.64,4986.687321,409885,81977,20494.25,40988.5,16395.4,1639.54,152,Working Professionals,Increase Engagement,Desktop,UK,Completed
+01-May-26,CMP482,Facebook Brand Awareness,Facebook,Brand Awareness,E-Commerce,1731.24,8417.332161,476310,95262,23815.5,47631,19052.4,1905.24,25,Online Shoppers,Increase Brand Awareness,Tablet,USA,Paused
+01-May-26,CMP483,ShareChat Lead Generation,ShareChat,Lead Generation,SaaS,2369.25,11519.35273,128215,25643,6410.75,12821.5,5128.6,512.86,23,Business Owners,Generate Leads,Mobile,Australia,Completed
+01-May-26,CMP484,Google Website Traffic,Google,Traffic,Retail,4031.91,19603.24722,959555,191911,47977.75,95955.5,38382.2,3838.22,83,Young Adults,Drive Website Traffic,Desktop,UAE,Completed
+02-May-26,CMP485,Google Conversion,Google,Conversion,Real Estate,103.41,502.7820053,540400,108080,27020,54040,21616,2161.6,41,High-Income Professionals,Drive Conversions,Desktop,USA,Completed
+02-May-26,CMP486,LinkedIn B2B Lead Campaign,LinkedIn,Lead Generation,Education,3938.85,19150.78717,687220,137444,34361,68722,27488.8,2748.88,18,Students,Generate Leads,Tablet,UAE,Paused
+02-May-26,CMP487,Google Search Lead,Google,Lead Generation,Healthcare,3476.16,16901.17682,203930,40786,10196.5,20393,8157.2,815.72,1,Parents,Generate Leads,Mobile,Australia,Paused
+02-May-26,CMP488,LinkedIn B2B Awareness,LinkedIn,Brand Awareness,SaaS,2172.42,10562.36035,1011130,202226,50556.5,101113,40445.2,4044.52,337,Business Owners,Increase Brand Awareness,Desktop,UK,Active
+03-May-26,CMP489,Google PPC,Google,PPC,Real Estate,652.95,3174.659224,1330850,266170,66542.5,133085,53234,5323.4,74,High-Income Professionals,Drive Website Traffic,Desktop,Canada,Active
+03-May-26,CMP490,Instagram Lead Generation,Instagram,Lead Generation,Education,2509.83,12202.85621,343170,68634,17158.5,34317,13726.8,1372.68,97,Students,Generate Leads,Mobile,Singapore,Paused
+03-May-26,CMP491,Twitter Engagement,Twitter,Engagement,Education,2733.48,13290.2481,889100,177820,44455,88910,35564,3556.4,25,Students,Increase Engagement,Mobile,India,Active
+03-May-26,CMP492,Twitter Brand Awareness,Twitter,Brand Awareness,Finance,2718.18,13215.85911,239470,47894,11973.5,23947,9578.8,957.88,11,Working Professionals,Increase Brand Awareness,Tablet,Canada,Active
+04-May-26,CMP493,ShareChat Reach,ShareChat,Brand Awareness,SaaS,197.91,962.2433678,676945,135389,33847.25,67694.5,27077.8,2707.78,7,Business Owners,Increase Brand Awareness,Desktop,India,Completed
+04-May-26,CMP494,ShareChat Engagement,ShareChat,Engagement,E-Commerce,3655.89,17775.02858,193810,38762,9690.5,19381,7752.4,775.24,20,Online Shoppers,Increase Engagement,Tablet,India,Completed
+04-May-26,CMP495,Twitter Conversion,Twitter,Conversion,Finance,2787.48,13552.79745,658330,131666,32916.5,65833,26333.2,2633.32,4,Working Professionals,Drive Conversions,Tablet,India,Completed
+04-May-26,CMP496,Google Conversion,Google,Conversion,Retail,881.37,4285.242974,1580740,316148,79037,158074,63229.6,6322.96,99,Young Adults,Drive Conversions,Mobile,UK,Active
+05-May-26,CMP497,Instagram Engagement,Instagram,Engagement,SaaS,2421.18,11771.83769,1495640,299128,74782,149564,59825.6,5982.56,16,Business Owners,Increase Engagement,Desktop,India,Completed
+05-May-26,CMP498,ShareChat Brand Awareness,ShareChat,Brand Awareness,Finance,3699.54,17987.25597,1205755,241151,60287.75,120575.5,48230.2,4823.02,147,Working Professionals,Increase Brand Awareness,Desktop,USA,Completed
+05-May-26,CMP499,Instagram Conversion,Instagram,Conversion,Retail,3356.64,16320.0676,540190,108038,27009.5,54019,21607.6,2160.76,32,Young Adults,Drive Conversions,Tablet,UK,Active
+05-May-26,CMP500,Google PPC,Google,PPC,SaaS,244.35,1188.035809,145485,29097,7274.25,14548.5,5819.4,581.94,40,Business Owners,Drive Website Traffic,Mobile,Malaysia,Completed
+06-May-26,CMP501,Google Conversion,Google,Conversion,Healthcare,4096.17,19915.68094,993520,198704,49676,99352,39740.8,3974.08,23,Parents,Drive Conversions,Tablet,Canada,Active
+06-May-26,CMP502,LinkedIn Enterprise,LinkedIn,Lead Generation,Real Estate,2151,10458.21578,1251190,250238,62559.5,125119,50047.6,5004.76,39,High-Income Professionals,Generate Leads,Mobile,Canada,Completed
+06-May-26,CMP503,LinkedIn Enterprise,LinkedIn,Lead Generation,Real Estate,3516.3,17096.33851,1723050,344610,86152.5,172305,68922,6892.2,24,High-Income Professionals,Generate Leads,Tablet,Australia,Completed
+06-May-26,CMP504,LinkedIn Enterprise,LinkedIn,Lead Generation,Real Estate,4087.71,19874.54821,245605,49121,12280.25,24560.5,9824.2,982.42,94,High-Income Professionals,Generate Leads,Mobile,Australia,Paused
+07-May-26,CMP505,Facebook Conversion,Facebook,Conversion,Education,3987.81,19388.83192,425775,85155,21288.75,42577.5,17031,1703.1,9,Students,Drive Conversions,Tablet,UAE,Paused
+07-May-26,CMP506,ShareChat Engagement,ShareChat,Engagement,Real Estate,3465.09,16847.35421,244800,48960,12240,24480,9792,979.2,28,High-Income Professionals,Increase Engagement,Desktop,India,Completed
+07-May-26,CMP507,ShareChat Lead Generation,ShareChat,Lead Generation,Education,1119.87,5444.835937,165195,33039,8259.75,16519.5,6607.8,660.78,14,Students,Generate Leads,Mobile,Singapore,Paused
+07-May-26,CMP508,Facebook Website Traffic,Facebook,Traffic,Technology,4158.09,20216.73753,8315,1663,415.75,831.5,332.6,33.26,30,Working Professionals,Drive Website Traffic,Mobile,Singapore,Paused
+08-May-26,CMP509,ShareChat Lead Generation,ShareChat,Lead Generation,Healthcare,3750.93,18237.11543,666615,133323,33330.75,66661.5,26664.6,2666.46,4,Parents,Generate Leads,Mobile,USA,Completed
+08-May-26,CMP510,Twitter Brand Awareness,Twitter,Brand Awareness,Education,557.19,2709.07171,706170,141234,35308.5,70617,28246.8,2824.68,2,Students,Increase Brand Awareness,Tablet,Canada,Paused
+08-May-26,CMP511,Google PPC,Google,PPC,Retail,1600.83,7783.275481,31815,6363,1590.75,3181.5,1272.6,127.26,5,Young Adults,Drive Website Traffic,Desktop,Canada,Active
+08-May-26,CMP512,Google PPC,Google,PPC,E-Commerce,2330.64,11331.62995,301350,60270,15067.5,30135,12054,1205.4,14,Online Shoppers,Drive Website Traffic,Tablet,USA,Active
+09-May-26,CMP513,Instagram Reach,Instagram,Brand Awareness,SaaS,4143.78,20147.16195,383335,76667,19166.75,38333.5,15333.4,1533.34,28,Business Owners,Increase Brand Awareness,Desktop,India,Active
+09-May-26,CMP514,Facebook Lead Generation,Facebook,Lead Generation,Retail,4494.78,21853.73273,1004835,200967,50241.75,100483.5,40193.4,4019.34,80,Young Adults,Generate Leads,Mobile,UK,Completed
+09-May-26,CMP515,Instagram Conversion,Instagram,Conversion,SaaS,3846.96,18704.01569,395670,79134,19783.5,39567,15826.8,1582.68,26,Business Owners,Drive Conversions,Mobile,Australia,Active
+09-May-26,CMP516,Instagram Reach,Instagram,Brand Awareness,Retail,2526.57,12284.2465,459280,91856,22964,45928,18371.2,1837.12,5,Young Adults,Increase Brand Awareness,Tablet,India,Active
+10-May-26,CMP517,Twitter Engagement,Twitter,Engagement,Real Estate,2058.84,10010.13155,333700,66740,16685,33370,13348,1334.8,20,High-Income Professionals,Increase Engagement,Desktop,UK,Active
+10-May-26,CMP518,Facebook Conversion,Facebook,Conversion,Technology,488.52,2375.196453,246305,49261,12315.25,24630.5,9852.2,985.22,38,Working Professionals,Drive Conversions,Mobile,India,Active
+10-May-26,CMP519,Google PPC,Google,PPC,Real Estate,3882.69,18877.73585,292565,58513,14628.25,29256.5,11702.6,1170.26,39,High-Income Professionals,Drive Website Traffic,Tablet,UAE,Completed
+10-May-26,CMP520,Twitter Conversion,Twitter,Conversion,Education,2981.88,14497.97511,26025,5205,1301.25,2602.5,1041,104.1,78,Students,Drive Conversions,Tablet,Canada,Active
+11-May-26,CMP521,ShareChat Reach,ShareChat,Brand Awareness,Healthcare,3932.64,19120.594,249505,49901,12475.25,24950.5,9980.2,998.02,27,Parents,Increase Brand Awareness,Tablet,Canada,Active
+11-May-26,CMP522,ShareChat Brand Awareness,ShareChat,Brand Awareness,Real Estate,3611.61,17559.73811,472935,94587,23646.75,47293.5,18917.4,1891.74,18,High-Income Professionals,Increase Brand Awareness,Mobile,UAE,Completed
+11-May-26,CMP523,ShareChat Lead Generation,ShareChat,Lead Generation,E-Commerce,734.85,3572.859071,1993190,398638,99659.5,199319,79727.6,7972.76,135,Online Shoppers,Generate Leads,Tablet,UK,Completed
+11-May-26,CMP524,LinkedIn B2B Lead Campaign,LinkedIn,Lead Generation,Real Estate,3369.24,16381.32911,404385,80877,20219.25,40438.5,16175.4,1617.54,9,High-Income Professionals,Generate Leads,Tablet,USA,Paused
+12-May-26,CMP525,Twitter Lead Generation,Twitter,Lead Generation,Real Estate,4279.14,20805.28566,1473940,294788,73697,147394,58957.6,5895.76,43,High-Income Professionals,Generate Leads,Desktop,Australia,Completed
+12-May-26,CMP526,Facebook Conversion,Facebook,Conversion,SaaS,4108.5,19975.62971,110410,22082,5520.5,11041,4416.4,441.64,20,Business Owners,Drive Conversions,Tablet,USA,Completed
+12-May-26,CMP527,Instagram Engagement,Instagram,Engagement,SaaS,3498.21,17008.38448,423355,84671,21167.75,42335.5,16934.2,1693.42,67,Business Owners,Increase Engagement,Desktop,Malaysia,Active
+12-May-26,CMP528,LinkedIn B2B Lead Campaign,LinkedIn,Lead Generation,Technology,2981.61,14496.66236,275095,55019,13754.75,27509.5,11003.8,1100.38,33,Working Professionals,Generate Leads,Tablet,UAE,Active
+13-May-26,CMP529,Instagram Conversion,Instagram,Conversion,Education,2053.8,9985.626945,2154815,430963,107740.75,215481.5,86192.6,8619.26,52,Students,Drive Conversions,Mobile,UK,Paused
+13-May-26,CMP530,Facebook Lead Generation,Facebook,Lead Generation,Healthcare,1833.39,8913.988015,304740,60948,15237,30474,12189.6,1218.96,35,Parents,Generate Leads,Mobile,Singapore,Active
+13-May-26,CMP531,LinkedIn Enterprise,LinkedIn,Lead Generation,Education,3971.34,19308.75436,1157805,231561,57890.25,115780.5,46312.2,4631.22,39,Students,Generate Leads,Tablet,UK,Completed
+13-May-26,CMP532,ShareChat Reach,ShareChat,Brand Awareness,Retail,1133.01,5508.722945,314580,62916,15729,31458,12583.2,1258.32,84,Young Adults,Increase Brand Awareness,Tablet,Malaysia,Completed
+14-May-26,CMP533,ShareChat Brand Awareness,ShareChat,Brand Awareness,E-Commerce,4170.96,20279.31179,1128635,225727,56431.75,112863.5,45145.4,4514.54,64,Online Shoppers,Increase Brand Awareness,Mobile,Canada,Paused
+14-May-26,CMP534,ShareChat Reach,ShareChat,Brand Awareness,SaaS,2574.81,12518.79059,150785,30157,7539.25,15078.5,6031.4,603.14,6,Business Owners,Increase Brand Awareness,Mobile,Malaysia,Completed
+14-May-26,CMP535,Twitter Brand Awareness,Twitter,Brand Awareness,Real Estate,4476.42,21764.46595,282430,56486,14121.5,28243,11297.2,1129.72,32,High-Income Professionals,Increase Brand Awareness,Mobile,USA,Active
+14-May-26,CMP536,Facebook Lead Generation,Facebook,Lead Generation,Retail,4167.45,20262.24609,377580,75516,18879,37758,15103.2,1510.32,15,Young Adults,Generate Leads,Tablet,Australia,Active
+15-May-26,CMP537,Facebook Lead Generation,Facebook,Lead Generation,Finance,291.51,1417.328908,306610,61322,15330.5,30661,12264.4,1226.44,30,Working Professionals,Generate Leads,Mobile,Australia,Completed
+15-May-26,CMP538,Instagram Engagement,Instagram,Engagement,Healthcare,511.47,2486.779927,1977085,395417,98854.25,197708.5,79083.4,7908.34,121,Parents,Increase Engagement,Desktop,Singapore,Completed
+15-May-26,CMP539,Instagram Conversion,Instagram,Conversion,Retail,3091.32,15030.07512,141735,28347,7086.75,14173.5,5669.4,566.94,28,Young Adults,Drive Conversions,Tablet,UK,Active
+15-May-26,CMP540,ShareChat Lead Generation,ShareChat,Lead Generation,SaaS,3730.14,18136.03393,11035,2207,551.75,1103.5,441.4,44.14,13,Business Owners,Generate Leads,Mobile,Singapore,Active
+16-May-26,CMP541,LinkedIn B2B Awareness,LinkedIn,Brand Awareness,Technology,1940.22,9433.398146,1442415,288483,72120.75,144241.5,57696.6,5769.66,41,Working Professionals,Increase Brand Awareness,Desktop,UK,Completed
+16-May-26,CMP542,Google Search Lead,Google,Lead Generation,Retail,4408.56,21434.52893,140645,28129,7032.25,14064.5,5625.8,562.58,11,Young Adults,Generate Leads,Mobile,Canada,Active
+16-May-26,CMP543,LinkedIn B2B Lead Campaign,LinkedIn,Lead Generation,Finance,2511.9,12212.9206,300500,60100,15025,30050,12020,1202,41,Working Professionals,Generate Leads,Desktop,Canada,Paused
+16-May-26,CMP544,Twitter Conversion,Twitter,Conversion,Technology,1858.68,9036.948627,255590,51118,12779.5,25559,10223.6,1022.36,55,Working Professionals,Drive Conversions,Tablet,Australia,Completed
+17-May-26,CMP545,ShareChat Engagement,ShareChat,Engagement,Real Estate,4306.95,20940.49857,1177955,235591,58897.75,117795.5,47118.2,4711.82,54,High-Income Professionals,Increase Engagement,Desktop,Canada,Active
+17-May-26,CMP546,LinkedIn B2B Awareness,LinkedIn,Brand Awareness,Education,1613.16,7843.224249,103300,20660,5165,10330,4132,413.2,13,Students,Increase Brand Awareness,Tablet,Malaysia,Active
+17-May-26,CMP547,Google Website Traffic,Google,Traffic,Retail,4497.03,21864.67229,326300,65260,16315,32630,13052,1305.2,9,Young Adults,Drive Website Traffic,Tablet,Canada,Completed
+17-May-26,CMP548,LinkedIn Enterprise,LinkedIn,Lead Generation,Healthcare,4055.85,19719.6441,507415,101483,25370.75,50741.5,20296.6,2029.66,34,Parents,Generate Leads,Tablet,Canada,Completed
+18-May-26,CMP549,Facebook Lead Generation,Facebook,Lead Generation,Real Estate,3293.46,16012.88486,294305,58861,14715.25,29430.5,11772.2,1177.22,20,High-Income Professionals,Generate Leads,Tablet,Malaysia,Active
+18-May-26,CMP550,Google PPC,Google,PPC,Finance,1369.08,6656.501187,58145,11629,2907.25,5814.5,2325.8,232.58,97,Working Professionals,Drive Website Traffic,Mobile,UAE,Completed
+18-May-26,CMP551,Instagram Lead Generation,Instagram,Lead Generation,Healthcare,244.62,1189.348556,1202580,240516,60129,120258,48103.2,4810.32,70,Parents,Generate Leads,Desktop,India,Paused
+18-May-26,CMP552,Google Search Lead,Google,Lead Generation,Education,457.2,2222.91783,80865,16173,4043.25,8086.5,3234.6,323.46,1,Students,Generate Leads,Tablet,Singapore,Paused
+19-May-26,CMP553,Instagram Lead Generation,Instagram,Lead Generation,Technology,1461.15,7104.147829,31165,6233,1558.25,3116.5,1246.6,124.66,11,Working Professionals,Generate Leads,Mobile,Malaysia,Paused
+19-May-26,CMP554,Twitter Conversion,Twitter,Conversion,Real Estate,3758.85,18275.62267,1383700,276740,69185,138370,55348,5534.8,22,High-Income Professionals,Drive Conversions,Desktop,UK,Paused
+19-May-26,CMP555,Facebook Brand Awareness,Facebook,Brand Awareness,E-Commerce,3298.14,16035.63913,218025,43605,10901.25,21802.5,8721,872.1,17,Online Shoppers,Increase Brand Awareness,Tablet,USA,Paused
+19-May-26,CMP556,Facebook Brand Awareness,Facebook,Brand Awareness,Real Estate,356.58,1733.700875,277530,55506,13876.5,27753,11101.2,1110.12,127,High-Income Professionals,Increase Brand Awareness,Mobile,UAE,Paused
+20-May-26,CMP557,Twitter Brand Awareness,Twitter,Brand Awareness,Retail,1916.37,9317.438849,194650,38930,9732.5,19465,7786,778.6,4,Young Adults,Increase Brand Awareness,Desktop,Canada,Active
+20-May-26,CMP558,Facebook Brand Awareness,Facebook,Brand Awareness,Retail,2380.95,11576.23842,869225,173845,43461.25,86922.5,34769,3476.9,49,Young Adults,Increase Brand Awareness,Tablet,Canada,Active
+20-May-26,CMP559,Facebook Website Traffic,Facebook,Traffic,SaaS,928.08,4512.348162,1703815,340763,85190.75,170381.5,68152.6,6815.26,194,Business Owners,Drive Website Traffic,Tablet,India,Completed
+20-May-26,CMP560,Twitter Lead Generation,Twitter,Lead Generation,Education,440.55,2141.965114,579275,115855,28963.75,57927.5,23171,2317.1,134,Students,Generate Leads,Desktop,UAE,Completed
+21-May-26,CMP561,ShareChat Lead Generation,ShareChat,Lead Generation,E-Commerce,3023.1,14698.38778,482245,96449,24112.25,48224.5,19289.8,1928.98,39,Online Shoppers,Generate Leads,Desktop,USA,Completed
+21-May-26,CMP562,Twitter Engagement,Twitter,Engagement,E-Commerce,3730.86,18139.53459,886480,177296,44324,88648,35459.2,3545.92,33,Online Shoppers,Increase Engagement,Mobile,Canada,Completed
+21-May-26,CMP563,Twitter Lead Generation,Twitter,Lead Generation,Finance,828.36,4027.507029,404070,80814,20203.5,40407,16162.8,1616.28,29,Working Professionals,Generate Leads,Mobile,Malaysia,Completed
+21-May-26,CMP564,Google PPC,Google,PPC,Healthcare,2988.99,14532.5441,572475,114495,28623.75,57247.5,22899,2289.9,22,Parents,Drive Website Traffic,Mobile,Singapore,Completed
+22-May-26,CMP565,Instagram Conversion,Instagram,Conversion,Finance,910.08,4424.831712,813800,162760,40690,81380,32552,3255.2,21,Working Professionals,Drive Conversions,Mobile,USA,Paused
+22-May-26,CMP566,Facebook Conversion,Facebook,Conversion,Retail,2075.76,10092.39701,553980,110796,27699,55398,22159.2,2215.92,46,Young Adults,Drive Conversions,Mobile,Singapore,Completed
+22-May-26,CMP567,Google Website Traffic,Google,Traffic,Technology,2640.6,12838.66322,144795,28959,7239.75,14479.5,5791.8,579.18,27,Working Professionals,Drive Website Traffic,Mobile,USA,Paused
+22-May-26,CMP568,ShareChat Engagement,ShareChat,Engagement,Finance,3731.67,18143.47283,164825,32965,8241.25,16482.5,6593,659.3,15,Working Professionals,Increase Engagement,Desktop,Singapore,Completed
+23-May-26,CMP569,Instagram Conversion,Instagram,Conversion,Healthcare,2349.9,11425.27255,567085,113417,28354.25,56708.5,22683.4,2268.34,10,Parents,Drive Conversions,Desktop,Australia,Active
+23-May-26,CMP570,Facebook Website Traffic,Facebook,Traffic,Technology,2607.75,12678.94569,1407635,281527,70381.75,140763.5,56305.4,5630.54,60,Working Professionals,Drive Website Traffic,Mobile,UAE,Active
+23-May-26,CMP571,ShareChat Engagement,ShareChat,Engagement,Healthcare,4122.99,20046.08045,753520,150704,37676,75352,30140.8,3014.08,107,Parents,Increase Engagement,Tablet,UK,Active
+23-May-26,CMP572,Google Conversion,Google,Conversion,Finance,4040.46,19644.81753,204430,40886,10221.5,20443,8177.2,817.72,7,Working Professionals,Drive Conversions,Mobile,Singapore,Paused
+24-May-26,CMP573,Instagram Lead Generation,Instagram,Lead Generation,Real Estate,2648.61,12877.60804,123395,24679,6169.75,12339.5,4935.8,493.58,10,High-Income Professionals,Generate Leads,Tablet,Malaysia,Paused
+24-May-26,CMP574,Twitter Conversion,Twitter,Conversion,Retail,3109.05,15116.27883,975985,195197,48799.25,97598.5,39039.4,3903.94,76,Young Adults,Drive Conversions,Tablet,Australia,Active
+24-May-26,CMP575,Google Search Lead,Google,Lead Generation,Finance,3580.11,17406.58432,1512075,302415,75603.75,151207.5,60483,6048.3,183,Working Professionals,Generate Leads,Desktop,Australia,Paused
+24-May-26,CMP576,Twitter Engagement,Twitter,Engagement,E-Commerce,2205.63,10723.8282,398135,79627,19906.75,39813.5,15925.4,1592.54,146,Online Shoppers,Increase Engagement,Tablet,UK,Active
+25-May-26,CMP577,Facebook Website Traffic,Facebook,Traffic,Retail,831.42,4042.384826,262940,52588,13147,26294,10517.6,1051.76,17,Young Adults,Drive Website Traffic,Tablet,Malaysia,Paused
+25-May-26,CMP578,Facebook Brand Awareness,Facebook,Brand Awareness,Education,3376.26,16415.46053,92240,18448,4612,9224,3689.6,368.96,38,Students,Increase Brand Awareness,Mobile,USA,Paused
+25-May-26,CMP579,Instagram Reach,Instagram,Brand Awareness,Healthcare,2830.68,13762.83693,602920,120584,30146,60292,24116.8,2411.68,35,Parents,Increase Brand Awareness,Tablet,India,Active
+25-May-26,CMP580,Twitter Conversion,Twitter,Conversion,SaaS,1710.54,8316.688244,995245,199049,49762.25,99524.5,39809.8,3980.98,38,Business Owners,Drive Conversions,Mobile,USA,Paused
+26-May-26,CMP581,Google PPC,Google,PPC,E-Commerce,3703.32,18005.63442,39385,7877,1969.25,3938.5,1575.4,157.54,1,Online Shoppers,Drive Website Traffic,Tablet,Australia,Completed
+26-May-26,CMP582,Instagram Engagement,Instagram,Engagement,Real Estate,1756.71,8541.167938,1528565,305713,76428.25,152856.5,61142.6,6114.26,324,High-Income Professionals,Increase Engagement,Mobile,UK,Completed
+26-May-26,CMP583,Instagram Engagement,Instagram,Engagement,Healthcare,4129.83,20079.33671,631350,126270,31567.5,63135,25254,2525.4,11,Parents,Increase Engagement,Desktop,UK,Active
+26-May-26,CMP584,Instagram Engagement,Instagram,Engagement,Healthcare,3275.19,15924.05566,987795,197559,49389.75,98779.5,39511.8,3951.18,23,Parents,Increase Engagement,Desktop,UK,Paused
+27-May-26,CMP585,Instagram Conversion,Instagram,Conversion,Healthcare,2397.24,11655.44081,748220,149644,37411,74822,29928.8,2992.88,188,Parents,Drive Conversions,Desktop,Singapore,Paused
+27-May-26,CMP586,LinkedIn Enterprise,LinkedIn,Lead Generation,SaaS,835.47,4062.076027,117225,23445,5861.25,11722.5,4689,468.9,5,Business Owners,Generate Leads,Mobile,India,Completed
+27-May-26,CMP587,Google Search Lead,Google,Lead Generation,SaaS,3537.27,17198.29517,2066615,413323,103330.75,206661.5,82664.6,8266.46,193,Business Owners,Generate Leads,Mobile,India,Active
+27-May-26,CMP588,ShareChat Engagement,ShareChat,Engagement,Finance,3134.43,15239.67702,659865,131973,32993.25,65986.5,26394.6,2639.46,102,Working Professionals,Increase Engagement,Desktop,USA,Completed
+28-May-26,CMP589,Instagram Conversion,Instagram,Conversion,E-Commerce,1967.4,9565.547985,1470405,294081,73520.25,147040.5,58816.2,5881.62,448,Online Shoppers,Drive Conversions,Tablet,Australia,Paused
+28-May-26,CMP590,Twitter Lead Generation,Twitter,Lead Generation,Retail,4243.77,20633.31583,1755590,351118,87779.5,175559,70223.6,7022.36,44,Young Adults,Generate Leads,Tablet,USA,Paused
+28-May-26,CMP591,ShareChat Reach,ShareChat,Brand Awareness,Education,1656.9,8055.889223,606775,121355,30338.75,60677.5,24271,2427.1,4,Students,Increase Brand Awareness,Tablet,USA,Active
+28-May-26,CMP592,LinkedIn B2B Lead Generation,LinkedIn,Lead Generation,SaaS,4207.68,20457.84535,142055,28411,7102.75,14205.5,5682.2,568.22,12,Business Owners,Generate Leads,Mobile,Australia,Completed
+29-May-26,CMP593,Google Website Traffic,Google,Traffic,Healthcare,3681.9,17901.48985,730990,146198,36549.5,73099,29239.6,2923.96,2,Parents,Drive Website Traffic,Tablet,USA,Paused
+29-May-26,CMP594,Facebook Lead Generation,Facebook,Lead Generation,Technology,2321.46,11286.99656,556825,111365,27841.25,55682.5,22273,2227.3,32,Working Professionals,Generate Leads,Tablet,Singapore,Paused
+29-May-26,CMP595,Facebook Website Traffic,Facebook,Traffic,Retail,1299.42,6317.812526,1116265,223253,55813.25,111626.5,44650.6,4465.06,112,Young Adults,Drive Website Traffic,Tablet,India,Paused
+29-May-26,CMP596,Google Search Lead,Google,Lead Generation,E-Commerce,935.55,4548.667489,120700,24140,6035,12070,4828,482.8,60,Online Shoppers,Generate Leads,Desktop,UAE,Active
+30-May-26,CMP597,Instagram Lead Generation,Instagram,Lead Generation,Technology,3639.06,17693.2007,33155,6631,1657.75,3315.5,1326.2,132.62,1,Working Professionals,Generate Leads,Desktop,UK,Completed
+30-May-26,CMP598,Google Website Traffic,Google,Traffic,Retail,1332.45,6478.405211,26300,5260,1315,2630,1052,105.2,1,Young Adults,Drive Website Traffic,Desktop,Canada,Paused
+30-May-26,CMP599,Instagram Conversion,Instagram,Conversion,Retail,3616.2,17582.05481,2172720,434544,108636,217272,86908.8,8690.88,5,Young Adults,Drive Conversions,Tablet,USA,Completed
+30-May-26,CMP600,Instagram Lead Generation,Instagram,Lead Generation,Real Estate,3302.73,16057.95583,542630,108526,27131.5,54263,21705.2,2170.52,18,High-Income Professionals,Generate Leads,Desktop,Malaysia,Completed
+31-May-26,CMP601,Facebook Lead Generation,Facebook,Lead Generation,Education,3688.83,17935.18368,18945,3789,947.25,1894.5,757.8,75.78,10,Students,Generate Leads,Mobile,Malaysia,Paused
+31-May-26,CMP602,Instagram Conversion,Instagram,Conversion,Technology,2015.1,9797.466578,35705,7141,1785.25,3570.5,1428.2,142.82,32,Working Professionals,Drive Conversions,Tablet,India,Completed
+31-May-26,CMP603,Twitter Engagement,Twitter,Engagement,Education,1291.68,6280.180452,1515170,303034,75758.5,151517,60606.8,6060.68,10,Students,Increase Engagement,Mobile,UAE,Paused
+31-May-26,CMP604,Twitter Engagement,Twitter,Engagement,Real Estate,2520.9,12256.67882,1518230,303646,75911.5,151823,60729.2,6072.92,81,High-Income Professionals,Increase Engagement,Tablet,Australia,Active
+01-Jun-26,CMP605,Facebook Brand Awareness,Facebook,Brand Awareness,SaaS,3809.79,19449.45894,84880,16976,4244,8488,3395.2,339.52,4,Business Owners,Increase Brand Awareness,Tablet,Canada,Paused
+01-Jun-26,CMP606,ShareChat Engagement,ShareChat,Engagement,SaaS,2629.8,13425.46101,260685,52137,13034.25,26068.5,10427.4,1042.74,9,Business Owners,Increase Engagement,Desktop,Canada,Paused
+01-Jun-26,CMP607,LinkedIn Enterprise,LinkedIn,Lead Generation,Healthcare,970.56,4954.831333,11550,2310,577.5,1155,462,46.2,6,Parents,Generate Leads,Desktop,UK,Active
+01-Jun-26,CMP608,ShareChat Reach,ShareChat,Brand Awareness,E-Commerce,2247.03,11471.37184,1329570,265914,66478.5,132957,53182.8,5318.28,51,Online Shoppers,Increase Brand Awareness,Tablet,Canada,Active
+02-Jun-26,CMP609,LinkedIn B2B Awareness,LinkedIn,Brand Awareness,SaaS,4138.29,21126.49291,687905,137581,34395.25,68790.5,27516.2,2751.62,181,Business Owners,Increase Brand Awareness,Mobile,Canada,Completed
+02-Jun-26,CMP610,LinkedIn B2B Awareness,LinkedIn,Brand Awareness,Retail,1936.8,9887.608521,465330,93066,23266.5,46533,18613.2,1861.32,1,Young Adults,Increase Brand Awareness,Desktop,Canada,Active
+02-Jun-26,CMP611,ShareChat Engagement,ShareChat,Engagement,SaaS,2595.15,13248.56839,1449980,289996,72499,144998,57999.2,5799.92,123,Business Owners,Increase Engagement,Mobile,Australia,Completed
+02-Jun-26,CMP612,ShareChat Lead Generation,ShareChat,Lead Generation,Finance,4492.8,22936.31122,812530,162506,40626.5,81253,32501.2,3250.12,124,Working Professionals,Generate Leads,Desktop,Australia,Completed
+03-Jun-26,CMP613,ShareChat Brand Awareness,ShareChat,Brand Awareness,SaaS,356.85,1821.764302,767155,153431,38357.75,76715.5,30686.2,3068.62,59,Business Owners,Increase Brand Awareness,Tablet,Singapore,Active
+03-Jun-26,CMP614,Instagram Conversion,Instagram,Conversion,Retail,4168.08,21278.57462,88595,17719,4429.75,8859.5,3543.8,354.38,36,Young Adults,Drive Conversions,Tablet,Malaysia,Paused
+03-Jun-26,CMP615,Instagram Lead Generation,Instagram,Lead Generation,Healthcare,1089.54,5562.239254,1720250,344050,86012.5,172025,68810,6881,93,Parents,Generate Leads,Mobile,UK,Paused
+03-Jun-26,CMP616,LinkedIn B2B Lead Campaign,LinkedIn,Lead Generation,Technology,795.06,4058.881676,325150,65030,16257.5,32515,13006,1300.6,41,Working Professionals,Generate Leads,Mobile,UK,Completed
+04-Jun-26,CMP617,ShareChat Lead Generation,ShareChat,Lead Generation,Education,870.3,4442.991375,531530,106306,26576.5,53153,21261.2,2126.12,42,Students,Generate Leads,Tablet,Singapore,Completed
+04-Jun-26,CMP618,ShareChat Lead Generation,ShareChat,Lead Generation,Technology,2054.34,10487.66506,71145,14229,3557.25,7114.5,2845.8,284.58,63,Working Professionals,Generate Leads,Mobile,Canada,Paused
+04-Jun-26,CMP619,Instagram Conversion,Instagram,Conversion,Education,4332.33,22117.09161,54900,10980,2745,5490,2196,219.6,7,Students,Drive Conversions,Mobile,Australia,Active
+04-Jun-26,CMP620,Facebook Website Traffic,Facebook,Traffic,SaaS,534.42,2728.281571,479260,95852,23963,47926,19170.4,1917.04,18,Business Owners,Drive Website Traffic,Tablet,UK,Active
+05-Jun-26,CMP621,Facebook Brand Awareness,Facebook,Brand Awareness,Finance,3780,19297.37723,645895,129179,32294.75,64589.5,25835.8,2583.58,51,Working Professionals,Increase Brand Awareness,Tablet,Australia,Paused
+05-Jun-26,CMP622,Twitter Lead Generation,Twitter,Lead Generation,Healthcare,4005.54,20448.7874,52920,10584,2646,5292,2116.8,211.68,5,Parents,Generate Leads,Desktop,UK,Completed
+05-Jun-26,CMP623,LinkedIn B2B Lead Generation,LinkedIn,Lead Generation,Education,1276.02,6514.243198,790625,158125,39531.25,79062.5,31625,3162.5,81,Students,Generate Leads,Desktop,Australia,Active
+05-Jun-26,CMP624,Google Website Traffic,Google,Traffic,Healthcare,3719.07,18986.32188,112755,22551,5637.75,11275.5,4510.2,451.02,6,Parents,Drive Website Traffic,Mobile,UAE,Completed
+06-Jun-26,CMP625,LinkedIn B2B Lead Campaign,LinkedIn,Lead Generation,Technology,3095.55,15803.17356,12210,2442,610.5,1221,488.4,48.84,2,Working Professionals,Generate Leads,Tablet,Canada,Active
+06-Jun-26,CMP626,ShareChat Engagement,ShareChat,Engagement,SaaS,315.18,1609.033691,124340,24868,6217,12434,4973.6,497.36,10,Business Owners,Increase Engagement,Desktop,Malaysia,Completed
+06-Jun-26,CMP627,Instagram Engagement,Instagram,Engagement,Real Estate,1700.73,8682.441367,289120,57824,14456,28912,11564.8,1156.48,9,High-Income Professionals,Increase Engagement,Desktop,Malaysia,Completed
+06-Jun-26,CMP628,Instagram Conversion,Instagram,Conversion,Real Estate,286.38,1462.006055,411040,82208,20552,41104,16441.6,1644.16,3,High-Income Professionals,Drive Conversions,Desktop,India,Active
+07-Jun-26,CMP629,Google Search Lead,Google,Lead Generation,SaaS,3497.04,17852.8307,430040,86008,21502,43004,17201.6,1720.16,9,Business Owners,Generate Leads,Desktop,Malaysia,Completed
+07-Jun-26,CMP630,Instagram Engagement,Instagram,Engagement,Technology,3232.08,16500.17645,318445,63689,15922.25,31844.5,12737.8,1273.78,31,Working Professionals,Increase Engagement,Tablet,UAE,Completed
+07-Jun-26,CMP631,Google PPC,Google,PPC,E-Commerce,4089.06,20875.16754,515205,103041,25760.25,51520.5,20608.2,2060.82,53,Online Shoppers,Drive Website Traffic,Tablet,Singapore,Completed
+07-Jun-26,CMP632,Twitter Brand Awareness,Twitter,Brand Awareness,Finance,3988.53,20361.9492,1894770,378954,94738.5,189477,75790.8,7579.08,124,Working Professionals,Increase Brand Awareness,Tablet,India,Completed
+08-Jun-26,CMP633,LinkedIn B2B Lead Campaign,LinkedIn,Lead Generation,Technology,3029.49,15465.92892,330485,66097,16524.25,33048.5,13219.4,1321.94,6,Working Professionals,Generate Leads,Desktop,Singapore,Paused
+08-Jun-26,CMP634,Twitter Engagement,Twitter,Engagement,Education,825.12,4212.341771,571195,114239,28559.75,57119.5,22847.8,2284.78,50,Students,Increase Engagement,Desktop,Singapore,Active
+08-Jun-26,CMP635,Facebook Lead Generation,Facebook,Lead Generation,Technology,1379.61,7043.083226,1046995,209399,52349.75,104699.5,41879.8,4187.98,159,Working Professionals,Generate Leads,Mobile,Canada,Completed
+08-Jun-26,CMP636,Facebook Lead Generation,Facebook,Lead Generation,Healthcare,1059.75,5410.157543,319870,63974,15993.5,31987,12794.8,1279.48,51,Parents,Generate Leads,Tablet,Australia,Completed
+09-Jun-26,CMP637,ShareChat Engagement,ShareChat,Engagement,Finance,1009.08,5151.480796,112695,22539,5634.75,11269.5,4507.8,450.78,5,Working Professionals,Increase Engagement,Mobile,Singapore,Paused
+09-Jun-26,CMP638,Google PPC,Google,PPC,Technology,2302.74,11755.77842,331465,66293,16573.25,33146.5,13258.6,1325.86,13,Working Professionals,Drive Website Traffic,Tablet,UAE,Active
+09-Jun-26,CMP639,Facebook Brand Awareness,Facebook,Brand Awareness,SaaS,2082.69,10632.39539,106395,21279,5319.75,10639.5,4255.8,425.58,8,Business Owners,Increase Brand Awareness,Tablet,USA,Completed
+09-Jun-26,CMP640,ShareChat Brand Awareness,ShareChat,Brand Awareness,Real Estate,1339.2,6836.785074,280500,56100,14025,28050,11220,1122,3,High-Income Professionals,Increase Brand Awareness,Desktop,Australia,Active
+10-Jun-26,CMP641,Facebook Brand Awareness,Facebook,Brand Awareness,Technology,3548.61,18116.10206,480355,96071,24017.75,48035.5,19214.2,1921.42,65,Working Professionals,Increase Brand Awareness,Mobile,UK,Paused
+10-Jun-26,CMP642,Twitter Brand Awareness,Twitter,Brand Awareness,Technology,2777.31,14178.51819,816175,163235,40808.75,81617.5,32647,3264.7,71,Working Professionals,Increase Brand Awareness,Mobile,UK,Paused
+10-Jun-26,CMP643,LinkedIn B2B Lead Generation,LinkedIn,Lead Generation,SaaS,2091.6,10677.88206,97990,19598,4899.5,9799,3919.6,391.96,105,Business Owners,Generate Leads,Tablet,Canada,Active
+10-Jun-26,CMP644,Twitter Engagement,Twitter,Engagement,SaaS,1998.72,10203.71794,22950,4590,1147.5,2295,918,91.8,3,Business Owners,Increase Engagement,Desktop,Malaysia,Paused
+11-Jun-26,CMP645,LinkedIn B2B Awareness,LinkedIn,Brand Awareness,SaaS,300.69,1535.060412,1130530,226106,56526.5,113053,45221.2,4522.12,133,Business Owners,Increase Brand Awareness,Tablet,Singapore,Completed
+11-Jun-26,CMP646,LinkedIn B2B Awareness,LinkedIn,Brand Awareness,SaaS,1293.57,6603.838163,45840,9168,2292,4584,1833.6,183.36,1,Business Owners,Increase Brand Awareness,Mobile,UAE,Active
+11-Jun-26,CMP647,Google PPC,Google,PPC,Retail,1070.37,5464.373984,54940,10988,2747,5494,2197.6,219.76,29,Young Adults,Drive Website Traffic,Desktop,Australia,Paused
+11-Jun-26,CMP648,Instagram Conversion,Instagram,Conversion,Retail,3540.24,18073.37216,904650,180930,45232.5,90465,36186,3618.6,169,Young Adults,Drive Conversions,Mobile,USA,Paused
+12-Jun-26,CMP649,ShareChat Engagement,ShareChat,Engagement,Healthcare,4418.64,22557.71505,36505,7301,1825.25,3650.5,1460.2,146.02,108,Parents,Increase Engagement,Desktop,Malaysia,Completed
+12-Jun-26,CMP650,Twitter Lead Generation,Twitter,Lead Generation,E-Commerce,1696.95,8663.14399,1417015,283403,70850.75,141701.5,56680.6,5668.06,43,Online Shoppers,Generate Leads,Desktop,UAE,Completed
+12-Jun-26,CMP651,Twitter Lead Generation,Twitter,Lead Generation,Education,398.52,2034.494913,27730,5546,1386.5,2773,1109.2,110.92,1,Students,Generate Leads,Desktop,India,Paused
+12-Jun-26,CMP652,Twitter Conversion,Twitter,Conversion,Healthcare,1811.43,9247.578843,80835,16167,4041.75,8083.5,3233.4,323.34,2,Parents,Drive Conversions,Mobile,UK,Completed
+13-Jun-26,CMP653,Google Website Traffic,Google,Traffic,E-Commerce,3424.14,17480.667,479265,95853,23963.25,47926.5,19170.6,1917.06,99,Online Shoppers,Drive Website Traffic,Tablet,Canada,Paused
+13-Jun-26,CMP654,ShareChat Reach,ShareChat,Brand Awareness,Healthcare,1808.82,9234.254464,780475,156095,39023.75,78047.5,31219,3121.9,45,Parents,Increase Brand Awareness,Tablet,UK,Paused
+13-Jun-26,CMP655,ShareChat Engagement,ShareChat,Engagement,Finance,2102.04,10731.17958,858790,171758,42939.5,85879,34351.6,3435.16,29,Working Professionals,Increase Engagement,Mobile,UAE,Paused
+13-Jun-26,CMP656,Twitter Lead Generation,Twitter,Lead Generation,Healthcare,2130.93,10878.66668,125410,25082,6270.5,12541,5016.4,501.64,20,Parents,Generate Leads,Mobile,Australia,Completed
+14-Jun-26,CMP657,Google Website Traffic,Google,Traffic,Finance,1323.36,6755.919874,985015,197003,49250.75,98501.5,39400.6,3940.06,17,Working Professionals,Drive Website Traffic,Desktop,USA,Completed
+14-Jun-26,CMP658,Twitter Brand Awareness,Twitter,Brand Awareness,Finance,2920.95,14911.81852,407545,81509,20377.25,40754.5,16301.8,1630.18,50,Working Professionals,Increase Brand Awareness,Tablet,USA,Active
+14-Jun-26,CMP659,ShareChat Lead Generation,ShareChat,Lead Generation,Real Estate,3943.08,20129.92121,988985,197797,49449.25,98898.5,39559.4,3955.94,6,High-Income Professionals,Generate Leads,Mobile,UK,Active
+14-Jun-26,CMP660,ShareChat Engagement,ShareChat,Engagement,Retail,3910.68,19964.51512,489325,97865,24466.25,48932.5,19573,1957.3,47,Young Adults,Increase Engagement,Desktop,USA,Completed
+15-Jun-26,CMP661,Twitter Brand Awareness,Twitter,Brand Awareness,Real Estate,1419.12,7244.786764,99695,19939,4984.75,9969.5,3987.8,398.78,110,High-Income Professionals,Increase Brand Awareness,Mobile,Singapore,Active
+15-Jun-26,CMP662,Google Website Traffic,Google,Traffic,Healthcare,1642.32,8384.250943,795120,159024,39756,79512,31804.8,3180.48,91,Parents,Drive Website Traffic,Tablet,UAE,Completed
+15-Jun-26,CMP663,Twitter Engagement,Twitter,Engagement,Retail,742.59,3791.015702,520425,104085,26021.25,52042.5,20817,2081.7,179,Young Adults,Increase Engagement,Tablet,UK,Completed
+15-Jun-26,CMP664,Instagram Engagement,Instagram,Engagement,Education,551.79,2816.957613,34275,6855,1713.75,3427.5,1371,137.1,4,Students,Increase Engagement,Mobile,UAE,Paused
+16-Jun-26,CMP665,Google Website Traffic,Google,Traffic,Healthcare,316.62,1616.385073,7005,1401,350.25,700.5,280.2,28.02,2,Parents,Drive Website Traffic,Mobile,USA,Active
+16-Jun-26,CMP666,Instagram Engagement,Instagram,Engagement,Education,3547.26,18109.21014,653525,130705,32676.25,65352.5,26141,2614.1,79,Students,Increase Engagement,Mobile,UAE,Completed
+16-Jun-26,CMP667,Google Website Traffic,Google,Traffic,Technology,2313,11808.15702,1846475,369295,92323.75,184647.5,73859,7385.9,71,Working Professionals,Drive Website Traffic,Desktop,Australia,Active
+16-Jun-26,CMP668,Facebook Conversion,Facebook,Conversion,Healthcare,1168.65,5966.105792,315910,63182,15795.5,31591,12636.4,1263.64,36,Parents,Drive Conversions,Tablet,Singapore,Completed
+17-Jun-26,CMP669,Facebook Website Traffic,Facebook,Traffic,Real Estate,3727.98,19031.80856,460200,92040,23010,46020,18408,1840.8,79,High-Income Professionals,Drive Website Traffic,Tablet,Singapore,Active
+17-Jun-26,CMP670,Facebook Website Traffic,Facebook,Traffic,Technology,4047.3,20661.97747,487905,97581,24395.25,48790.5,19516.2,1951.62,28,Working Professionals,Drive Website Traffic,Desktop,UAE,Paused
+17-Jun-26,CMP671,ShareChat Brand Awareness,ShareChat,Brand Awareness,Technology,3969.36,20264.08393,582380,116476,29119,58238,23295.2,2329.52,55,Working Professionals,Increase Brand Awareness,Tablet,UAE,Completed
+17-Jun-26,CMP672,Instagram Reach,Instagram,Brand Awareness,Education,391.32,1997.738004,1211875,242375,60593.75,121187.5,48475,4847.5,42,Students,Increase Brand Awareness,Desktop,Singapore,Active
+18-Jun-26,CMP673,Twitter Engagement,Twitter,Engagement,SaaS,2283.3,11656.53477,301825,60365,15091.25,30182.5,12073,1207.3,33,Business Owners,Increase Engagement,Tablet,USA,Completed
+18-Jun-26,CMP674,Google Search Lead,Google,Lead Generation,E-Commerce,1968.21,10047.96054,87515,17503,4375.75,8751.5,3500.6,350.06,25,Online Shoppers,Generate Leads,Tablet,UAE,Completed
+18-Jun-26,CMP675,Instagram Reach,Instagram,Brand Awareness,Real Estate,1167.84,5961.97064,93600,18720,4680,9360,3744,374.4,21,High-Income Professionals,Increase Brand Awareness,Mobile,India,Completed
+18-Jun-26,CMP676,Facebook Website Traffic,Facebook,Traffic,Finance,4113.36,20999.22211,1648180,329636,82409,164818,65927.2,6592.72,48,Working Professionals,Drive Website Traffic,Mobile,India,Completed
+19-Jun-26,CMP677,Twitter Engagement,Twitter,Engagement,Real Estate,2651.13,13534.35336,674495,134899,33724.75,67449.5,26979.8,2697.98,19,High-Income Professionals,Increase Engagement,Desktop,USA,Completed
+19-Jun-26,CMP678,LinkedIn B2B Lead Campaign,LinkedIn,Lead Generation,Healthcare,3587.04,18312.29206,299820,59964,14991,29982,11992.8,1199.28,65,Parents,Generate Leads,Desktop,India,Paused
+19-Jun-26,CMP679,Twitter Brand Awareness,Twitter,Brand Awareness,E-Commerce,1605.33,8195.412323,2214250,442850,110712.5,221425,88570,8857,46,Online Shoppers,Increase Brand Awareness,Desktop,Canada,Completed
+19-Jun-26,CMP680,ShareChat Lead Generation,ShareChat,Lead Generation,Real Estate,4149.45,21183.46612,666955,133391,33347.75,66695.5,26678.2,2667.82,8,High-Income Professionals,Generate Leads,Tablet,Singapore,Active
+20-Jun-26,CMP681,Twitter Lead Generation,Twitter,Lead Generation,Real Estate,3378.96,17250.01739,812715,162543,40635.75,81271.5,32508.6,3250.86,27,High-Income Professionals,Generate Leads,Desktop,USA,Active
+20-Jun-26,CMP682,Instagram Reach,Instagram,Brand Awareness,Retail,966.69,4935.074495,8845,1769,442.25,884.5,353.8,35.38,1,Young Adults,Increase Brand Awareness,Desktop,USA,Paused
+20-Jun-26,CMP683,Instagram Conversion,Instagram,Conversion,Education,2005.38,10237.71808,583015,116603,29150.75,58301.5,23320.6,2332.06,23,Students,Drive Conversions,Desktop,Canada,Paused
+20-Jun-26,CMP684,Facebook Brand Awareness,Facebook,Brand Awareness,Education,1237.86,6319.43158,53975,10795,2698.75,5397.5,2159,215.9,107,Students,Increase Brand Awareness,Desktop,UAE,Active
+21-Jun-26,CMP685,Twitter Conversion,Twitter,Conversion,Education,2331.63,11903.26552,442065,88413,22103.25,44206.5,17682.6,1768.26,20,Students,Drive Conversions,Tablet,Australia,Paused
+21-Jun-26,CMP686,Facebook Conversion,Facebook,Conversion,Real Estate,1024.02,5227.751383,71780,14356,3589,7178,2871.2,287.12,3,High-Income Professionals,Drive Conversions,Tablet,Canada,Active
+21-Jun-26,CMP687,Instagram Lead Generation,Instagram,Lead Generation,E-Commerce,1098.63,5608.644852,1453995,290799,72699.75,145399.5,58159.8,5815.98,131,Online Shoppers,Generate Leads,Desktop,India,Paused
+21-Jun-26,CMP688,ShareChat Brand Awareness,ShareChat,Brand Awareness,Real Estate,182.25,930.4092591,516865,103373,25843.25,51686.5,20674.6,2067.46,13,High-Income Professionals,Increase Brand Awareness,Desktop,India,Active
+22-Jun-26,CMP689,Facebook Lead Generation,Facebook,Lead Generation,Education,255.87,1306.248654,841930,168386,42096.5,84193,33677.2,3367.72,37,Students,Generate Leads,Desktop,UAE,Active
+22-Jun-26,CMP690,LinkedIn Enterprise,LinkedIn,Lead Generation,Retail,1416.06,7229.165078,363975,72795,18198.75,36397.5,14559,1455.9,9,Young Adults,Generate Leads,Mobile,UAE,Completed
+22-Jun-26,CMP691,Facebook Website Traffic,Facebook,Traffic,Education,2666.25,13611.54286,1242125,248425,62106.25,124212.5,49685,4968.5,117,Students,Drive Website Traffic,Mobile,Australia,Completed
+22-Jun-26,CMP692,Instagram Reach,Instagram,Brand Awareness,Retail,2827.35,14433.9787,409870,81974,20493.5,40987,16394.8,1639.48,11,Young Adults,Increase Brand Awareness,Tablet,Malaysia,Active
+23-Jun-26,CMP693,LinkedIn B2B Lead Campaign,LinkedIn,Lead Generation,Real Estate,1331.37,6796.811935,588135,117627,29406.75,58813.5,23525.4,2352.54,15,High-Income Professionals,Generate Leads,Desktop,India,Completed
+23-Jun-26,CMP694,Twitter Lead Generation,Twitter,Lead Generation,E-Commerce,1515.6,7737.329345,1213820,242764,60691,121382,48552.8,4855.28,157,Online Shoppers,Generate Leads,Desktop,UK,Paused
+23-Jun-26,CMP695,LinkedIn B2B Lead Generation,LinkedIn,Lead Generation,Retail,2427.03,12390.29456,246685,49337,12334.25,24668.5,9867.4,986.74,4,Young Adults,Generate Leads,Desktop,Malaysia,Active
+23-Jun-26,CMP696,Facebook Website Traffic,Facebook,Traffic,Healthcare,4093.38,20897.22169,575435,115087,28771.75,57543.5,23017.4,2301.74,88,Parents,Drive Website Traffic,Mobile,Singapore,Active
+24-Jun-26,CMP697,Instagram Engagement,Instagram,Engagement,Real Estate,2596.68,13256.37923,1278915,255783,63945.75,127891.5,51156.6,5115.66,19,High-Income Professionals,Increase Engagement,Mobile,Australia,Completed
+24-Jun-26,CMP698,Instagram Reach,Instagram,Brand Awareness,E-Commerce,941.58,4806.884774,160295,32059,8014.75,16029.5,6411.8,641.18,6,Online Shoppers,Increase Brand Awareness,Desktop,UAE,Active
+24-Jun-26,CMP699,Instagram Engagement,Instagram,Engagement,Real Estate,261.99,1337.492026,849885,169977,42494.25,84988.5,33995.4,3399.54,6,High-Income Professionals,Increase Engagement,Desktop,Malaysia,Active
+24-Jun-26,CMP700,LinkedIn B2B Awareness,LinkedIn,Brand Awareness,SaaS,2744.91,14013.11209,432805,86561,21640.25,43280.5,17312.2,1731.22,28,Business Owners,Increase Brand Awareness,Mobile,Canada,Active
+25-Jun-26,CMP701,Twitter Brand Awareness,Twitter,Brand Awareness,Technology,3809.61,19448.54001,481705,96341,24085.25,48170.5,19268.2,1926.82,49,Working Professionals,Increase Brand Awareness,Desktop,UK,Paused
+25-Jun-26,CMP702,Twitter Conversion,Twitter,Conversion,E-Commerce,3752.1,19154.9442,372575,74515,18628.75,37257.5,14903,1490.3,145,Online Shoppers,Drive Conversions,Tablet,Singapore,Paused
+25-Jun-26,CMP703,Twitter Lead Generation,Twitter,Lead Generation,Technology,1632.51,8334.169654,1159455,231891,57972.75,115945.5,46378.2,4637.82,64,Working Professionals,Generate Leads,Desktop,Singapore,Completed
+25-Jun-26,CMP704,Twitter Engagement,Twitter,Engagement,Healthcare,3664.89,18709.72614,301020,60204,15051,30102,12040.8,1204.08,40,Parents,Increase Engagement,Desktop,India,Completed
+26-Jun-26,CMP705,Facebook Lead Generation,Facebook,Lead Generation,Education,3971.97,20277.40831,996780,199356,49839,99678,39871.2,3987.12,124,Students,Generate Leads,Desktop,Singapore,Active
+26-Jun-26,CMP706,LinkedIn B2B Lead Campaign,LinkedIn,Lead Generation,Finance,161.64,825.1926071,34675,6935,1733.75,3467.5,1387,138.7,1,Working Professionals,Generate Leads,Desktop,Canada,Completed
+26-Jun-26,CMP707,LinkedIn B2B Lead Generation,LinkedIn,Lead Generation,Retail,3517.11,17955.29059,187185,37437,9359.25,18718.5,7487.4,748.74,12,Young Adults,Generate Leads,Desktop,India,Active
+26-Jun-26,CMP708,Twitter Lead Generation,Twitter,Lead Generation,E-Commerce,3788.37,19340.10713,425920,85184,21296,42592,17036.8,1703.68,2,Online Shoppers,Generate Leads,Tablet,UK,Paused
+27-Jun-26,CMP709,ShareChat Lead Generation,ShareChat,Lead Generation,Education,1817.19,9276.98437,48555,9711,2427.75,4855.5,1942.2,194.22,13,Students,Generate Leads,Mobile,Singapore,Active
+27-Jun-26,CMP710,Twitter Engagement,Twitter,Engagement,Retail,1291.5,6593.270552,482670,96534,24133.5,48267,19306.8,1930.68,80,Young Adults,Increase Engagement,Tablet,Malaysia,Paused
+27-Jun-26,CMP711,Facebook Website Traffic,Facebook,Traffic,E-Commerce,2403.9,12272.21299,55920,11184,2796,5592,2236.8,223.68,4,Online Shoppers,Drive Website Traffic,Desktop,Malaysia,Completed
+27-Jun-26,CMP712,Google PPC,Google,PPC,Retail,3409.47,17405.7748,302975,60595,15148.75,30297.5,12119,1211.9,236,Young Adults,Drive Website Traffic,Desktop,UAE,Paused
+28-Jun-26,CMP713,Google Website Traffic,Google,Traffic,Retail,4335.21,22131.79437,73220,14644,3661,7322,2928.8,292.88,1,Young Adults,Drive Website Traffic,Tablet,USA,Paused
+28-Jun-26,CMP714,Twitter Brand Awareness,Twitter,Brand Awareness,SaaS,2421.63,12362.72688,29135,5827,1456.75,2913.5,1165.4,116.54,2,Business Owners,Increase Brand Awareness,Mobile,USA,Paused
+28-Jun-26,CMP715,ShareChat Lead Generation,ShareChat,Lead Generation,SaaS,4285.53,21878.1717,142075,28415,7103.75,14207.5,5683,568.3,27,Business Owners,Generate Leads,Tablet,UAE,Completed
+28-Jun-26,CMP716,Instagram Lead Generation,Instagram,Lead Generation,Retail,3816,19481.16177,206055,41211,10302.75,20605.5,8242.2,824.22,21,Young Adults,Generate Leads,Desktop,USA,Paused
+29-Jun-26,CMP717,LinkedIn Enterprise,LinkedIn,Lead Generation,Healthcare,3989.52,20367.00328,1078820,215764,53941,107882,43152.8,4315.28,160,Parents,Generate Leads,Desktop,UAE,Paused
+29-Jun-26,CMP718,Instagram Reach,Instagram,Brand Awareness,E-Commerce,1265.4,6460.026757,1004880,200976,50244,100488,40195.2,4019.52,130,Online Shoppers,Increase Brand Awareness,Desktop,USA,Active
+29-Jun-26,CMP719,LinkedIn B2B Awareness,LinkedIn,Brand Awareness,Education,470.16,2400.226158,1605710,321142,80285.5,160571,64228.4,6422.84,29,Students,Increase Brand Awareness,Tablet,Singapore,Completed
+29-Jun-26,CMP720,Facebook Website Traffic,Facebook,Traffic,Real Estate,2637.27,13463.59631,293630,58726,14681.5,29363,11745.2,1174.52,7,High-Income Professionals,Drive Website Traffic,Mobile,Malaysia,Completed
+30-Jun-26,CMP721,ShareChat Engagement,ShareChat,Engagement,Technology,2211.03,11287.58729,78765,15753,3938.25,7876.5,3150.6,315.06,42,Working Professionals,Increase Engagement,Desktop,USA,Completed
+30-Jun-26,CMP722,Twitter Brand Awareness,Twitter,Brand Awareness,Education,416.7,2127.306108,225290,45058,11264.5,22529,9011.6,901.16,135,Students,Increase Brand Awareness,Tablet,Malaysia,Active
+30-Jun-26,CMP723,Twitter Lead Generation,Twitter,Lead Generation,E-Commerce,487.98,2491.199507,397370,79474,19868.5,39737,15894.8,1589.48,38,Online Shoppers,Generate Leads,Desktop,UAE,Paused
+30-Jun-26,CMP724,Instagram Lead Generation,Instagram,Lead Generation,E-Commerce,2014.11,10282.28583,586025,117205,29301.25,58602.5,23441,2344.1,37,Online Shoppers,Generate Leads,Mobile,UAE,Paused
+01-Jul-26,CMP725,Instagram Engagement,Instagram,Engagement,Healthcare,2774.88,14874.41837,413575,82715,20678.75,41357.5,16543,1654.3,25,Parents,Increase Engagement,Desktop,Australia,Active
+01-Jul-26,CMP726,Google Website Traffic,Google,Traffic,E-Commerce,1387.35,7436.726748,164720,32944,8236,16472,6588.8,658.88,93,Online Shoppers,Drive Website Traffic,Tablet,Australia,Completed
+01-Jul-26,CMP727,Instagram Reach,Instagram,Brand Awareness,Retail,2204.37,11816.26651,117640,23528,5882,11764,4705.6,470.56,7,Young Adults,Increase Brand Awareness,Mobile,Canada,Paused
+01-Jul-26,CMP728,ShareChat Brand Awareness,ShareChat,Brand Awareness,Finance,1275.03,6834.648579,752655,150531,37632.75,75265.5,30106.2,3010.62,177,Working Professionals,Increase Brand Awareness,Mobile,USA,Paused
+02-Jul-26,CMP729,Google Website Traffic,Google,Traffic,Real Estate,3926.97,21050.06151,1647995,329599,82399.75,164799.5,65919.8,6591.98,115,High-Income Professionals,Drive Website Traffic,Desktop,Australia,Paused
+02-Jul-26,CMP730,Twitter Lead Generation,Twitter,Lead Generation,Real Estate,3710.7,19890.77157,206190,41238,10309.5,20619,8247.6,824.76,25,High-Income Professionals,Generate Leads,Tablet,Singapore,Completed
+02-Jul-26,CMP731,Facebook Lead Generation,Facebook,Lead Generation,Retail,3679.38,19722.88439,1645120,329024,82256,164512,65804.8,6580.48,140,Young Adults,Generate Leads,Desktop,India,Paused
+02-Jul-26,CMP732,LinkedIn B2B Awareness,LinkedIn,Brand Awareness,Retail,4051.35,21716.78589,1878630,375726,93931.5,187863,75145.2,7514.52,66,Young Adults,Increase Brand Awareness,Tablet,USA,Paused
+03-Jul-26,CMP733,Facebook Brand Awareness,Facebook,Brand Awareness,SaaS,2653.11,14221.68458,969230,193846,48461.5,96923,38769.2,3876.92,12,Business Owners,Increase Brand Awareness,Mobile,Malaysia,Active
+03-Jul-26,CMP734,Twitter Lead Generation,Twitter,Lead Generation,Retail,3578.49,19182.0754,402925,80585,20146.25,40292.5,16117,1611.7,30,Young Adults,Generate Leads,Mobile,Canada,Completed
+03-Jul-26,CMP735,Twitter Engagement,Twitter,Engagement,SaaS,289.08,1549.579391,2308115,461623,115405.75,230811.5,92324.6,9232.46,184,Business Owners,Increase Engagement,Tablet,Malaysia,Completed
+03-Jul-26,CMP736,Twitter Conversion,Twitter,Conversion,E-Commerce,817.02,4379.539761,982505,196501,49125.25,98250.5,39300.2,3930.02,65,Online Shoppers,Drive Conversions,Desktop,USA,Paused
+04-Jul-26,CMP737,ShareChat Brand Awareness,ShareChat,Brand Awareness,Retail,2918.79,15645.83102,119155,23831,5957.75,11915.5,4766.2,476.62,28,Young Adults,Increase Brand Awareness,Mobile,UK,Completed
+04-Jul-26,CMP738,Twitter Brand Awareness,Twitter,Brand Awareness,Technology,2293.92,12296.28877,747620,149524,37381,74762,29904.8,2990.48,59,Working Professionals,Increase Brand Awareness,Desktop,USA,Active
+04-Jul-26,CMP739,Facebook Website Traffic,Facebook,Traffic,SaaS,3444.84,18465.66027,781375,156275,39068.75,78137.5,31255,3125.5,71,Business Owners,Drive Website Traffic,Mobile,Malaysia,Active
+04-Jul-26,CMP740,Twitter Engagement,Twitter,Engagement,Healthcare,3534.93,18948.57713,775290,155058,38764.5,77529,31011.6,3101.16,26,Parents,Increase Engagement,Tablet,India,Completed
+05-Jul-26,CMP741,ShareChat Lead Generation,ShareChat,Lead Generation,Real Estate,1603.44,8595.051816,1129615,225923,56480.75,112961.5,45184.6,4518.46,128,High-Income Professionals,Generate Leads,Desktop,Australia,Paused
+05-Jul-26,CMP742,Facebook Brand Awareness,Facebook,Brand Awareness,E-Commerce,3546,19007.91657,726865,145373,36343.25,72686.5,29074.6,2907.46,48,Online Shoppers,Increase Brand Awareness,Mobile,Singapore,Paused
+05-Jul-26,CMP743,ShareChat Brand Awareness,ShareChat,Brand Awareness,Real Estate,2081.52,11157.74351,1772870,354574,88643.5,177287,70914.8,7091.48,79,High-Income Professionals,Increase Brand Awareness,Desktop,Australia,Active
+05-Jul-26,CMP744,Google Conversion,Google,Conversion,E-Commerce,1470.6,7882.978596,1592785,318557,79639.25,159278.5,63711.4,6371.14,81,Online Shoppers,Drive Conversions,Mobile,UAE,Completed
+06-Jul-26,CMP745,ShareChat Reach,ShareChat,Brand Awareness,Finance,2403.99,12886.30608,105875,21175,5293.75,10587.5,4235,423.5,13,Working Professionals,Increase Brand Awareness,Mobile,Malaysia,Paused
+06-Jul-26,CMP746,Twitter Lead Generation,Twitter,Lead Generation,SaaS,2842.83,15238.65636,10725,2145,536.25,1072.5,429,42.9,22,Business Owners,Generate Leads,Desktop,USA,Completed
+06-Jul-26,CMP747,ShareChat Brand Awareness,ShareChat,Brand Awareness,Technology,2864.07,15352.51089,455790,91158,22789.5,45579,18231.6,1823.16,104,Working Professionals,Increase Brand Awareness,Desktop,Malaysia,Paused
+06-Jul-26,CMP748,ShareChat Engagement,ShareChat,Engagement,Real Estate,3578.4,19181.59296,2162510,432502,108125.5,216251,86500.4,8650.04,52,High-Income Professionals,Increase Engagement,Tablet,Canada,Completed
+07-Jul-26,CMP749,Instagram Lead Generation,Instagram,Lead Generation,Healthcare,3891.42,20859.49991,122250,24450,6112.5,12225,4890,489,32,Parents,Generate Leads,Tablet,USA,Active
+07-Jul-26,CMP750,LinkedIn B2B Awareness,LinkedIn,Brand Awareness,E-Commerce,3018.33,16179.4035,33890,6778,1694.5,3389,1355.6,135.56,18,Online Shoppers,Increase Brand Awareness,Desktop,Canada,Paused
+07-Jul-26,CMP751,Instagram Engagement,Instagram,Engagement,Technology,730.44,3915.437839,50930,10186,2546.5,5093,2037.2,203.72,3,Working Professionals,Increase Engagement,Mobile,Australia,Completed
+07-Jul-26,CMP752,Google Search Lead,Google,Lead Generation,E-Commerce,3598.11,19287.2461,202570,40514,10128.5,20257,8102.8,810.28,26,Online Shoppers,Generate Leads,Mobile,Singapore,Completed
+08-Jul-26,CMP753,Instagram Lead Generation,Instagram,Lead Generation,Technology,3452.4,18506.18476,356860,71372,17843,35686,14274.4,1427.44,54,Working Professionals,Generate Leads,Desktop,Malaysia,Active
+08-Jul-26,CMP754,LinkedIn B2B Lead Campaign,LinkedIn,Lead Generation,Finance,4283.73,22962.43159,580620,116124,29031,58062,23224.8,2322.48,193,Working Professionals,Generate Leads,Desktop,India,Paused
+08-Jul-26,CMP755,Instagram Conversion,Instagram,Conversion,Real Estate,4158.27,22289.918,472720,94544,23636,47272,18908.8,1890.88,26,High-Income Professionals,Drive Conversions,Desktop,Australia,Active
+08-Jul-26,CMP756,Twitter Engagement,Twitter,Engagement,Technology,3161.52,16946.95668,672425,134485,33621.25,67242.5,26897,2689.7,9,Working Professionals,Increase Engagement,Tablet,Canada,Paused
+09-Jul-26,CMP757,Instagram Reach,Instagram,Brand Awareness,Education,3553.2,19046.51132,50130,10026,2506.5,5013,2005.2,200.52,2,Students,Increase Brand Awareness,Tablet,India,Paused
+09-Jul-26,CMP758,ShareChat Brand Awareness,ShareChat,Brand Awareness,SaaS,3196.17,17132.69393,506485,101297,25324.25,50648.5,20259.4,2025.94,184,Business Owners,Increase Brand Awareness,Tablet,Malaysia,Completed
+09-Jul-26,CMP759,Facebook Website Traffic,Facebook,Traffic,Real Estate,439.47,2355.727325,23955,4791,1197.75,2395.5,958.2,95.82,3,High-Income Professionals,Drive Website Traffic,Mobile,India,Completed
+09-Jul-26,CMP760,Facebook Brand Awareness,Facebook,Brand Awareness,Finance,3623.76,19424.73991,626005,125201,31300.25,62600.5,25040.2,2504.02,9,Working Professionals,Increase Brand Awareness,Desktop,India,Active
+10-Jul-26,CMP761,ShareChat Engagement,ShareChat,Engagement,Real Estate,4267.08,22873.18122,1477980,295596,73899,147798,59119.2,5911.92,50,High-Income Professionals,Increase Engagement,Mobile,UAE,Paused
+10-Jul-26,CMP762,Twitter Brand Awareness,Twitter,Brand Awareness,Education,4299.3,23045.89275,1458815,291763,72940.75,145881.5,58352.6,5835.26,145,Students,Increase Brand Awareness,Desktop,Singapore,Paused
+10-Jul-26,CMP763,Google Search Lead,Google,Lead Generation,Finance,850.32,4558.040501,445565,89113,22278.25,44556.5,17822.6,1782.26,207,Working Professionals,Generate Leads,Mobile,India,Paused
+10-Jul-26,CMP764,Instagram Lead Generation,Instagram,Lead Generation,Finance,506.79,2716.588279,648450,129690,32422.5,64845,25938,2593.8,139,Working Professionals,Generate Leads,Mobile,Australia,Active
+11-Jul-26,CMP765,Instagram Lead Generation,Instagram,Lead Generation,Real Estate,2285.82,12252.86967,181925,36385,9096.25,18192.5,7277,727.7,48,High-Income Professionals,Generate Leads,Mobile,UAE,Completed
+11-Jul-26,CMP766,Facebook Lead Generation,Facebook,Lead Generation,Finance,3286.17,17615.12837,460425,92085,23021.25,46042.5,18417,1841.7,14,Working Professionals,Generate Leads,Desktop,India,Active
+11-Jul-26,CMP767,Instagram Conversion,Instagram,Conversion,Retail,4089.69,21922.30296,964030,192806,48201.5,96403,38561.2,3856.12,67,Young Adults,Drive Conversions,Tablet,UAE,Active
+11-Jul-26,CMP768,Instagram Engagement,Instagram,Engagement,Finance,1588.05,8512.555528,777845,155569,38892.25,77784.5,31113.8,3111.38,55,Working Professionals,Increase Engagement,Mobile,Malaysia,Paused
+12-Jul-26,CMP769,ShareChat Reach,ShareChat,Brand Awareness,Education,1583.01,8485.5392,45280,9056,2264,4528,1811.2,181.12,9,Students,Increase Brand Awareness,Tablet,Malaysia,Paused
+12-Jul-26,CMP770,Twitter Lead Generation,Twitter,Lead Generation,Technology,1549.44,8305.591158,300855,60171,15042.75,30085.5,12034.2,1203.42,22,Working Professionals,Generate Leads,Desktop,USA,Paused
+12-Jul-26,CMP771,Instagram Engagement,Instagram,Engagement,Retail,2224.89,11926.26156,326865,65373,16343.25,32686.5,13074.6,1307.46,19,Young Adults,Increase Engagement,Desktop,USA,Active
+12-Jul-26,CMP772,Google PPC,Google,PPC,Healthcare,1422,7622.464004,926955,185391,46347.75,92695.5,37078.2,3707.82,62,Parents,Drive Website Traffic,Tablet,USA,Active
+13-Jul-26,CMP773,Twitter Conversion,Twitter,Conversion,SaaS,4137.84,22180.40538,473730,94746,23686.5,47373,18949.2,1894.92,342,Business Owners,Drive Conversions,Desktop,UAE,Paused
+13-Jul-26,CMP774,Twitter Lead Generation,Twitter,Lead Generation,Technology,3681.54,19734.46282,20030,4006,1001.5,2003,801.2,80.12,21,Working Professionals,Generate Leads,Mobile,Canada,Paused
+13-Jul-26,CMP775,Facebook Brand Awareness,Facebook,Brand Awareness,Education,891.63,4779.477904,184685,36937,9234.25,18468.5,7387.4,738.74,24,Students,Increase Brand Awareness,Tablet,UK,Completed
+13-Jul-26,CMP776,Twitter Conversion,Twitter,Conversion,Technology,915.66,4908.287897,34210,6842,1710.5,3421,1368.4,136.84,2,Working Professionals,Drive Conversions,Desktop,India,Paused
+14-Jul-26,CMP777,LinkedIn B2B Lead Generation,LinkedIn,Lead Generation,Finance,1971.54,10568.20864,1428140,285628,71407,142814,57125.6,5712.56,43,Working Professionals,Generate Leads,Mobile,India,Active
+14-Jul-26,CMP778,ShareChat Brand Awareness,ShareChat,Brand Awareness,Education,242.1,1297.748618,164160,32832,8208,16416,6566.4,656.64,36,Students,Increase Brand Awareness,Desktop,India,Active
+14-Jul-26,CMP779,ShareChat Reach,ShareChat,Brand Awareness,Education,3599.82,19296.41236,52730,10546,2636.5,5273,2109.2,210.92,64,Students,Increase Brand Awareness,Tablet,Canada,Completed
+14-Jul-26,CMP780,Google Website Traffic,Google,Traffic,Retail,4134.78,22164.00261,1122275,224455,56113.75,112227.5,44891,4489.1,43,Young Adults,Drive Website Traffic,Tablet,India,Completed
+15-Jul-26,CMP781,Facebook Lead Generation,Facebook,Lead Generation,SaaS,2299.59,12326.68214,157345,31469,7867.25,15734.5,6293.8,629.38,20,Business Owners,Generate Leads,Mobile,USA,Paused
+15-Jul-26,CMP782,LinkedIn Enterprise,LinkedIn,Lead Generation,Retail,219.33,1175.692707,782035,156407,39101.75,78203.5,31281.4,3128.14,59,Young Adults,Generate Leads,Mobile,India,Completed
+15-Jul-26,CMP783,ShareChat Brand Awareness,ShareChat,Brand Awareness,Real Estate,4476.6,23996.28858,779175,155835,38958.75,77917.5,31167,3116.7,107,High-Income Professionals,Increase Brand Awareness,Tablet,UAE,Completed
+15-Jul-26,CMP784,ShareChat Brand Awareness,ShareChat,Brand Awareness,Healthcare,3276.18,17561.57814,2322660,464532,116133,232266,92906.4,9290.64,183,Parents,Increase Brand Awareness,Mobile,USA,Completed
+16-Jul-26,CMP785,ShareChat Engagement,ShareChat,Engagement,Education,4469.22,23956.72896,1139120,227824,56956,113912,45564.8,4556.48,113,Students,Increase Engagement,Mobile,UAE,Completed
+16-Jul-26,CMP786,Google Website Traffic,Google,Traffic,Real Estate,676.44,3625.977181,70415,14083,3520.75,7041.5,2816.6,281.66,47,High-Income Professionals,Drive Website Traffic,Mobile,Canada,Paused
+16-Jul-26,CMP787,Google Search Lead,Google,Lead Generation,Retail,3364.65,18035.81119,1566935,313387,78346.75,156693.5,62677.4,6267.74,187,Young Adults,Generate Leads,Desktop,Canada,Completed
+16-Jul-26,CMP788,Instagram Conversion,Instagram,Conversion,Real Estate,1852.47,9929.947886,1674725,334945,83736.25,167472.5,66989,6698.9,1,High-Income Professionals,Drive Conversions,Desktop,Malaysia,Completed
+17-Jul-26,CMP789,Facebook Brand Awareness,Facebook,Brand Awareness,Retail,1684.26,9028.277935,141745,28349,7087.25,14174.5,5669.8,566.98,90,Young Adults,Increase Brand Awareness,Tablet,UK,Paused
+17-Jul-26,CMP790,Facebook Conversion,Facebook,Conversion,E-Commerce,2061.72,11051.60794,1363585,272717,68179.25,136358.5,54543.4,5454.34,48,Online Shoppers,Drive Conversions,Tablet,UK,Active
+17-Jul-26,CMP791,Instagram Reach,Instagram,Brand Awareness,Retail,788.04,4224.195875,491475,98295,24573.75,49147.5,19659,1965.9,2,Young Adults,Increase Brand Awareness,Desktop,USA,Active
+17-Jul-26,CMP792,LinkedIn B2B Lead Campaign,LinkedIn,Lead Generation,E-Commerce,175.41,940.2647053,1712545,342509,85627.25,171254.5,68501.8,6850.18,8,Online Shoppers,Generate Leads,Tablet,UAE,Paused
+18-Jul-26,CMP793,Facebook Website Traffic,Facebook,Traffic,Retail,2801.52,15017.21896,50510,10102,2525.5,5051,2020.4,202.04,5,Young Adults,Drive Website Traffic,Desktop,USA,Paused
+18-Jul-26,CMP794,Twitter Engagement,Twitter,Engagement,Education,885.6,4747.154797,468485,93697,23424.25,46848.5,18739.4,1873.94,21,Students,Increase Engagement,Tablet,USA,Active
+18-Jul-26,CMP795,Twitter Conversion,Twitter,Conversion,E-Commerce,3297.33,17674.95023,907775,181555,45388.75,90777.5,36311,3631.1,5,Online Shoppers,Drive Conversions,Tablet,Malaysia,Active
+18-Jul-26,CMP796,ShareChat Engagement,ShareChat,Engagement,Finance,2048.22,10979.24277,1023950,204790,51197.5,102395,40958,4095.8,9,Working Professionals,Increase Engagement,Mobile,Malaysia,Paused
+19-Jul-26,CMP797,ShareChat Engagement,ShareChat,Engagement,Retail,3286.26,17615.6108,327000,65400,16350,32700,13080,1308,147,Young Adults,Increase Engagement,Mobile,UAE,Active
+19-Jul-26,CMP798,Twitter Engagement,Twitter,Engagement,Retail,1580.94,8474.443208,758770,151754,37938.5,75877,30350.8,3035.08,93,Young Adults,Increase Engagement,Mobile,UAE,Paused
+19-Jul-26,CMP799,ShareChat Lead Generation,ShareChat,Lead Generation,Real Estate,2099.07,11251.81823,925520,185104,46276,92552,37020.8,3702.08,115,High-Income Professionals,Generate Leads,Tablet,UAE,Completed
+19-Jul-26,CMP800,Twitter Brand Awareness,Twitter,Brand Awareness,Education,3466.35,18580.9621,661730,132346,33086.5,66173,26469.2,2646.92,42,Students,Increase Brand Awareness,Tablet,UK,Paused
+20-Jul-26,CMP801,Google Website Traffic,Google,Traffic,Education,1936.53,10380.54164,717610,143522,35880.5,71761,28704.4,2870.44,137,Students,Drive Website Traffic,Tablet,India,Completed
+20-Jul-26,CMP802,LinkedIn Enterprise,LinkedIn,Lead Generation,SaaS,968.85,5193.406646,1212215,242443,60610.75,121221.5,48488.6,4848.86,155,Business Owners,Generate Leads,Desktop,Australia,Paused
+20-Jul-26,CMP803,LinkedIn B2B Awareness,LinkedIn,Brand Awareness,Retail,3495.15,18735.34111,78830,15766,3941.5,7883,3153.2,315.32,67,Young Adults,Increase Brand Awareness,Mobile,Canada,Completed
+20-Jul-26,CMP804,Twitter Conversion,Twitter,Conversion,E-Commerce,2560.5,13725.25955,315235,63047,15761.75,31523.5,12609.4,1260.94,89,Online Shoppers,Drive Conversions,Tablet,Australia,Paused
+21-Jul-26,CMP805,Instagram Reach,Instagram,Brand Awareness,Finance,294.21,1577.078154,324980,64996,16249,32498,12999.2,1299.92,33,Working Professionals,Increase Brand Awareness,Tablet,Australia,Active
+21-Jul-26,CMP806,LinkedIn B2B Awareness,LinkedIn,Brand Awareness,E-Commerce,3801.6,20378.03035,854425,170885,42721.25,85442.5,34177,3417.7,82,Online Shoppers,Increase Brand Awareness,Tablet,USA,Active
+21-Jul-26,CMP807,Google PPC,Google,PPC,Technology,132.21,708.6961786,1354285,270857,67714.25,135428.5,54171.4,5417.14,19,Working Professionals,Drive Website Traffic,Desktop,India,Paused
+21-Jul-26,CMP808,LinkedIn B2B Lead Campaign,LinkedIn,Lead Generation,Retail,3099.06,16612.14718,1036730,207346,51836.5,103673,41469.2,4146.92,95,Young Adults,Generate Leads,Desktop,Australia,Active
+22-Jul-26,CMP809,Facebook Brand Awareness,Facebook,Brand Awareness,E-Commerce,2884.59,15462.50594,6555,1311,327.75,655.5,262.2,26.22,4,Online Shoppers,Increase Brand Awareness,Tablet,Australia,Paused
+22-Jul-26,CMP810,LinkedIn B2B Lead Campaign,LinkedIn,Lead Generation,Retail,3591.36,19251.06352,571975,114395,28598.75,57197.5,22879,2287.9,106,Young Adults,Generate Leads,Tablet,Canada,Active
+22-Jul-26,CMP811,Twitter Brand Awareness,Twitter,Brand Awareness,Technology,1295.01,6941.749022,509455,101891,25472.75,50945.5,20378.2,2037.82,89,Working Professionals,Increase Brand Awareness,Tablet,Singapore,Active
+22-Jul-26,CMP812,Twitter Conversion,Twitter,Conversion,Education,1826.91,9792.936507,798330,159666,39916.5,79833,31933.2,3193.32,3,Students,Drive Conversions,Mobile,Canada,Active
+23-Jul-26,CMP813,LinkedIn B2B Awareness,LinkedIn,Brand Awareness,Retail,2543.31,13633.11458,1681060,336212,84053,168106,67242.4,6724.24,252,Young Adults,Increase Brand Awareness,Desktop,Malaysia,Completed
+23-Jul-26,CMP814,Instagram Conversion,Instagram,Conversion,E-Commerce,3349.44,17954.27977,1642665,328533,82133.25,164266.5,65706.6,6570.66,17,Online Shoppers,Drive Conversions,Tablet,UK,Completed
+23-Jul-26,CMP815,Twitter Engagement,Twitter,Engagement,SaaS,402.66,2158.411643,48380,9676,2419,4838,1935.2,193.52,78,Business Owners,Increase Engagement,Tablet,UAE,Active
+23-Jul-26,CMP816,Google PPC,Google,PPC,Healthcare,2698.2,14463.38423,362275,72455,18113.75,36227.5,14491,1449.1,19,Parents,Drive Website Traffic,Mobile,UK,Active
+24-Jul-26,CMP817,LinkedIn B2B Lead Campaign,LinkedIn,Lead Generation,Retail,2132.91,11433.21357,852915,170583,42645.75,85291.5,34116.6,3411.66,3,Young Adults,Generate Leads,Desktop,Canada,Active
+24-Jul-26,CMP818,ShareChat Brand Awareness,ShareChat,Brand Awareness,Real Estate,2662.47,14271.85776,738450,147690,36922.5,73845,29538,2953.8,78,High-Income Professionals,Increase Brand Awareness,Tablet,UK,Completed
+24-Jul-26,CMP819,ShareChat Reach,ShareChat,Brand Awareness,Retail,2020.05,10828.2408,366500,73300,18325,36650,14660,1466,32,Young Adults,Increase Brand Awareness,Mobile,USA,Completed
+24-Jul-26,CMP820,LinkedIn B2B Awareness,LinkedIn,Brand Awareness,Retail,1076.85,5772.327962,365445,73089,18272.25,36544.5,14617.8,1461.78,86,Young Adults,Increase Brand Awareness,Mobile,USA,Completed
+25-Jul-26,CMP821,Instagram Lead Generation,Instagram,Lead Generation,E-Commerce,4296.6,23031.41972,164475,32895,8223.75,16447.5,6579,657.9,15,Online Shoppers,Generate Leads,Tablet,UAE,Completed
+25-Jul-26,CMP822,ShareChat Brand Awareness,ShareChat,Brand Awareness,Real Estate,548.28,2938.990551,477180,95436,23859,47718,19087.2,1908.72,4,High-Income Professionals,Increase Brand Awareness,Mobile,Australia,Paused
+25-Jul-26,CMP823,Instagram Lead Generation,Instagram,Lead Generation,E-Commerce,3603.15,19314.26243,640530,128106,32026.5,64053,25621.2,2562.12,41,Online Shoppers,Generate Leads,Desktop,USA,Completed
+25-Jul-26,CMP824,Google PPC,Google,PPC,Retail,3345.21,17931.60535,105805,21161,5290.25,10580.5,4232.2,423.22,3,Young Adults,Drive Website Traffic,Tablet,Canada,Completed
+26-Jul-26,CMP825,Facebook Conversion,Facebook,Conversion,Real Estate,373.41,2001.620453,811655,162331,40582.75,81165.5,32466.2,3246.62,13,High-Income Professionals,Drive Conversions,Tablet,Canada,Active
+26-Jul-26,CMP826,Instagram Reach,Instagram,Brand Awareness,SaaS,1232.19,6605.00979,129650,25930,6482.5,12965,5186,518.6,10,Business Owners,Increase Brand Awareness,Tablet,Singapore,Completed
+26-Jul-26,CMP827,Google Conversion,Google,Conversion,Finance,4217.22,22605.91255,150615,30123,7530.75,15061.5,6024.6,602.46,100,Working Professionals,Drive Conversions,Desktop,Canada,Completed
+26-Jul-26,CMP828,ShareChat Reach,ShareChat,Brand Awareness,Finance,1267.47,6794.124086,355735,71147,17786.75,35573.5,14229.4,1422.94,25,Working Professionals,Increase Brand Awareness,Desktop,Australia,Active
+27-Jul-26,CMP829,ShareChat Engagement,ShareChat,Engagement,SaaS,3654.63,19590.21492,774155,154831,38707.75,77415.5,30966.2,3096.62,190,Business Owners,Increase Engagement,Mobile,Singapore,Completed
+27-Jul-26,CMP830,LinkedIn Enterprise,LinkedIn,Lead Generation,E-Commerce,1611.81,8639.918218,472345,94469,23617.25,47234.5,18893.8,1889.38,61,Online Shoppers,Generate Leads,Tablet,India,Active
+27-Jul-26,CMP831,Facebook Brand Awareness,Facebook,Brand Awareness,Real Estate,3571.56,19144.92794,917720,183544,45886,91772,36708.8,3670.88,111,High-Income Professionals,Increase Brand Awareness,Desktop,UAE,Paused
+27-Jul-26,CMP832,Google PPC,Google,PPC,Education,1918.71,10285.01963,1292360,258472,64618,129236,51694.4,5169.44,76,Students,Drive Website Traffic,Desktop,UK,Completed
+28-Jul-26,CMP833,Facebook Website Traffic,Facebook,Traffic,Technology,1594.44,8546.808373,752570,150514,37628.5,75257,30102.8,3010.28,80,Working Professionals,Drive Website Traffic,Desktop,UK,Paused
+28-Jul-26,CMP834,Facebook Conversion,Facebook,Conversion,Healthcare,3782.34,20274.78938,103825,20765,5191.25,10382.5,4153,415.3,10,Parents,Drive Conversions,Desktop,UAE,Completed
+28-Jul-26,CMP835,Instagram Lead Generation,Instagram,Lead Generation,Finance,4073.22,21834.01746,1694235,338847,84711.75,169423.5,67769.4,6776.94,35,Working Professionals,Generate Leads,Tablet,Australia,Completed
+28-Jul-26,CMP836,LinkedIn B2B Lead Campaign,LinkedIn,Lead Generation,Healthcare,2383.47,12776.31103,337860,67572,16893,33786,13514.4,1351.44,127,Parents,Generate Leads,Tablet,UK,Paused
+29-Jul-26,CMP837,ShareChat Lead Generation,ShareChat,Lead Generation,Finance,1265.58,6783.992963,117480,23496,5874,11748,4699.2,469.92,71,Working Professionals,Generate Leads,Desktop,Singapore,Active
+29-Jul-26,CMP838,ShareChat Lead Generation,ShareChat,Lead Generation,SaaS,4456.17,23886.77596,307020,61404,15351,30702,12280.8,1228.08,7,Business Owners,Generate Leads,Tablet,Australia,Active
+29-Jul-26,CMP839,Twitter Engagement,Twitter,Engagement,SaaS,2588.58,13875.77909,81560,16312,4078,8156,3262.4,326.24,71,Business Owners,Increase Engagement,Desktop,Singapore,Active
+29-Jul-26,CMP840,Twitter Lead Generation,Twitter,Lead Generation,Finance,2897.37,15531.01163,2046355,409271,102317.75,204635.5,81854.2,8185.42,63,Working Professionals,Generate Leads,Desktop,Singapore,Active
+30-Jul-26,CMP841,Twitter Lead Generation,Twitter,Lead Generation,Finance,3639.78,19510.61324,75120,15024,3756,7512,3004.8,300.48,134,Working Professionals,Generate Leads,Desktop,Australia,Paused
+30-Jul-26,CMP842,ShareChat Engagement,ShareChat,Engagement,Real Estate,1656.18,8877.758392,122155,24431,6107.75,12215.5,4886.2,488.62,5,High-Income Professionals,Increase Engagement,Mobile,USA,Completed
+30-Jul-26,CMP843,Facebook Lead Generation,Facebook,Lead Generation,Real Estate,2615.58,14020.50942,577225,115445,28861.25,57722.5,23089,2308.9,41,High-Income Professionals,Generate Leads,Tablet,Malaysia,Paused
+30-Jul-26,CMP844,Instagram Reach,Instagram,Brand Awareness,E-Commerce,2204.46,11816.74894,130925,26185,6546.25,13092.5,5237,523.7,1,Online Shoppers,Increase Brand Awareness,Desktop,India,Active
+31-Jul-26,CMP845,ShareChat Engagement,ShareChat,Engagement,Real Estate,330.75,1772.946533,101520,20304,5076,10152,4060.8,406.08,7,High-Income Professionals,Increase Engagement,Mobile,Canada,Paused
+31-Jul-26,CMP846,Facebook Website Traffic,Facebook,Traffic,SaaS,309.24,1657.644704,169585,33917,8479.25,16958.5,6783.4,678.34,1,Business Owners,Drive Website Traffic,Desktop,Australia,Active
+31-Jul-26,CMP847,Facebook Brand Awareness,Facebook,Brand Awareness,E-Commerce,1428.3,7656.234414,1606555,321311,80327.75,160655.5,64262.2,6426.22,107,Online Shoppers,Increase Brand Awareness,Tablet,UAE,Active
+31-Jul-26,CMP848,ShareChat Brand Awareness,ShareChat,Brand Awareness,Technology,4102.29,21989.84378,1075140,215028,53757,107514,43005.6,4300.56,158,Working Professionals,Increase Brand Awareness,Desktop,USA,Paused
+01-Aug-26,CMP849,Instagram Lead Generation,Instagram,Lead Generation,Real Estate,3745.26,21079.82772,144735,28947,7236.75,14473.5,5789.4,578.94,8,High-Income Professionals,Generate Leads,Desktop,UAE,Active
+01-Aug-26,CMP850,LinkedIn B2B Awareness,LinkedIn,Brand Awareness,SaaS,3429.9,19304.85496,727035,145407,36351.75,72703.5,29081.4,2908.14,17,Business Owners,Increase Brand Awareness,Tablet,Malaysia,Paused
+01-Aug-26,CMP851,Twitter Conversion,Twitter,Conversion,Healthcare,3168.72,17834.82901,780770,156154,39038.5,78077,31230.8,3123.08,129,Parents,Drive Conversions,Tablet,UK,Paused
+01-Aug-26,CMP852,Instagram Lead Generation,Instagram,Lead Generation,Finance,4421.61,24886.5972,138565,27713,6928.25,13856.5,5542.6,554.26,11,Working Professionals,Generate Leads,Desktop,Malaysia,Completed
+02-Aug-26,CMP853,ShareChat Engagement,ShareChat,Engagement,Retail,4240.53,23867.40622,887165,177433,44358.25,88716.5,35486.6,3548.66,3,Young Adults,Increase Engagement,Mobile,Canada,Completed
+02-Aug-26,CMP854,Google PPC,Google,PPC,E-Commerce,2063.25,11612.79979,1237885,247577,61894.25,123788.5,49515.4,4951.54,144,Online Shoppers,Drive Website Traffic,Mobile,Singapore,Completed
+02-Aug-26,CMP855,Twitter Lead Generation,Twitter,Lead Generation,E-Commerce,2115.54,11907.10891,106515,21303,5325.75,10651.5,4260.6,426.06,67,Online Shoppers,Generate Leads,Tablet,UAE,Completed
+02-Aug-26,CMP856,Facebook Conversion,Facebook,Conversion,E-Commerce,1134,6382.607517,1381170,276234,69058.5,138117,55246.8,5524.68,71,Online Shoppers,Drive Conversions,Mobile,UAE,Completed
+03-Aug-26,CMP857,Facebook Website Traffic,Facebook,Traffic,Real Estate,192.15,1081.497385,340030,68006,17001.5,34003,13601.2,1360.12,33,High-Income Professionals,Drive Website Traffic,Desktop,USA,Completed
+03-Aug-26,CMP858,ShareChat Reach,ShareChat,Brand Awareness,Real Estate,1506.69,8480.256543,469795,93959,23489.75,46979.5,18791.8,1879.18,6,High-Income Professionals,Increase Brand Awareness,Desktop,UAE,Active
+03-Aug-26,CMP859,ShareChat Lead Generation,ShareChat,Lead Generation,Real Estate,767.88,4321.93709,1552965,310593,77648.25,155296.5,62118.6,6211.86,46,High-Income Professionals,Generate Leads,Tablet,UK,Active
+03-Aug-26,CMP860,Google Search Lead,Google,Lead Generation,Real Estate,3968.1,22334.06075,153405,30681,7670.25,15340.5,6136.2,613.62,6,High-Income Professionals,Generate Leads,Mobile,Australia,Active
+04-Aug-26,CMP861,Google Search Lead,Google,Lead Generation,Education,3177.45,17883.96495,1160120,232024,58006,116012,46404.8,4640.48,18,Students,Generate Leads,Desktop,Australia,Active
+04-Aug-26,CMP862,Facebook Conversion,Facebook,Conversion,E-Commerce,3917.97,22051.90897,1738465,347693,86923.25,173846.5,69538.6,6953.86,86,Online Shoppers,Drive Conversions,Desktop,Singapore,Active
+04-Aug-26,CMP863,ShareChat Reach,ShareChat,Brand Awareness,Retail,2129.67,11986.63823,966010,193202,48300.5,96601,38640.4,3864.04,25,Young Adults,Increase Brand Awareness,Desktop,Malaysia,Completed
+04-Aug-26,CMP864,ShareChat Brand Awareness,ShareChat,Brand Awareness,Healthcare,2232.99,12568.16469,847110,169422,42355.5,84711,33884.4,3388.44,5,Parents,Increase Brand Awareness,Tablet,UK,Active
+05-Aug-26,CMP865,LinkedIn B2B Lead Generation,LinkedIn,Lead Generation,Technology,3011.49,16949.87541,79560,15912,3978,7956,3182.4,318.24,6,Working Professionals,Generate Leads,Mobile,USA,Active
+05-Aug-26,CMP866,Google Website Traffic,Google,Traffic,Finance,3826.53,21537.24792,248875,49775,12443.75,24887.5,9955,995.5,12,Working Professionals,Drive Website Traffic,Desktop,USA,Active
+05-Aug-26,CMP867,Facebook Website Traffic,Facebook,Traffic,Retail,4485.69,25247.26518,251870,50374,12593.5,25187,10074.8,1007.48,5,Young Adults,Drive Website Traffic,Tablet,Australia,Completed
+05-Aug-26,CMP868,Facebook Website Traffic,Facebook,Traffic,Retail,979.65,5513.863716,1040035,208007,52001.75,104003.5,41601.4,4160.14,60,Young Adults,Drive Website Traffic,Mobile,Malaysia,Active
+06-Aug-26,CMP869,ShareChat Engagement,ShareChat,Engagement,Education,1619.28,9113.95829,198880,39776,9944,19888,7955.2,795.52,12,Students,Increase Engagement,Desktop,Malaysia,Completed
+06-Aug-26,CMP870,Instagram Reach,Instagram,Brand Awareness,Education,1160.28,6530.521914,234755,46951,11737.75,23475.5,9390.2,939.02,178,Students,Increase Brand Awareness,Desktop,Malaysia,Active
+06-Aug-26,CMP871,ShareChat Brand Awareness,ShareChat,Brand Awareness,Technology,2637.18,14843.10837,1055595,211119,52779.75,105559.5,42223.8,4222.38,44,Working Professionals,Increase Brand Awareness,Mobile,UAE,Active
+06-Aug-26,CMP872,LinkedIn Enterprise,LinkedIn,Lead Generation,Real Estate,3857.58,21712.00979,594610,118922,29730.5,59461,23784.4,2378.44,125,High-Income Professionals,Generate Leads,Mobile,USA,Active
+07-Aug-26,CMP873,Facebook Website Traffic,Facebook,Traffic,E-Commerce,1429.29,8044.618252,113795,22759,5689.75,11379.5,4551.8,455.18,30,Online Shoppers,Drive Website Traffic,Tablet,USA,Active
+07-Aug-26,CMP874,LinkedIn Enterprise,LinkedIn,Lead Generation,Real Estate,2784.33,15671.32768,91810,18362,4590.5,9181,3672.4,367.24,3,High-Income Professionals,Generate Leads,Tablet,UAE,Active
+07-Aug-26,CMP875,Google PPC,Google,PPC,Technology,3715.29,20911.14452,1719425,343885,85971.25,171942.5,68777,6877.7,252,Working Professionals,Drive Website Traffic,Mobile,Canada,Paused
+07-Aug-26,CMP876,Twitter Engagement,Twitter,Engagement,Finance,1680.39,9457.909917,1992985,398597,99649.25,199298.5,79719.4,7971.94,73,Working Professionals,Increase Engagement,Tablet,Singapore,Active
+08-Aug-26,CMP877,Twitter Brand Awareness,Twitter,Brand Awareness,E-Commerce,4104.45,23101.49332,1700840,340168,85042,170084,68033.6,6803.36,7,Online Shoppers,Increase Brand Awareness,Desktop,Malaysia,Completed
+08-Aug-26,CMP878,Facebook Website Traffic,Facebook,Traffic,Education,3139.29,17669.18514,514405,102881,25720.25,51440.5,20576.2,2057.62,33,Students,Drive Website Traffic,Tablet,Singapore,Paused
+08-Aug-26,CMP879,Instagram Conversion,Instagram,Conversion,Healthcare,4010.76,22574.16836,435230,87046,21761.5,43523,17409.2,1740.92,35,Parents,Drive Conversions,Mobile,Australia,Active
+08-Aug-26,CMP880,Twitter Conversion,Twitter,Conversion,SaaS,124.2,699.04749,561900,112380,28095,56190,22476,2247.6,25,Business Owners,Drive Conversions,Mobile,Malaysia,Active
+09-Aug-26,CMP881,LinkedIn B2B Awareness,LinkedIn,Brand Awareness,E-Commerce,3544.29,19948.68783,1685780,337156,84289,168578,67431.2,6743.12,106,Online Shoppers,Increase Brand Awareness,Mobile,India,Completed
+09-Aug-26,CMP882,Instagram Reach,Instagram,Brand Awareness,Healthcare,1157.04,6512.285892,113475,22695,5673.75,11347.5,4539,453.9,46,Parents,Increase Brand Awareness,Desktop,UK,Active
+09-Aug-26,CMP883,Instagram Conversion,Instagram,Conversion,Real Estate,1852.02,10423.9125,1408705,281741,70435.25,140870.5,56348.2,5634.82,8,High-Income Professionals,Drive Conversions,Tablet,USA,Paused
+09-Aug-26,CMP884,Google PPC,Google,PPC,SaaS,330.66,1861.087303,362585,72517,18129.25,36258.5,14503.4,1450.34,58,Business Owners,Drive Website Traffic,Tablet,Australia,Paused
+10-Aug-26,CMP885,LinkedIn B2B Awareness,LinkedIn,Brand Awareness,Healthcare,2220.21,12496.23372,388455,77691,19422.75,38845.5,15538.2,1553.82,10,Parents,Increase Brand Awareness,Desktop,Canada,Completed
+10-Aug-26,CMP886,Facebook Website Traffic,Facebook,Traffic,Education,3192.66,17969.57294,171920,34384,8596,17192,6876.8,687.68,12,Students,Drive Website Traffic,Desktop,UK,Active
+10-Aug-26,CMP887,Facebook Lead Generation,Facebook,Lead Generation,Real Estate,762.48,4291.543721,40485,8097,2024.25,4048.5,1619.4,161.94,1,High-Income Professionals,Generate Leads,Mobile,UK,Active
+10-Aug-26,CMP888,Google Conversion,Google,Conversion,Healthcare,3102.39,17461.49712,1442790,288558,72139.5,144279,57711.6,5771.16,100,Parents,Drive Conversions,Tablet,Australia,Completed
+11-Aug-26,CMP889,Instagram Engagement,Instagram,Engagement,Retail,3249.9,18291.74265,256610,51322,12830.5,25661,10264.4,1026.44,113,Young Adults,Increase Engagement,Desktop,Malaysia,Completed
+11-Aug-26,CMP890,Facebook Lead Generation,Facebook,Lead Generation,Real Estate,3650.13,20544.39786,1257040,251408,62852,125704,50281.6,5028.16,6,High-Income Professionals,Generate Leads,Desktop,Singapore,Completed
+11-Aug-26,CMP891,Twitter Lead Generation,Twitter,Lead Generation,Finance,2401.56,13516.94436,1724425,344885,86221.25,172442.5,68977,6897.7,57,Working Professionals,Generate Leads,Mobile,USA,Active
+11-Aug-26,CMP892,Facebook Conversion,Facebook,Conversion,SaaS,3573.45,20112.81202,338245,67649,16912.25,33824.5,13529.8,1352.98,20,Business Owners,Drive Conversions,Desktop,UAE,Paused
+12-Aug-26,CMP893,Twitter Conversion,Twitter,Conversion,Real Estate,2753.19,15496.05925,311865,62373,15593.25,31186.5,12474.6,1247.46,41,High-Income Professionals,Drive Conversions,Tablet,UK,Paused
+12-Aug-26,CMP894,Facebook Lead Generation,Facebook,Lead Generation,Finance,1312.83,7389.134592,555075,111015,27753.75,55507.5,22203,2220.3,197,Working Professionals,Generate Leads,Desktop,UAE,Completed
+12-Aug-26,CMP895,Google Website Traffic,Google,Traffic,E-Commerce,3628.89,20424.85061,740195,148039,37009.75,74019.5,29607.8,2960.78,15,Online Shoppers,Drive Website Traffic,Mobile,USA,Completed
+12-Aug-26,CMP896,Facebook Conversion,Facebook,Conversion,Healthcare,2480.58,13961.70067,1375820,275164,68791,137582,55032.8,5503.28,51,Parents,Drive Conversions,Tablet,USA,Active
+13-Aug-26,CMP897,Facebook Conversion,Facebook,Conversion,Education,846.99,4767.199948,2039260,407852,101963,203926,81570.4,8157.04,59,Students,Drive Conversions,Tablet,Canada,Active
+13-Aug-26,CMP898,ShareChat Brand Awareness,ShareChat,Brand Awareness,E-Commerce,2226.51,12531.69265,1539995,307999,76999.75,153999.5,61599.8,6159.98,42,Online Shoppers,Increase Brand Awareness,Mobile,Malaysia,Paused
+13-Aug-26,CMP899,Google Search Lead,Google,Lead Generation,Real Estate,3754.98,21134.53578,155995,31199,7799.75,15599.5,6239.8,623.98,9,High-Income Professionals,Generate Leads,Desktop,Canada,Completed
+13-Aug-26,CMP900,Google Search Lead,Google,Lead Generation,SaaS,1752.39,9863.154839,467025,93405,23351.25,46702.5,18681,1868.1,80,Business Owners,Generate Leads,Tablet,Malaysia,Completed
+14-Aug-26,CMP901,LinkedIn B2B Lead Generation,LinkedIn,Lead Generation,Retail,3069.99,17279.13691,138825,27765,6941.25,13882.5,5553,555.3,17,Young Adults,Generate Leads,Desktop,Singapore,Active
+14-Aug-26,CMP902,Facebook Website Traffic,Facebook,Traffic,Healthcare,1160.28,6530.521914,435940,87188,21797,43594,17437.6,1743.76,47,Parents,Drive Website Traffic,Desktop,Singapore,Completed
+14-Aug-26,CMP903,Twitter Conversion,Twitter,Conversion,Technology,4309.56,24255.93479,1037740,207548,51887,103774,41509.6,4150.96,40,Working Professionals,Drive Conversions,Mobile,UAE,Active
+14-Aug-26,CMP904,Google Website Traffic,Google,Traffic,Technology,4313.16,24276.19704,146000,29200,7300,14600,5840,584,49,Working Professionals,Drive Website Traffic,Desktop,Malaysia,Completed
+15-Aug-26,CMP905,ShareChat Lead Generation,ShareChat,Lead Generation,Retail,3019.23,16993.43924,1350705,270141,67535.25,135070.5,54028.2,5402.82,194,Young Adults,Generate Leads,Desktop,USA,Completed
+15-Aug-26,CMP906,Google PPC,Google,PPC,Education,1454.94,8188.986756,60315,12063,3015.75,6031.5,2412.6,241.26,40,Students,Drive Website Traffic,Tablet,UK,Completed
+15-Aug-26,CMP907,Google Search Lead,Google,Lead Generation,Education,2193.66,12346.79965,155140,31028,7757,15514,6205.6,620.56,93,Students,Generate Leads,Tablet,Malaysia,Completed
+15-Aug-26,CMP908,Instagram Engagement,Instagram,Engagement,Retail,3462.57,19488.73484,1647175,329435,82358.75,164717.5,65887,6588.7,1,Young Adults,Increase Engagement,Tablet,Canada,Active
+16-Aug-26,CMP909,Google Search Lead,Google,Lead Generation,Education,1905.12,10722.78063,184505,36901,9225.25,18450.5,7380.2,738.02,2,Students,Generate Leads,Desktop,USA,Completed
+16-Aug-26,CMP910,LinkedIn B2B Awareness,LinkedIn,Brand Awareness,Real Estate,3255.75,18324.6688,793115,158623,39655.75,79311.5,31724.6,3172.46,108,High-Income Professionals,Increase Brand Awareness,Mobile,Singapore,Completed
+16-Aug-26,CMP911,Google PPC,Google,PPC,Finance,336.96,1896.546234,496140,99228,24807,49614,19845.6,1984.56,32,Working Professionals,Drive Website Traffic,Mobile,UAE,Active
+16-Aug-26,CMP912,Google Search Lead,Google,Lead Generation,E-Commerce,1836.99,10339.31762,791980,158396,39599,79198,31679.2,3167.92,25,Online Shoppers,Generate Leads,Tablet,India,Paused
+17-Aug-26,CMP913,Facebook Brand Awareness,Facebook,Brand Awareness,SaaS,231.93,1305.395204,567350,113470,28367.5,56735,22694,2269.4,38,Business Owners,Increase Brand Awareness,Tablet,USA,Completed
+17-Aug-26,CMP914,LinkedIn B2B Lead Generation,LinkedIn,Lead Generation,Retail,1706.04,9602.27842,2016110,403222,100805.5,201611,80644.4,8064.44,76,Young Adults,Generate Leads,Tablet,Malaysia,Active
+17-Aug-26,CMP915,Twitter Lead Generation,Twitter,Lead Generation,Healthcare,479.79,2700.450847,32475,6495,1623.75,3247.5,1299,129.9,12,Parents,Generate Leads,Mobile,Australia,Active
+17-Aug-26,CMP916,Instagram Lead Generation,Instagram,Lead Generation,Technology,463.41,2608.257627,768235,153647,38411.75,76823.5,30729.4,3072.94,12,Working Professionals,Generate Leads,Mobile,Singapore,Paused
+18-Aug-26,CMP917,ShareChat Brand Awareness,ShareChat,Brand Awareness,SaaS,3276.09,18439.15049,2086035,417207,104301.75,208603.5,83441.4,8344.14,119,Business Owners,Increase Brand Awareness,Tablet,UK,Paused
+18-Aug-26,CMP918,Google Website Traffic,Google,Traffic,Finance,2986.29,16808.03968,2385890,477178,119294.5,238589,95435.6,9543.56,24,Working Professionals,Drive Website Traffic,Mobile,India,Active
+18-Aug-26,CMP919,Instagram Conversion,Instagram,Conversion,Real Estate,706.23,3974.946126,1208895,241779,60444.75,120889.5,48355.8,4835.58,9,High-Income Professionals,Drive Conversions,Mobile,USA,Paused
+18-Aug-26,CMP920,Twitter Brand Awareness,Twitter,Brand Awareness,Education,953.46,5366.455876,70870,14174,3543.5,7087,2834.8,283.48,2,Students,Increase Brand Awareness,Desktop,Singapore,Completed
+19-Aug-26,CMP921,LinkedIn B2B Awareness,LinkedIn,Brand Awareness,SaaS,2852.55,16055.29724,1331750,266350,66587.5,133175,53270,5327,151,Business Owners,Increase Brand Awareness,Mobile,Malaysia,Active
+19-Aug-26,CMP922,LinkedIn Enterprise,LinkedIn,Lead Generation,Finance,4115.88,23165.82595,275965,55193,13798.25,27596.5,11038.6,1103.86,111,Working Professionals,Generate Leads,Mobile,Singapore,Paused
+19-Aug-26,CMP923,LinkedIn Enterprise,LinkedIn,Lead Generation,E-Commerce,3997.44,22499.19805,877090,175418,43854.5,87709,35083.6,3508.36,3,Online Shoppers,Generate Leads,Tablet,Malaysia,Completed
+19-Aug-26,CMP924,Facebook Website Traffic,Facebook,Traffic,E-Commerce,199.62,1123.541545,1682665,336533,84133.25,168266.5,67306.6,6730.66,12,Online Shoppers,Drive Website Traffic,Desktop,India,Paused
+20-Aug-26,CMP925,LinkedIn B2B Lead Generation,LinkedIn,Lead Generation,Education,1833.75,10321.0816,1150490,230098,57524.5,115049,46019.6,4601.96,104,Students,Generate Leads,Mobile,Singapore,Completed
+20-Aug-26,CMP926,ShareChat Engagement,ShareChat,Engagement,Retail,2325.33,13087.8913,260150,52030,13007.5,26015,10406,1040.6,1,Young Adults,Increase Engagement,Mobile,USA,Paused
+20-Aug-26,CMP927,Facebook Conversion,Facebook,Conversion,Education,4464.36,25127.21137,248480,49696,12424,24848,9939.2,993.92,1,Students,Drive Conversions,Mobile,India,Active
+20-Aug-26,CMP928,LinkedIn B2B Awareness,LinkedIn,Brand Awareness,E-Commerce,799.2,4498.218631,22145,4429,1107.25,2214.5,885.8,88.58,4,Online Shoppers,Increase Brand Awareness,Tablet,UK,Paused
+21-Aug-26,CMP929,Facebook Lead Generation,Facebook,Lead Generation,Education,3163.77,17806.96842,626305,125261,31315.25,62630.5,25052.2,2505.22,25,Students,Generate Leads,Mobile,Malaysia,Active
+21-Aug-26,CMP930,ShareChat Lead Generation,ShareChat,Lead Generation,Real Estate,1365.57,7685.976497,1788145,357629,89407.25,178814.5,71525.8,7152.58,26,High-Income Professionals,Generate Leads,Mobile,UAE,Completed
+21-Aug-26,CMP931,Twitter Lead Generation,Twitter,Lead Generation,SaaS,4216.86,23734.18195,194975,38995,9748.75,19497.5,7799,779.9,6,Business Owners,Generate Leads,Desktop,USA,Paused
+21-Aug-26,CMP932,Twitter Conversion,Twitter,Conversion,Finance,2682.09,15095.87989,200175,40035,10008.75,20017.5,8007,800.7,201,Working Professionals,Drive Conversions,Mobile,UK,Active
+22-Aug-26,CMP933,Twitter Lead Generation,Twitter,Lead Generation,Education,3568.68,20085.96455,849775,169955,42488.75,84977.5,33991,3399.1,65,Students,Generate Leads,Desktop,UK,Active
+22-Aug-26,CMP934,Google PPC,Google,PPC,Real Estate,2888.73,16258.93282,99715,19943,4985.75,9971.5,3988.6,398.86,67,High-Income Professionals,Drive Website Traffic,Mobile,India,Paused
+22-Aug-26,CMP935,Twitter Conversion,Twitter,Conversion,SaaS,4423.59,24897.74143,129380,25876,6469,12938,5175.2,517.52,2,Business Owners,Drive Conversions,Desktop,USA,Active
+22-Aug-26,CMP936,Twitter Engagement,Twitter,Engagement,Technology,2644.74,14885.65909,113380,22676,5669,11338,4535.2,453.52,55,Working Professionals,Increase Engagement,Mobile,India,Completed
+23-Aug-26,CMP937,Facebook Lead Generation,Facebook,Lead Generation,SaaS,195.57,1100.746519,155445,31089,7772.25,15544.5,6217.8,621.78,125,Business Owners,Generate Leads,Mobile,Singapore,Paused
+23-Aug-26,CMP938,Google Search Lead,Google,Lead Generation,Healthcare,1903.14,10711.63639,637595,127519,31879.75,63759.5,25503.8,2550.38,33,Parents,Generate Leads,Tablet,UAE,Active
+23-Aug-26,CMP939,Google Conversion,Google,Conversion,Real Estate,2255.13,12692.7775,1650400,330080,82520,165040,66016,6601.6,32,High-Income Professionals,Drive Conversions,Tablet,Australia,Paused
+23-Aug-26,CMP940,ShareChat Reach,ShareChat,Brand Awareness,Retail,1823.58,10263.84075,457665,91533,22883.25,45766.5,18306.6,1830.66,8,Young Adults,Increase Brand Awareness,Tablet,UK,Completed
+24-Aug-26,CMP941,ShareChat Lead Generation,ShareChat,Lead Generation,Real Estate,4224.69,23778.25234,605480,121096,30274,60548,24219.2,2421.92,59,High-Income Professionals,Generate Leads,Mobile,India,Completed
+24-Aug-26,CMP942,Instagram Engagement,Instagram,Engagement,E-Commerce,2787.03,15686.52436,1089155,217831,54457.75,108915.5,43566.2,4356.62,40,Online Shoppers,Increase Engagement,Desktop,Malaysia,Completed
+24-Aug-26,CMP943,LinkedIn B2B Lead Campaign,LinkedIn,Lead Generation,Finance,2898.63,16314.65399,123785,24757,6189.25,12378.5,4951.4,495.14,10,Working Professionals,Generate Leads,Tablet,Malaysia,Completed
+24-Aug-26,CMP944,ShareChat Engagement,ShareChat,Engagement,Healthcare,3887.91,21882.71922,195905,39181,9795.25,19590.5,7836.2,783.62,6,Parents,Increase Engagement,Tablet,UAE,Completed
+25-Aug-26,CMP945,Facebook Conversion,Facebook,Conversion,Education,4067.73,22894.81841,207880,41576,10394,20788,8315.2,831.52,45,Students,Drive Conversions,Tablet,UAE,Active
+25-Aug-26,CMP946,LinkedIn Enterprise,LinkedIn,Lead Generation,E-Commerce,4159.53,23411.50568,249805,49961,12490.25,24980.5,9992.2,999.22,64,Online Shoppers,Generate Leads,Mobile,Canada,Paused
+25-Aug-26,CMP947,Instagram Reach,Instagram,Brand Awareness,SaaS,1134.09,6383.114073,1270780,254156,63539,127078,50831.2,5083.12,103,Business Owners,Increase Brand Awareness,Mobile,Singapore,Completed
+25-Aug-26,CMP948,Twitter Engagement,Twitter,Engagement,SaaS,671.04,3776.88267,333840,66768,16692,33384,13353.6,1335.36,8,Business Owners,Increase Engagement,Mobile,Canada,Completed
+26-Aug-26,CMP949,ShareChat Brand Awareness,ShareChat,Brand Awareness,E-Commerce,1055.88,5942.916777,217830,43566,10891.5,21783,8713.2,871.32,121,Online Shoppers,Increase Brand Awareness,Mobile,India,Paused
+26-Aug-26,CMP950,Twitter Conversion,Twitter,Conversion,Technology,2839.68,15982.85971,639985,127997,31999.25,63998.5,25599.4,2559.94,21,Working Professionals,Drive Conversions,Mobile,UK,Paused
+26-Aug-26,CMP951,Facebook Lead Generation,Facebook,Lead Generation,Real Estate,362.79,2041.927849,131925,26385,6596.25,13192.5,5277,527.7,8,High-Income Professionals,Generate Leads,Tablet,UK,Active
+26-Aug-26,CMP952,Google PPC,Google,PPC,Healthcare,3852.54,21683.64265,1735865,347173,86793.25,173586.5,69434.6,6943.46,56,Parents,Drive Website Traffic,Mobile,Malaysia,Active
+27-Aug-26,CMP953,Instagram Reach,Instagram,Brand Awareness,Technology,3632.49,20445.11286,544940,108988,27247,54494,21797.6,2179.76,50,Working Professionals,Increase Brand Awareness,Mobile,Canada,Active
+27-Aug-26,CMP954,LinkedIn B2B Lead Campaign,LinkedIn,Lead Generation,Finance,1636.38,9210.203959,493425,98685,24671.25,49342.5,19737,1973.7,29,Working Professionals,Generate Leads,Desktop,Malaysia,Paused
+27-Aug-26,CMP955,Google Conversion,Google,Conversion,Finance,1867.68,10512.05327,119395,23879,5969.75,11939.5,4775.8,477.58,13,Working Professionals,Drive Conversions,Desktop,Australia,Completed
+27-Aug-26,CMP956,ShareChat Brand Awareness,ShareChat,Brand Awareness,Retail,2607.57,14676.4514,611260,122252,30563,61126,24450.4,2445.04,16,Young Adults,Increase Brand Awareness,Desktop,Canada,Active
+28-Aug-26,CMP957,LinkedIn B2B Lead Generation,LinkedIn,Lead Generation,Retail,3888.45,21885.75855,1556700,311340,77835,155670,62268,6226.8,124,Young Adults,Generate Leads,Tablet,India,Active
+28-Aug-26,CMP958,Google Conversion,Google,Conversion,Education,3447.81,19405.65963,820410,164082,41020.5,82041,32816.4,3281.64,40,Students,Drive Conversions,Mobile,UAE,Paused
+28-Aug-26,CMP959,Facebook Brand Awareness,Facebook,Brand Awareness,Healthcare,3301.47,18581.99933,231110,46222,11555.5,23111,9244.4,924.44,18,Parents,Increase Brand Awareness,Mobile,Singapore,Paused
+28-Aug-26,CMP960,LinkedIn B2B Lead Generation,LinkedIn,Lead Generation,E-Commerce,2314.53,13027.10457,581080,116216,29054,58108,23243.2,2324.32,116,Online Shoppers,Generate Leads,Desktop,UAE,Active
+29-Aug-26,CMP961,LinkedIn B2B Lead Campaign,LinkedIn,Lead Generation,SaaS,1865.16,10497.8697,56550,11310,2827.5,5655,2262,226.2,3,Business Owners,Generate Leads,Desktop,Malaysia,Paused
+29-Aug-26,CMP962,Instagram Lead Generation,Instagram,Lead Generation,Healthcare,3200.94,18016.17611,1676545,335309,83827.25,167654.5,67061.8,6706.18,130,Parents,Generate Leads,Tablet,Malaysia,Paused
+29-Aug-26,CMP963,Facebook Conversion,Facebook,Conversion,SaaS,1866.42,10504.96148,156315,31263,7815.75,15631.5,6252.6,625.26,5,Business Owners,Drive Conversions,Desktop,India,Paused
+29-Aug-26,CMP964,Facebook Conversion,Facebook,Conversion,Finance,1745.64,9825.163127,1384225,276845,69211.25,138422.5,55369,5536.9,1,Working Professionals,Drive Conversions,Mobile,UK,Active
+30-Aug-26,CMP965,Google Search Lead,Google,Lead Generation,E-Commerce,639.72,3600.60113,1986655,397331,99332.75,198665.5,79466.2,7946.62,188,Online Shoppers,Generate Leads,Tablet,Australia,Paused
+30-Aug-26,CMP966,Instagram Engagement,Instagram,Engagement,E-Commerce,3011.67,16950.88852,171260,34252,8563,17126,6850.4,685.04,37,Online Shoppers,Increase Engagement,Desktop,Australia,Completed
+30-Aug-26,CMP967,Google Conversion,Google,Conversion,Technology,559.17,3147.233373,1069435,213887,53471.75,106943.5,42777.4,4277.74,173,Working Professionals,Drive Conversions,Mobile,UK,Active
+30-Aug-26,CMP968,Facebook Brand Awareness,Facebook,Brand Awareness,Finance,682.83,3843.241526,597730,119546,29886.5,59773,23909.2,2390.92,183,Working Professionals,Increase Brand Awareness,Tablet,India,Active
+31-Aug-26,CMP969,Facebook Brand Awareness,Facebook,Brand Awareness,Finance,1557.09,8763.927988,55510,11102,2775.5,5551,2220.4,222.04,2,Working Professionals,Increase Brand Awareness,Desktop,USA,Completed
+31-Aug-26,CMP970,ShareChat Engagement,ShareChat,Engagement,SaaS,4116.96,23171.90462,295530,59106,14776.5,29553,11821.2,1182.12,5,Business Owners,Increase Engagement,Tablet,UAE,Completed
+31-Aug-26,CMP971,ShareChat Engagement,ShareChat,Engagement,Finance,1870.65,10528.76962,876305,175261,43815.25,87630.5,35052.2,3505.22,29,Working Professionals,Increase Engagement,Mobile,Canada,Completed
+31-Aug-26,CMP972,ShareChat Lead Generation,ShareChat,Lead Generation,E-Commerce,2317.14,13041.79469,1413665,282733,70683.25,141366.5,56546.6,5654.66,30,Online Shoppers,Generate Leads,Mobile,India,Paused
