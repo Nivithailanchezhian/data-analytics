@@ -116,6 +116,13 @@ DIVIDE(
 
 Total Packet Streams = COUNTROWS('network_traffic_clean')
 
+**Banking Performance Analysis**
+<img width="1145" height="643" alt="Banking Performance Analysis" src="https://github.com/user-attachments/assets/274641e3-4ce2-49cc-a8aa-0bd0b6d53169" />
+
+Cleaning Steps used 
+
+No cleaning required
+
 
 
 
