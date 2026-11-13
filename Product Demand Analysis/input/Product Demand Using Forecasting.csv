@@ -1,0 +1,721 @@
+Order_ID,Order_Date,Product_ID,Product_Name,Product_Category,Region,City,Sales_Channel,Units_Sold,Unit_Price,Discount_Percentage,Marketing_Spend,Inventory_Stock,Previous_Day_Demand,Previous_Week_Demand,Previous_Month_Demand,Holiday_Flag,weather_Condition,Competitor_Price,Demand_Quantity
+ORD001,01-01-2025,P005,Mouse,Accessories,North,Jaipur,Retail Store,57,208,0,586,128,62,52,49,No,Cloudy,220,60
+ORD002,02-01-2025,P004,Keyboard,Accessories,West,Mumbai,Distributor,11,2694,5,1556,121,12,14,14,No,Cloudy,2910,12
+ORD003,03-01-2025,P003,Headphones,Accessories,North,Delhi,Distributor,70,4411,5,4387,82,63,56,52,Yes,Windy,4146,63
+ORD004,04-01-2025,P008,Power Bank,Accessories,South,Chennai,Marketplace,97,2723,20,2206,158,67,80,71,No,Cloudy,2669,69
+ORD005,05-01-2025,P001,Laptop,Electronics,South,Kochi,Distributor,34,42278,10,10127,89,26,21,23,No,Windy,38473,24
+ORD006,06-01-2025,P001,Laptop,Electronics,West,Mumbai,Distributor,89,67468,0,6200,69,104,93,88,No,Cloudy,72191,103
+ORD007,07-01-2025,P007,Tablet,Electronics,East,Patna,Marketplace,19,27120,0,7237,54,23,25,28,No,Cloudy,27934,23
+ORD008,08-01-2025,P001,Laptop,Electronics,West,Pune,Online,22,78505,15,10927,62,19,18,19,Yes,Sunny,75365,18
+ORD009,09-01-2025,P002,Mobile,Electronics,South,Kochi,Marketplace,90,13968,15,12142,110,77,84,89,Yes,Windy,14247,78
+ORD010,10-01-2025,P002,Mobile,Electronics,West,Mumbai,Online,48,64599,0,10185,78,52,43,57,Yes,Windy,64599,48
+ORD011,11-01-2025,P008,Power Bank,Accessories,South,Hyderabad,Distributor,81,1113,20,1732,40,75,89,69,No,Sunny,1057,77
+ORD012,12-01-2025,P010,Monitor,Electronics,West,Surat,Marketplace,26,17065,10,2774,28,22,22,19,Yes,Sunny,18260,23
+ORD013,13-01-2025,P009,Bluetooth Speaker,Audio,East,Patna,Marketplace,73,3544,10,4018,114,54,47,64,No,Windy,3544,57
+ORD014,14-01-2025,P004,Keyboard,Accessories,West,Pune,Distributor,27,2648,5,2011,137,26,31,31,No,Cloudy,2542,27
+ORD015,15-01-2025,P008,Power Bank,Accessories,East,Kolkata,Retail Store,70,1261,10,2690,83,51,58,49,No,Windy,1135,52
+ORD016,16-01-2025,P004,Keyboard,Accessories,South,Kochi,Online,94,2974,10,2134,126,88,77,113,No,Sunny,3271,92
+ORD017,17-01-2025,P002,Mobile,Electronics,East,Patna,Retail Store,17,79762,10,5181,43,14,14,11,No,Rainy,79762,14
+ORD018,18-01-2025,P006,Smart Watch,Wearables,East,Bhubaneswar,Online,40,3127,5,3036,21,41,47,44,No,Rainy,3002,43
+ORD019,19-01-2025,P004,Keyboard,Accessories,Central,Indore,Retail Store,11,2928,15,1207,71,10,8,8,Yes,Sunny,2664,9
+ORD020,20-01-2025,P006,Smart Watch,Wearables,North,Delhi,Online,40,3439,5,5770,27,35,27,35,No,Cloudy,3301,33
+ORD021,21-01-2025,P002,Mobile,Electronics,Central,Raipur,Distributor,92,58004,10,17888,30,77,61,78,No,Cloudy,58004,71
+ORD022,22-01-2025,P001,Laptop,Electronics,Central,Bhopal,Distributor,18,86769,5,19156,27,19,16,16,Yes,Cloudy,88504,19
+ORD023,23-01-2025,P006,Smart Watch,Wearables,Central,Indore,Online,96,8579,10,2338,44,85,71,108,No,Windy,8236,86
+ORD024,24-01-2025,P006,Smart Watch,Wearables,Central,Indore,Online,25,12787,20,2938,21,23,23,28,Yes,Rainy,13426,23
+ORD025,25-01-2025,P001,Laptop,Electronics,West,Ahmedabad,Online,77,54992,10,17232,66,55,68,41,Yes,Cloudy,60491,58
+ORD026,26-01-2025,P005,Mouse,Accessories,Central,Nagpur,Distributor,45,997,0,508,178,49,58,62,No,Cloudy,897,53
+ORD027,27-01-2025,P008,Power Bank,Accessories,South,Kochi,Retail Store,23,1054,15,633,88,18,19,17,Yes,Cloudy,1054,17
+ORD028,28-01-2025,P001,Laptop,Electronics,South,Kochi,Marketplace,50,72260,0,16118,76,51,67,67,No,Windy,70092,56
+ORD029,29-01-2025,P010,Monitor,Electronics,East,Guwahati,Online,67,11442,15,4871,17,67,51,81,No,Rainy,10984,63
+ORD030,30-01-2025,P009,Bluetooth Speaker,Audio,South,Bengaluru,Retail Store,12,2114,5,4339,113,10,11,12,No,Rainy,2156,11
+ORD031,31-01-2025,P001,Laptop,Electronics,Central,Raipur,Marketplace,75,84095,5,10091,41,81,90,63,Yes,Rainy,88300,81
+ORD032,01-02-2025,P006,Smart Watch,Wearables,West,Mumbai,Distributor,73,4424,10,2714,17,69,55,60,No,Sunny,3982,65
+ORD033,02-02-2025,P010,Monitor,Electronics,North,Delhi,Distributor,41,27970,15,5653,65,42,38,44,No,Windy,27131,39
+ORD034,03-02-2025,P005,Mouse,Accessories,South,Hyderabad,Online,91,1191,10,1534,74,70,75,68,No,Sunny,1143,70
+ORD035,04-02-2025,P001,Laptop,Electronics,West,Surat,Distributor,83,62891,0,9828,15,85,75,90,No,Windy,59118,88
+ORD036,05-02-2025,P004,Keyboard,Accessories,Central,Indore,Online,64,1273,15,1171,88,60,53,66,Yes,Sunny,1158,63
+ORD037,06-02-2025,P003,Headphones,Accessories,South,Bengaluru,Distributor,94,2259,5,2436,94,90,74,70,No,Cloudy,2440,88
+ORD038,07-02-2025,P010,Monitor,Electronics,East,Patna,Marketplace,77,10060,0,4423,38,69,73,60,No,Sunny,9255,66
+ORD039,08-02-2025,P008,Power Bank,Accessories,East,Kolkata,Distributor,45,766,20,2363,82,33,33,38,No,Rainy,781,33
+ORD040,09-02-2025,P010,Monitor,Electronics,Central,Raipur,Marketplace,73,14757,15,4095,68,71,61,83,No,Windy,15200,65
+ORD041,10-02-2025,P004,Keyboard,Accessories,South,Chennai,Retail Store,99,791,5,1717,32,104,96,117,No,Windy,736,99
+ORD042,11-02-2025,P004,Keyboard,Accessories,Central,Bhopal,Marketplace,17,2030,5,1192,125,19,20,15,No,Sunny,1929,19
+ORD043,12-02-2025,P002,Mobile,Electronics,Central,Indore,Marketplace,20,36607,0,12624,59,16,15,13,No,Windy,35509,18
+ORD044,13-02-2025,P005,Mouse,Accessories,West,Pune,Online,89,1419,10,1673,76,77,78,79,No,Sunny,1320,72
+ORD045,14-02-2025,P001,Laptop,Electronics,North,Delhi,Online,34,84471,0,15211,16,33,41,33,No,Windy,87850,36
+ORD046,15-02-2025,P001,Laptop,Electronics,South,Kochi,Distributor,55,80729,5,7358,10,66,55,63,No,Rainy,83151,63
+ORD047,16-02-2025,P002,Mobile,Electronics,Central,Raipur,Retail Store,36,23513,0,16076,149,29,28,29,No,Sunny,21867,31
+ORD048,17-02-2025,P005,Mouse,Accessories,North,Lucknow,Marketplace,81,660,5,2114,33,82,86,82,No,Rainy,607,82
+ORD049,18-02-2025,P004,Keyboard,Accessories,Central,Bhopal,Marketplace,27,1672,10,2585,30,27,28,24,No,Sunny,1806,26
+ORD050,19-02-2025,P006,Smart Watch,Wearables,East,Bhubaneswar,Marketplace,51,7036,10,2031,79,46,51,53,No,Cloudy,6966,45
+ORD051,20-02-2025,P002,Mobile,Electronics,East,Guwahati,Retail Store,90,25190,15,14437,79,71,65,76,No,Sunny,24686,78
+ORD052,21-02-2025,P006,Smart Watch,Wearables,South,Hyderabad,Retail Store,98,3145,15,2277,61,79,75,58,No,Rainy,2925,75
+ORD053,22-02-2025,P004,Keyboard,Accessories,North,Lucknow,Retail Store,23,660,0,2642,148,24,29,25,Yes,Sunny,660,26
+ORD054,23-02-2025,P010,Monitor,Electronics,North,Jaipur,Online,70,8906,5,5047,20,62,49,66,No,Cloudy,8194,59
+ORD055,24-02-2025,P009,Bluetooth Speaker,Audio,Central,Bhopal,Distributor,24,5130,15,1231,89,21,22,16,No,Sunny,4668,21
+ORD056,25-02-2025,P001,Laptop,Electronics,West,Surat,Distributor,70,71234,5,7099,11,60,49,59,No,Cloudy,70522,57
+ORD057,26-02-2025,P010,Monitor,Electronics,West,Ahmedabad,Distributor,81,24353,0,5933,33,73,70,67,No,Windy,23379,70
+ORD058,27-02-2025,P002,Mobile,Electronics,West,Surat,Distributor,42,56616,15,14498,37,43,42,47,No,Rainy,62278,41
+ORD059,28-02-2025,P002,Mobile,Electronics,West,Surat,Online,13,19429,0,15493,60,14,14,13,No,Cloudy,19235,15
+ORD060,01-03-2025,P002,Mobile,Electronics,East,Kolkata,Online,83,11692,5,16199,62,64,79,88,No,Sunny,12744,68
+ORD061,02-03-2025,P009,Bluetooth Speaker,Audio,Central,Nagpur,Distributor,46,7617,15,1881,90,41,43,42,No,Rainy,7846,38
+ORD062,03-03-2025,P010,Monitor,Electronics,South,Chennai,Marketplace,72,8476,15,2397,60,61,63,48,No,Rainy,7713,65
+ORD063,04-03-2025,P005,Mouse,Accessories,South,Hyderabad,Marketplace,33,668,15,1128,140,24,20,20,Yes,Cloudy,735,24
+ORD064,05-03-2025,P004,Keyboard,Accessories,South,Kochi,Online,93,1725,15,709,52,79,63,67,No,Rainy,1673,75
+ORD065,06-03-2025,P008,Power Bank,Accessories,Central,Bhopal,Retail Store,73,1659,20,1174,145,45,39,36,No,Sunny,1659,47
+ORD066,07-03-2025,P001,Laptop,Electronics,North,Lucknow,Retail Store,100,53571,0,7300,21,76,84,59,No,Windy,58392,81
+ORD067,08-03-2025,P001,Laptop,Electronics,South,Chennai,Distributor,74,67102,10,19905,15,59,57,75,No,Rainy,62405,65
+ORD068,09-03-2025,P006,Smart Watch,Wearables,North,Jaipur,Retail Store,29,8349,5,3679,58,20,20,18,No,Windy,8182,22
+ORD069,10-03-2025,P009,Bluetooth Speaker,Audio,West,Surat,Marketplace,52,5108,10,2598,104,53,59,49,No,Sunny,5363,52
+ORD070,11-03-2025,P009,Bluetooth Speaker,Audio,West,Pune,Marketplace,88,2017,10,1543,99,77,61,92,No,Windy,2219,75
+ORD071,12-03-2025,P002,Mobile,Electronics,South,Bengaluru,Distributor,65,45713,0,12688,76,73,71,63,No,Sunny,44799,68
+ORD072,13-03-2025,P003,Headphones,Accessories,Central,Raipur,Online,72,3532,20,4275,173,60,73,58,No,Rainy,3567,63
+ORD073,14-03-2025,P006,Smart Watch,Wearables,East,Patna,Marketplace,56,2979,20,4680,30,34,33,26,No,Rainy,3188,37
+ORD074,15-03-2025,P007,Tablet,Electronics,South,Hyderabad,Distributor,86,14126,15,2224,16,57,66,54,Yes,Rainy,13561,63
+ORD075,16-03-2025,P008,Power Bank,Accessories,West,Mumbai,Retail Store,8,1386,10,878,193,6,6,7,No,Cloudy,1525,6
+ORD076,17-03-2025,P004,Keyboard,Accessories,South,Hyderabad,Distributor,93,1824,10,2733,61,76,72,59,No,Windy,1824,74
+ORD077,18-03-2025,P003,Headphones,Accessories,South,Kochi,Retail Store,95,4942,10,3585,134,95,86,105,No,Cloudy,5239,89
+ORD078,19-03-2025,P008,Power Bank,Accessories,West,Pune,Distributor,91,2173,5,1878,161,77,65,55,Yes,Rainy,1999,72
+ORD079,20-03-2025,P007,Tablet,Electronics,South,Bengaluru,Marketplace,45,52179,5,7163,94,39,32,42,No,Cloudy,51657,36
+ORD080,21-03-2025,P008,Power Bank,Accessories,North,Jaipur,Distributor,37,1231,5,2780,99,38,43,36,No,Cloudy,1169,39
+ORD081,22-03-2025,P006,Smart Watch,Wearables,North,Delhi,Marketplace,46,7811,20,3809,42,31,36,34,No,Cloudy,7499,31
+ORD082,23-03-2025,P003,Headphones,Accessories,South,Hyderabad,Distributor,72,3909,20,2226,70,64,70,81,No,Cloudy,3792,65
+ORD083,24-03-2025,P010,Monitor,Electronics,South,Bengaluru,Online,76,20868,10,5467,79,73,76,66,No,Sunny,21077,76
+ORD084,25-03-2025,P009,Bluetooth Speaker,Audio,East,Guwahati,Retail Store,62,4226,5,4236,22,52,45,60,No,Windy,4649,51
+ORD085,26-03-2025,P003,Headphones,Accessories,South,Bengaluru,Distributor,38,1629,20,4232,192,26,24,24,Yes,Sunny,1678,28
+ORD086,27-03-2025,P005,Mouse,Accessories,West,Ahmedabad,Retail Store,63,908,10,854,187,68,56,49,No,Sunny,935,67
+ORD087,28-03-2025,P007,Tablet,Electronics,North,Jaipur,Marketplace,25,23360,5,4706,35,29,30,31,No,Sunny,23594,28
+ORD088,29-03-2025,P003,Headphones,Accessories,East,Guwahati,Distributor,32,4669,5,3237,85,38,38,43,Yes,Sunny,4996,36
+ORD089,30-03-2025,P006,Smart Watch,Wearables,West,Ahmedabad,Retail Store,22,11466,10,5995,12,22,27,27,No,Rainy,11007,23
+ORD090,31-03-2025,P007,Tablet,Electronics,South,Chennai,Retail Store,45,21563,10,7583,100,47,41,43,No,Sunny,22857,44
+ORD091,01-04-2025,P002,Mobile,Electronics,West,Mumbai,Retail Store,25,73147,10,10522,80,25,27,20,No,Cloudy,73147,24
+ORD092,02-04-2025,P006,Smart Watch,Wearables,West,Mumbai,Online,70,4762,5,4190,12,70,64,79,No,Rainy,5048,74
+ORD093,03-04-2025,P010,Monitor,Electronics,Central,Indore,Distributor,10,29779,15,4386,79,9,7,6,No,Windy,31268,8
+ORD094,04-04-2025,P009,Bluetooth Speaker,Audio,Central,Bhopal,Online,65,6264,20,4107,44,56,67,77,No,Sunny,6076,60
+ORD095,05-04-2025,P010,Monitor,Electronics,East,Guwahati,Retail Store,97,13541,10,5565,11,95,89,69,Yes,Sunny,12593,97
+ORD096,06-04-2025,P005,Mouse,Accessories,East,Kolkata,Distributor,49,1437,15,590,241,34,37,43,No,Rainy,1566,34
+ORD097,07-04-2025,P001,Laptop,Electronics,South,Bengaluru,Retail Store,8,68845,0,10058,60,6,6,6,No,Cloudy,63337,6
+ORD098,08-04-2025,P004,Keyboard,Accessories,South,Chennai,Online,69,1458,5,779,102,63,65,64,No,Cloudy,1531,61
+ORD099,09-04-2025,P009,Bluetooth Speaker,Audio,Central,Raipur,Marketplace,32,5463,15,4927,23,32,26,27,No,Rainy,5518,29
+ORD100,10-04-2025,P005,Mouse,Accessories,West,Mumbai,Online,53,860,0,1740,108,41,49,39,No,Sunny,869,43
+ORD101,11-04-2025,P004,Keyboard,Accessories,West,Pune,Distributor,26,1390,10,1708,109,22,17,26,No,Sunny,1390,20
+ORD102,12-04-2025,P007,Tablet,Electronics,East,Patna,Retail Store,24,41589,0,7101,10,24,21,20,No,Rainy,44084,24
+ORD103,13-04-2025,P003,Headphones,Accessories,North,Chandigarh,Online,57,1743,15,4339,166,54,49,40,No,Windy,1673,57
+ORD104,14-04-2025,P004,Keyboard,Accessories,Central,Bhopal,Online,17,1052,15,619,115,15,14,11,No,Rainy,1126,14
+ORD105,15-04-2025,P006,Smart Watch,Wearables,West,Ahmedabad,Distributor,34,12654,5,6572,68,38,33,42,Yes,Cloudy,12274,38
+ORD106,16-04-2025,P009,Bluetooth Speaker,Audio,Central,Bhopal,Online,88,1186,10,1930,85,74,91,78,No,Rainy,1305,79
+ORD107,17-04-2025,P010,Monitor,Electronics,North,Chandigarh,Marketplace,17,29704,15,6063,78,13,11,9,No,Cloudy,30595,12
+ORD108,18-04-2025,P004,Keyboard,Accessories,South,Hyderabad,Distributor,59,1054,15,1626,132,60,50,49,Yes,Rainy,1117,57
+ORD109,19-04-2025,P006,Smart Watch,Wearables,West,Surat,Distributor,54,8657,5,6976,43,56,48,65,No,Rainy,8138,52
+ORD110,20-04-2025,P007,Tablet,Electronics,South,Bengaluru,Marketplace,69,28069,10,3620,65,53,46,48,No,Cloudy,25262,55
+ORD111,21-04-2025,P003,Headphones,Accessories,South,Chennai,Distributor,10,545,5,2854,106,10,8,12,No,Cloudy,567,9
+ORD112,22-04-2025,P009,Bluetooth Speaker,Audio,Central,Nagpur,Retail Store,62,7251,10,1863,103,46,49,51,No,Rainy,7324,48
+ORD113,23-04-2025,P003,Headphones,Accessories,Central,Bhopal,Marketplace,54,1153,5,2662,84,45,35,45,No,Cloudy,1061,42
+ORD114,24-04-2025,P005,Mouse,Accessories,South,Chennai,Online,65,301,10,2085,52,66,64,71,No,Cloudy,289,63
+ORD115,25-04-2025,P004,Keyboard,Accessories,Central,Raipur,Marketplace,92,1241,5,2075,96,73,87,93,No,Cloudy,1328,73
+ORD116,26-04-2025,P005,Mouse,Accessories,West,Pune,Retail Store,71,1398,0,2364,221,67,56,80,No,Cloudy,1412,66
+ORD117,27-04-2025,P009,Bluetooth Speaker,Audio,Central,Bhopal,Retail Store,9,2944,5,4754,79,8,7,8,No,Windy,2797,8
+ORD118,28-04-2025,P009,Bluetooth Speaker,Audio,South,Bengaluru,Distributor,69,6086,15,2728,102,62,58,52,Yes,Windy,6390,62
+ORD119,29-04-2025,P009,Bluetooth Speaker,Audio,Central,Nagpur,Retail Store,80,7798,10,3785,74,69,68,79,No,Rainy,7798,73
+ORD120,30-04-2025,P003,Headphones,Accessories,West,Pune,Online,86,2927,5,1709,156,74,95,105,Yes,Rainy,3161,82
+ORD121,01-05-2025,P007,Tablet,Electronics,West,Ahmedabad,Marketplace,97,38866,15,8243,67,86,80,82,No,Windy,36923,79
+ORD122,02-05-2025,P007,Tablet,Electronics,West,Mumbai,Retail Store,68,57714,15,5889,58,44,47,60,No,Cloudy,61177,48
+ORD123,03-05-2025,P005,Mouse,Accessories,South,Bengaluru,Online,74,256,5,1930,41,66,64,86,No,Sunny,276,73
+ORD124,04-05-2025,P008,Power Bank,Accessories,West,Pune,Online,86,2127,20,2850,167,69,71,73,Yes,Windy,1978,64
+ORD125,05-05-2025,P004,Keyboard,Accessories,South,Bengaluru,Online,35,1615,5,1982,132,26,30,20,No,Rainy,1550,28
+ORD126,06-05-2025,P003,Headphones,Accessories,East,Bhubaneswar,Online,5,1974,20,1484,100,4,4,4,No,Rainy,2053,4
+ORD127,07-05-2025,P005,Mouse,Accessories,East,Guwahati,Marketplace,93,736,10,659,37,95,88,100,No,Windy,729,90
+ORD128,08-05-2025,P010,Monitor,Electronics,North,Chandigarh,Retail Store,14,10948,0,4284,52,17,18,19,Yes,Windy,11495,16
+ORD129,09-05-2025,P007,Tablet,Electronics,North,Lucknow,Online,84,40590,15,7268,14,71,66,70,Yes,Sunny,43431,79
+ORD130,10-05-2025,P008,Power Bank,Accessories,South,Chennai,Distributor,63,1622,20,1338,151,47,50,53,Yes,Cloudy,1638,47
+ORD131,11-05-2025,P001,Laptop,Electronics,Central,Raipur,Online,69,59260,5,8458,74,81,73,63,No,Rainy,56890,77
+ORD132,12-05-2025,P004,Keyboard,Accessories,West,Surat,Marketplace,45,953,5,2337,148,42,37,49,Yes,Rainy,972,44
+ORD133,13-05-2025,P008,Power Bank,Accessories,South,Bengaluru,Marketplace,21,1031,5,1886,158,23,20,24,Yes,Sunny,1113,22
+ORD134,14-05-2025,P010,Monitor,Electronics,East,Guwahati,Online,12,8893,5,2894,74,11,8,11,Yes,Windy,8537,10
+ORD135,15-05-2025,P009,Bluetooth Speaker,Audio,East,Patna,Online,5,5906,5,2919,44,4,5,5,Yes,Sunny,6083,4
+ORD136,16-05-2025,P005,Mouse,Accessories,Central,Indore,Distributor,17,1209,0,1273,237,20,16,19,No,Rainy,1197,18
+ORD137,17-05-2025,P009,Bluetooth Speaker,Audio,Central,Bhopal,Online,68,4331,5,4929,44,52,44,53,No,Cloudy,4721,52
+ORD138,18-05-2025,P002,Mobile,Electronics,North,Jaipur,Marketplace,61,14438,0,9327,98,62,83,89,Yes,Sunny,15737,69
+ORD139,19-05-2025,P006,Smart Watch,Wearables,North,Lucknow,Online,37,4087,15,3834,15,27,27,21,No,Windy,3964,26
+ORD140,20-05-2025,P001,Laptop,Electronics,South,Bengaluru,Retail Store,37,68061,0,13644,100,35,36,39,Yes,Windy,67380,35
+ORD141,21-05-2025,P004,Keyboard,Accessories,Central,Bhopal,Distributor,36,1745,5,2841,113,37,40,47,No,Windy,1623,39
+ORD142,22-05-2025,P010,Monitor,Electronics,West,Surat,Retail Store,51,27241,15,2754,57,40,45,50,No,Rainy,26424,42
+ORD143,23-05-2025,P010,Monitor,Electronics,Central,Raipur,Retail Store,12,21772,10,4530,49,9,10,10,Yes,Windy,20901,10
+ORD144,24-05-2025,P005,Mouse,Accessories,South,Hyderabad,Retail Store,88,672,10,505,120,103,93,72,No,Cloudy,732,95
+ORD145,25-05-2025,P006,Smart Watch,Wearables,West,Surat,Online,71,13141,15,1590,24,56,52,68,No,Cloudy,11827,58
+ORD146,26-05-2025,P006,Smart Watch,Wearables,East,Guwahati,Marketplace,36,11867,5,5502,26,31,26,41,No,Rainy,11630,32
+ORD147,27-05-2025,P006,Smart Watch,Wearables,Central,Raipur,Retail Store,19,4313,5,3676,43,19,17,19,No,Rainy,4486,18
+ORD148,28-05-2025,P007,Tablet,Electronics,Central,Bhopal,Distributor,21,27055,10,7516,10,19,20,20,No,Sunny,25161,19
+ORD149,29-05-2025,P004,Keyboard,Accessories,East,Kolkata,Marketplace,94,598,5,697,30,107,102,72,Yes,Rainy,622,100
+ORD150,30-05-2025,P005,Mouse,Accessories,West,Surat,Marketplace,50,653,15,923,186,39,29,39,No,Windy,640,36
+ORD151,31-05-2025,P003,Headphones,Accessories,Central,Nagpur,Distributor,5,1165,20,4886,114,5,4,4,No,Windy,1060,5
+ORD152,01-06-2025,P007,Tablet,Electronics,Central,Nagpur,Retail Store,12,27136,5,5032,27,12,12,14,Yes,Sunny,27950,12
+ORD153,02-06-2025,P009,Bluetooth Speaker,Audio,West,Pune,Distributor,82,3257,10,2752,103,74,72,91,No,Rainy,3062,74
+ORD154,03-06-2025,P002,Mobile,Electronics,West,Pune,Marketplace,79,63351,0,14240,52,72,76,56,No,Rainy,69686,73
+ORD155,04-06-2025,P010,Monitor,Electronics,East,Patna,Online,65,28293,0,6552,40,61,67,71,No,Rainy,27727,58
+ORD156,05-06-2025,P008,Power Bank,Accessories,West,Mumbai,Online,71,2734,20,2344,92,43,46,56,Yes,Cloudy,2953,46
+ORD157,06-06-2025,P004,Keyboard,Accessories,South,Chennai,Online,45,821,0,1897,72,53,56,44,No,Windy,755,49
+ORD158,07-06-2025,P002,Mobile,Electronics,West,Pune,Retail Store,20,47766,5,11062,46,23,23,27,No,Rainy,44900,21
+ORD159,08-06-2025,P004,Keyboard,Accessories,West,Pune,Online,48,1551,10,2043,119,45,47,48,No,Sunny,1675,45
+ORD160,09-06-2025,P001,Laptop,Electronics,North,Lucknow,Distributor,71,60753,5,15017,50,62,69,71,No,Rainy,66221,68
+ORD161,10-06-2025,P003,Headphones,Accessories,East,Patna,Retail Store,34,528,20,2141,192,25,29,33,Yes,Sunny,507,26
+ORD162,11-06-2025,P005,Mouse,Accessories,Central,Raipur,Distributor,57,687,15,1925,198,43,44,38,No,Rainy,742,44
+ORD163,12-06-2025,P001,Laptop,Electronics,South,Bengaluru,Distributor,10,51760,0,19174,34,8,7,9,No,Windy,47102,8
+ORD164,13-06-2025,P003,Headphones,Accessories,South,Chennai,Marketplace,15,2955,10,3047,116,11,12,12,No,Windy,2837,11
+ORD165,14-06-2025,P004,Keyboard,Accessories,North,Delhi,Retail Store,14,2048,0,2114,120,15,19,16,No,Rainy,2212,16
+ORD166,15-06-2025,P008,Power Bank,Accessories,East,Kolkata,Retail Store,97,2397,20,2309,192,67,61,80,No,Rainy,2493,73
+ORD167,16-06-2025,P010,Monitor,Electronics,East,Guwahati,Retail Store,95,28988,10,6944,19,80,84,79,No,Sunny,30727,84
+ORD168,17-06-2025,P004,Keyboard,Accessories,Central,Nagpur,Retail Store,13,692,15,683,47,8,8,7,Yes,Rainy,678,9
+ORD169,18-06-2025,P001,Laptop,Electronics,Central,Bhopal,Retail Store,45,46927,0,13776,21,40,43,49,No,Windy,48335,43
+ORD170,19-06-2025,P004,Keyboard,Accessories,Central,Nagpur,Retail Store,21,2554,0,2211,57,19,17,19,Yes,Windy,2656,18
+ORD171,20-06-2025,P010,Monitor,Electronics,Central,Indore,Retail Store,70,11875,10,2413,80,54,57,64,No,Windy,11281,55
+ORD172,21-06-2025,P006,Smart Watch,Wearables,North,Delhi,Marketplace,8,10109,15,6735,49,8,8,7,No,Windy,10513,8
+ORD173,22-06-2025,P009,Bluetooth Speaker,Audio,North,Jaipur,Marketplace,73,3242,15,2938,63,73,61,76,No,Cloudy,3437,73
+ORD174,23-06-2025,P008,Power Bank,Accessories,East,Patna,Retail Store,100,2105,15,2255,194,80,98,112,No,Cloudy,2189,86
+ORD175,24-06-2025,P004,Keyboard,Accessories,South,Bengaluru,Online,15,2979,10,1787,90,12,12,12,No,Cloudy,2711,12
+ORD176,25-06-2025,P007,Tablet,Electronics,North,Chandigarh,Retail Store,48,54555,10,6091,74,43,33,46,No,Windy,54009,40
+ORD177,26-06-2025,P007,Tablet,Electronics,North,Jaipur,Marketplace,14,42476,15,4798,12,13,12,16,Yes,Cloudy,45874,13
+ORD178,27-06-2025,P007,Tablet,Electronics,East,Bhubaneswar,Marketplace,98,33797,15,7233,16,72,63,89,No,Rainy,34811,78
+ORD179,28-06-2025,P010,Monitor,Electronics,East,Guwahati,Marketplace,61,27238,5,3440,48,49,44,53,No,Sunny,24787,51
+ORD180,29-06-2025,P004,Keyboard,Accessories,South,Bengaluru,Distributor,26,1453,5,1681,147,23,21,25,No,Sunny,1526,24
+ORD181,30-06-2025,P003,Headphones,Accessories,North,Delhi,Distributor,10,968,10,1329,111,9,10,10,No,Cloudy,1045,9
+ORD182,01-07-2025,P009,Bluetooth Speaker,Audio,West,Ahmedabad,Online,70,4573,10,2512,70,55,65,55,Yes,Windy,4664,57
+ORD183,02-07-2025,P001,Laptop,Electronics,Central,Raipur,Retail Store,13,85514,10,12990,100,13,14,11,No,Cloudy,76963,13
+ORD184,03-07-2025,P005,Mouse,Accessories,South,Hyderabad,Retail Store,55,939,0,2084,90,48,39,44,No,Sunny,986,48
+ORD185,04-07-2025,P010,Monitor,Electronics,East,Bhubaneswar,Marketplace,14,18723,15,2351,16,13,14,10,No,Sunny,18536,13
+ORD186,05-07-2025,P008,Power Bank,Accessories,East,Guwahati,Online,53,785,15,510,145,39,40,27,Yes,Sunny,707,38
+ORD187,06-07-2025,P003,Headphones,Accessories,West,Pune,Online,36,2175,5,4023,145,35,31,45,No,Windy,2219,35
+ORD188,07-07-2025,P001,Laptop,Electronics,West,Pune,Distributor,50,83850,0,8143,86,59,67,58,No,Sunny,84689,58
+ORD189,08-07-2025,P010,Monitor,Electronics,Central,Raipur,Marketplace,43,12752,5,3553,31,33,38,35,No,Cloudy,12497,35
+ORD190,09-07-2025,P002,Mobile,Electronics,West,Pune,Retail Store,25,48040,5,17091,70,19,22,19,No,Sunny,49001,19
+ORD191,10-07-2025,P001,Laptop,Electronics,North,Lucknow,Retail Store,74,73761,15,10859,21,72,73,75,No,Sunny,81137,70
+ORD192,11-07-2025,P002,Mobile,Electronics,South,Chennai,Distributor,5,27986,15,17310,132,5,6,6,No,Cloudy,26587,5
+ORD193,12-07-2025,P006,Smart Watch,Wearables,Central,Raipur,Retail Store,47,6903,15,3352,15,45,53,40,No,Sunny,6282,46
+ORD194,13-07-2025,P004,Keyboard,Accessories,West,Ahmedabad,Retail Store,37,586,15,649,43,27,29,26,No,Windy,551,29
+ORD195,14-07-2025,P004,Keyboard,Accessories,North,Delhi,Marketplace,50,1074,5,590,81,44,45,54,Yes,Cloudy,1149,44
+ORD196,15-07-2025,P002,Mobile,Electronics,East,Bhubaneswar,Retail Store,95,14734,15,4247,24,88,106,80,No,Sunny,14292,88
+ORD197,16-07-2025,P005,Mouse,Accessories,Central,Raipur,Online,68,452,10,934,196,56,70,48,Yes,Cloudy,452,59
+ORD198,17-07-2025,P004,Keyboard,Accessories,North,Jaipur,Retail Store,63,654,15,1308,144,66,65,49,No,Cloudy,647,64
+ORD199,18-07-2025,P005,Mouse,Accessories,North,Delhi,Marketplace,47,227,5,1333,42,44,53,48,No,Cloudy,229,46
+ORD200,19-07-2025,P003,Headphones,Accessories,West,Mumbai,Marketplace,27,1454,20,1370,154,25,26,29,No,Sunny,1338,23
+ORD201,20-07-2025,P001,Laptop,Electronics,East,Bhubaneswar,Marketplace,65,79030,15,7281,91,48,48,47,No,Sunny,78240,52
+ORD202,21-07-2025,P008,Power Bank,Accessories,South,Kochi,Distributor,33,1472,15,1401,130,30,30,24,No,Rainy,1560,33
+ORD203,22-07-2025,P009,Bluetooth Speaker,Audio,Central,Nagpur,Online,94,2462,5,1063,91,113,89,98,Yes,Sunny,2216,107
+ORD204,23-07-2025,P006,Smart Watch,Wearables,West,Mumbai,Online,62,11282,20,5108,70,49,50,33,No,Sunny,11508,45
+ORD205,24-07-2025,P010,Monitor,Electronics,North,Lucknow,Marketplace,94,28405,5,4194,34,103,122,123,No,Windy,26985,107
+ORD206,25-07-2025,P007,Tablet,Electronics,South,Bengaluru,Marketplace,75,13413,10,5767,62,61,67,42,No,Cloudy,12072,57
+ORD207,26-07-2025,P006,Smart Watch,Wearables,North,Delhi,Retail Store,27,14642,15,2718,22,23,23,24,Yes,Windy,14496,22
+ORD208,27-07-2025,P002,Mobile,Electronics,Central,Indore,Retail Store,67,39104,15,5048,57,56,62,57,No,Rainy,36367,53
+ORD209,28-07-2025,P008,Power Bank,Accessories,West,Surat,Retail Store,26,2508,10,1709,85,23,24,27,Yes,Cloudy,2383,22
+ORD210,29-07-2025,P007,Tablet,Electronics,Central,Nagpur,Retail Store,100,38238,10,8984,69,67,80,82,No,Sunny,40532,72
+ORD211,30-07-2025,P005,Mouse,Accessories,West,Surat,Retail Store,41,1010,5,741,126,39,39,47,No,Windy,1020,38
+ORD212,31-07-2025,P001,Laptop,Electronics,North,Lucknow,Retail Store,69,61448,10,5702,47,54,59,56,No,Sunny,65135,55
+ORD213,01-08-2025,P006,Smart Watch,Wearables,East,Bhubaneswar,Online,69,4560,15,4327,76,57,56,50,No,Cloudy,4104,55
+ORD214,02-08-2025,P006,Smart Watch,Wearables,Central,Indore,Online,70,13573,20,2165,99,58,68,73,Yes,Rainy,14795,63
+ORD215,03-08-2025,P001,Laptop,Electronics,South,Kochi,Distributor,82,59197,15,17783,98,60,66,49,No,Rainy,54461,59
+ORD216,04-08-2025,P004,Keyboard,Accessories,East,Kolkata,Marketplace,93,747,0,1393,97,108,98,100,No,Windy,784,110
+ORD217,05-08-2025,P009,Bluetooth Speaker,Audio,Central,Indore,Online,8,6508,15,4827,59,6,6,7,Yes,Rainy,6313,6
+ORD218,06-08-2025,P003,Headphones,Accessories,South,Bengaluru,Distributor,99,1775,20,3907,50,75,71,100,No,Sunny,1899,81
+ORD219,07-08-2025,P009,Bluetooth Speaker,Audio,South,Chennai,Online,6,7735,10,4304,49,5,5,6,Yes,Windy,7426,5
+ORD220,08-08-2025,P010,Monitor,Electronics,South,Chennai,Marketplace,89,14982,15,5190,47,80,101,83,Yes,Rainy,13933,85
+ORD221,09-08-2025,P004,Keyboard,Accessories,South,Chennai,Distributor,46,2367,15,867,120,43,39,55,No,Rainy,2604,45
+ORD222,10-08-2025,P008,Power Bank,Accessories,Central,Raipur,Retail Store,78,1325,10,1594,116,72,63,70,No,Cloudy,1259,79
+ORD223,11-08-2025,P004,Keyboard,Accessories,East,Patna,Retail Store,6,575,15,1288,106,5,4,5,Yes,Sunny,564,5
+ORD224,12-08-2025,P008,Power Bank,Accessories,East,Bhubaneswar,Marketplace,83,1680,20,2754,137,74,85,81,No,Windy,1512,74
+ORD225,13-08-2025,P009,Bluetooth Speaker,Audio,West,Mumbai,Online,47,5221,15,3252,69,45,50,49,Yes,Windy,5117,46
+ORD226,14-08-2025,P002,Mobile,Electronics,West,Ahmedabad,Marketplace,81,23398,15,15730,73,63,78,77,Yes,Cloudy,22696,67
+ORD227,15-08-2025,P006,Smart Watch,Wearables,West,Ahmedabad,Online,16,2567,20,3160,72,16,17,16,Yes,Windy,2593,15
+ORD228,16-08-2025,P008,Power Bank,Accessories,East,Bhubaneswar,Marketplace,98,2534,20,1926,58,75,72,75,No,Cloudy,2458,73
+ORD229,17-08-2025,P001,Laptop,Electronics,Central,Indore,Distributor,29,45348,0,13853,77,27,31,21,No,Cloudy,44441,27
+ORD230,18-08-2025,P004,Keyboard,Accessories,South,Hyderabad,Distributor,94,2335,15,1332,88,81,85,63,Yes,Cloudy,2452,74
+ORD231,19-08-2025,P001,Laptop,Electronics,Central,Nagpur,Retail Store,43,72261,15,13563,13,41,42,33,No,Sunny,65035,37
+ORD232,20-08-2025,P001,Laptop,Electronics,West,Surat,Retail Store,12,61047,15,12739,82,12,13,10,No,Cloudy,55553,12
+ORD233,21-08-2025,P001,Laptop,Electronics,South,Kochi,Online,37,87377,5,6260,26,37,41,33,No,Windy,83882,34
+ORD234,22-08-2025,P003,Headphones,Accessories,South,Bengaluru,Retail Store,92,1135,10,1280,106,92,86,71,No,Cloudy,1180,99
+ORD235,23-08-2025,P010,Monitor,Electronics,North,Delhi,Online,6,23712,5,3975,74,5,5,4,No,Cloudy,24423,5
+ORD236,24-08-2025,P001,Laptop,Electronics,Central,Indore,Distributor,79,59147,10,8368,59,70,73,58,No,Cloudy,55007,67
+ORD237,25-08-2025,P005,Mouse,Accessories,West,Mumbai,Distributor,47,463,5,1525,106,43,51,52,No,Windy,417,44
+ORD238,26-08-2025,P001,Laptop,Electronics,North,Lucknow,Marketplace,23,62686,10,19744,86,22,19,17,No,Windy,67074,21
+ORD239,27-08-2025,P005,Mouse,Accessories,West,Surat,Marketplace,81,1183,0,616,65,100,110,94,No,Sunny,1278,92
+ORD240,28-08-2025,P008,Power Bank,Accessories,Central,Nagpur,Distributor,54,2004,20,1717,107,39,37,30,No,Windy,2084,38
+ORD241,29-08-2025,P009,Bluetooth Speaker,Audio,East,Patna,Online,9,6027,10,2692,80,8,7,7,No,Windy,5545,8
+ORD242,30-08-2025,P007,Tablet,Electronics,East,Guwahati,Online,29,40555,5,8168,48,22,18,28,No,Windy,37311,23
+ORD243,31-08-2025,P009,Bluetooth Speaker,Audio,North,Lucknow,Online,52,4699,5,4663,30,53,47,56,Yes,Rainy,4887,50
+ORD244,01-09-2025,P008,Power Bank,Accessories,Central,Raipur,Distributor,100,2929,10,2753,184,83,67,61,No,Rainy,2841,82
+ORD245,02-09-2025,P007,Tablet,Electronics,West,Surat,Online,34,31076,10,2981,46,29,28,34,No,Rainy,28590,31
+ORD246,03-09-2025,P003,Headphones,Accessories,North,Chandigarh,Retail Store,69,2740,15,4007,31,51,48,46,No,Windy,2685,53
+ORD247,04-09-2025,P005,Mouse,Accessories,East,Kolkata,Marketplace,43,519,15,2254,185,33,29,27,No,Rainy,498,31
+ORD248,05-09-2025,P002,Mobile,Electronics,North,Chandigarh,Distributor,79,31474,0,11423,48,83,81,63,No,Rainy,28327,79
+ORD249,06-09-2025,P010,Monitor,Electronics,North,Lucknow,Retail Store,12,20121,15,7562,77,9,8,10,No,Windy,19316,10
+ORD250,07-09-2025,P008,Power Bank,Accessories,South,Bengaluru,Distributor,50,708,5,2119,66,48,38,49,No,Sunny,722,46
+ORD251,08-09-2025,P005,Mouse,Accessories,Central,Indore,Retail Store,63,698,5,573,151,55,61,59,No,Windy,761,59
+ORD252,09-09-2025,P007,Tablet,Electronics,North,Delhi,Distributor,52,26446,10,5663,61,59,59,62,No,Windy,25124,54
+ORD253,10-09-2025,P010,Monitor,Electronics,West,Pune,Distributor,72,26880,10,3344,62,63,73,50,No,Rainy,28224,64
+ORD254,11-09-2025,P003,Headphones,Accessories,Central,Raipur,Marketplace,38,2993,20,4297,170,40,40,38,No,Sunny,2694,36
+ORD255,12-09-2025,P005,Mouse,Accessories,South,Bengaluru,Marketplace,38,214,0,1806,188,29,36,25,Yes,Windy,223,31
+ORD256,13-09-2025,P002,Mobile,Electronics,South,Hyderabad,Online,95,76462,15,13275,147,98,106,80,Yes,Sunny,80285,96
+ORD257,14-09-2025,P002,Mobile,Electronics,South,Chennai,Online,50,44970,15,12930,132,46,44,51,No,Cloudy,44071,45
+ORD258,15-09-2025,P005,Mouse,Accessories,North,Jaipur,Marketplace,24,967,5,1871,115,25,24,20,No,Rainy,1015,25
+ORD259,16-09-2025,P005,Mouse,Accessories,Central,Raipur,Distributor,12,910,10,1221,76,10,11,9,No,Windy,946,9
+ORD260,17-09-2025,P009,Bluetooth Speaker,Audio,North,Chandigarh,Online,67,3790,10,4769,64,51,45,54,Yes,Cloudy,3676,51
+ORD261,18-09-2025,P002,Mobile,Electronics,North,Jaipur,Distributor,7,17508,10,4178,142,7,6,7,No,Rainy,17333,6
+ORD262,19-09-2025,P004,Keyboard,Accessories,West,Ahmedabad,Retail Store,75,2529,15,1217,141,59,63,61,No,Windy,2504,57
+ORD263,20-09-2025,P002,Mobile,Electronics,West,Pune,Marketplace,13,68142,10,8346,148,12,13,15,Yes,Windy,66779,13
+ORD264,21-09-2025,P006,Smart Watch,Wearables,South,Kochi,Distributor,82,4479,5,6258,81,78,73,60,No,Sunny,4165,79
+ORD265,22-09-2025,P002,Mobile,Electronics,West,Mumbai,Retail Store,67,20009,10,11530,119,77,81,51,Yes,Cloudy,20809,70
+ORD266,23-09-2025,P006,Smart Watch,Wearables,South,Hyderabad,Online,10,4430,20,6616,24,8,8,9,No,Sunny,4209,8
+ORD267,24-09-2025,P007,Tablet,Electronics,South,Bengaluru,Online,89,46233,15,2049,24,71,63,83,No,Sunny,44384,78
+ORD268,25-09-2025,P004,Keyboard,Accessories,West,Mumbai,Marketplace,80,2307,5,1271,42,85,74,88,No,Cloudy,2215,78
+ORD269,26-09-2025,P006,Smart Watch,Wearables,South,Chennai,Distributor,9,12799,5,4168,75,7,10,6,No,Rainy,13695,8
+ORD270,27-09-2025,P010,Monitor,Electronics,South,Chennai,Marketplace,75,25241,0,2532,29,87,94,63,No,Sunny,27260,80
+ORD271,28-09-2025,P001,Laptop,Electronics,North,Chandigarh,Marketplace,60,51319,0,13179,82,50,51,65,Yes,Sunny,46187,51
+ORD272,29-09-2025,P001,Laptop,Electronics,East,Bhubaneswar,Distributor,96,46057,5,6478,46,85,82,100,No,Windy,43754,83
+ORD273,30-09-2025,P004,Keyboard,Accessories,Central,Raipur,Retail Store,51,1205,15,2396,44,48,40,54,No,Sunny,1133,48
+ORD274,01-10-2025,P009,Bluetooth Speaker,Audio,East,Patna,Distributor,64,7732,5,4616,43,53,59,68,Yes,Rainy,7964,57
+ORD275,02-10-2025,P004,Keyboard,Accessories,Central,Bhopal,Distributor,29,1721,10,1816,23,29,31,29,No,Windy,1807,28
+ORD276,03-10-2025,P007,Tablet,Electronics,West,Mumbai,Distributor,29,38093,5,7796,40,26,26,28,Yes,Rainy,39998,25
+ORD277,04-10-2025,P004,Keyboard,Accessories,East,Bhubaneswar,Marketplace,44,2509,10,1622,46,36,39,30,Yes,Sunny,2660,40
+ORD278,05-10-2025,P005,Mouse,Accessories,Central,Indore,Online,77,1450,0,2112,199,75,80,76,No,Windy,1494,83
+ORD279,06-10-2025,P006,Smart Watch,Wearables,West,Pune,Retail Store,31,7512,15,6723,40,22,19,28,Yes,Windy,6836,24
+ORD280,07-10-2025,P004,Keyboard,Accessories,South,Chennai,Retail Store,98,2839,5,2343,102,90,100,76,No,Cloudy,2725,93
+ORD281,08-10-2025,P004,Keyboard,Accessories,North,Chandigarh,Distributor,27,2098,10,1105,110,25,24,31,Yes,Cloudy,1993,26
+ORD282,09-10-2025,P004,Keyboard,Accessories,North,Chandigarh,Online,97,2142,0,1453,134,80,86,71,No,Rainy,2249,83
+ORD283,10-10-2025,P004,Keyboard,Accessories,East,Bhubaneswar,Online,11,1812,10,2811,68,8,9,6,No,Rainy,1866,8
+ORD284,11-10-2025,P005,Mouse,Accessories,South,Hyderabad,Online,20,1200,5,923,147,16,17,18,No,Rainy,1284,17
+ORD285,12-10-2025,P007,Tablet,Electronics,Central,Bhopal,Distributor,89,10959,15,2831,34,66,69,63,No,Rainy,11397,73
+ORD286,13-10-2025,P005,Mouse,Accessories,North,Lucknow,Distributor,62,1303,10,1566,76,65,55,55,No,Cloudy,1186,60
+ORD287,14-10-2025,P002,Mobile,Electronics,West,Pune,Online,43,50166,15,6612,109,31,34,26,No,Sunny,49163,29
+ORD288,15-10-2025,P005,Mouse,Accessories,East,Guwahati,Online,53,344,15,1120,130,50,53,52,No,Cloudy,341,52
+ORD289,16-10-2025,P002,Mobile,Electronics,West,Mumbai,Distributor,86,15933,15,17566,64,75,83,83,No,Cloudy,16252,73
+ORD290,17-10-2025,P001,Laptop,Electronics,East,Kolkata,Retail Store,50,72537,10,13052,98,48,57,54,No,Sunny,76889,48
+ORD291,18-10-2025,P006,Smart Watch,Wearables,South,Bengaluru,Retail Store,25,9988,15,1651,32,17,15,15,No,Cloudy,10687,18
+ORD292,19-10-2025,P010,Monitor,Electronics,East,Bhubaneswar,Retail Store,52,28622,15,5756,20,35,45,37,No,Rainy,30053,39
+ORD293,20-10-2025,P007,Tablet,Electronics,East,Patna,Online,41,12826,10,5925,46,28,34,25,No,Sunny,11800,31
+ORD294,21-10-2025,P006,Smart Watch,Wearables,Central,Raipur,Marketplace,100,2505,10,2395,43,97,105,70,Yes,Cloudy,2555,93
+ORD295,22-10-2025,P005,Mouse,Accessories,Central,Bhopal,Distributor,69,1139,15,1282,153,71,60,56,No,Windy,1196,69
+ORD296,23-10-2025,P006,Smart Watch,Wearables,Central,Raipur,Marketplace,59,6157,10,4021,45,56,58,76,No,Cloudy,6588,59
+ORD297,24-10-2025,P003,Headphones,Accessories,North,Chandigarh,Online,19,4511,20,3423,193,16,18,19,No,Sunny,4872,16
+ORD298,25-10-2025,P006,Smart Watch,Wearables,West,Ahmedabad,Marketplace,13,10652,10,6651,56,9,10,7,No,Rainy,10013,9
+ORD299,26-10-2025,P009,Bluetooth Speaker,Audio,North,Jaipur,Marketplace,23,6772,15,4540,51,16,14,16,No,Windy,6569,16
+ORD300,27-10-2025,P010,Monitor,Electronics,South,Hyderabad,Online,90,17854,10,7137,13,80,90,86,No,Sunny,16783,85
+ORD301,28-10-2025,P005,Mouse,Accessories,Central,Nagpur,Marketplace,96,700,0,2168,59,79,76,107,No,Rainy,665,86
+ORD302,29-10-2025,P007,Tablet,Electronics,West,Surat,Distributor,72,17546,15,7295,35,55,51,51,No,Cloudy,15967,50
+ORD303,30-10-2025,P006,Smart Watch,Wearables,South,Chennai,Marketplace,73,10726,5,2514,99,85,88,78,Yes,Windy,10726,80
+ORD304,31-10-2025,P006,Smart Watch,Wearables,Central,Raipur,Distributor,88,9445,10,5361,74,87,104,94,No,Sunny,9445,93
+ORD305,01-11-2025,P006,Smart Watch,Wearables,North,Jaipur,Online,40,6981,10,2141,48,41,44,46,No,Cloudy,6492,40
+ORD306,02-11-2025,P005,Mouse,Accessories,North,Delhi,Online,12,1250,10,2397,30,11,9,12,No,Windy,1200,10
+ORD307,03-11-2025,P005,Mouse,Accessories,West,Mumbai,Distributor,48,1032,10,1582,225,38,33,28,No,Rainy,1115,37
+ORD308,04-11-2025,P010,Monitor,Electronics,Central,Raipur,Distributor,27,13301,10,6130,23,31,26,21,No,Windy,12237,28
+ORD309,05-11-2025,P006,Smart Watch,Wearables,North,Delhi,Retail Store,79,13176,5,5763,64,83,83,76,No,Cloudy,14098,80
+ORD310,06-11-2025,P003,Headphones,Accessories,South,Kochi,Distributor,97,3145,5,3995,189,109,84,129,No,Windy,3082,104
+ORD311,07-11-2025,P004,Keyboard,Accessories,West,Surat,Distributor,62,1588,5,2738,49,63,66,45,No,Rainy,1429,62
+ORD312,08-11-2025,P004,Keyboard,Accessories,South,Kochi,Marketplace,33,2476,0,576,83,33,38,43,No,Cloudy,2724,35
+ORD313,09-11-2025,P009,Bluetooth Speaker,Audio,Central,Raipur,Online,33,5892,15,3273,84,34,28,41,Yes,Sunny,5480,34
+ORD314,10-11-2025,P006,Smart Watch,Wearables,West,Mumbai,Retail Store,9,10056,5,6980,40,7,6,9,No,Sunny,9252,7
+ORD315,11-11-2025,P008,Power Bank,Accessories,Central,Nagpur,Marketplace,10,1595,15,698,100,10,10,8,No,Sunny,1499,10
+ORD316,12-11-2025,P007,Tablet,Electronics,East,Guwahati,Retail Store,50,29056,10,8142,59,42,42,29,No,Cloudy,28765,40
+ORD317,13-11-2025,P009,Bluetooth Speaker,Audio,West,Mumbai,Retail Store,52,1616,10,4043,46,53,56,70,Yes,Windy,1729,54
+ORD318,14-11-2025,P003,Headphones,Accessories,Central,Nagpur,Distributor,11,2852,15,3127,64,10,11,7,No,Windy,2738,10
+ORD319,15-11-2025,P010,Monitor,Electronics,South,Kochi,Marketplace,41,25578,15,6922,50,41,47,35,No,Windy,23532,40
+ORD320,16-11-2025,P005,Mouse,Accessories,East,Patna,Marketplace,71,513,0,1863,75,75,62,62,No,Cloudy,492,75
+ORD321,17-11-2025,P003,Headphones,Accessories,Central,Nagpur,Distributor,56,605,20,2902,94,43,43,48,No,Cloudy,623,41
+ORD322,18-11-2025,P001,Laptop,Electronics,East,Patna,Retail Store,88,68778,15,6230,33,79,75,104,No,Rainy,72905,84
+ORD323,19-11-2025,P004,Keyboard,Accessories,North,Lucknow,Retail Store,52,928,15,2356,146,55,53,57,No,Cloudy,974,51
+ORD324,20-11-2025,P005,Mouse,Accessories,East,Bhubaneswar,Online,64,737,15,2432,128,68,60,48,No,Cloudy,671,65
+ORD325,21-11-2025,P010,Monitor,Electronics,West,Mumbai,Marketplace,70,20371,15,2033,42,61,53,65,No,Cloudy,21593,58
+ORD326,22-11-2025,P004,Keyboard,Accessories,South,Hyderabad,Marketplace,53,2997,0,1209,145,60,58,48,No,Cloudy,2877,62
+ORD327,23-11-2025,P007,Tablet,Electronics,North,Lucknow,Online,23,59310,0,3716,56,19,19,19,No,Cloudy,58717,20
+ORD328,24-11-2025,P005,Mouse,Accessories,North,Chandigarh,Online,27,703,0,1807,92,25,29,31,Yes,Rainy,661,26
+ORD329,25-11-2025,P002,Mobile,Electronics,Central,Raipur,Distributor,55,62620,5,11740,64,51,62,50,Yes,Windy,66377,52
+ORD330,26-11-2025,P003,Headphones,Accessories,East,Patna,Online,53,3851,10,1847,99,43,45,54,No,Sunny,3620,44
+ORD331,27-11-2025,P002,Mobile,Electronics,Central,Nagpur,Marketplace,13,43967,10,17109,94,14,12,11,No,Windy,41769,14
+ORD332,28-11-2025,P010,Monitor,Electronics,West,Surat,Marketplace,66,27909,0,2343,55,72,90,91,Yes,Cloudy,29863,77
+ORD333,29-11-2025,P009,Bluetooth Speaker,Audio,West,Pune,Distributor,38,2541,5,3122,45,39,42,37,No,Rainy,2541,36
+ORD334,30-11-2025,P002,Mobile,Electronics,East,Kolkata,Online,70,76539,15,10145,130,69,62,56,No,Sunny,75774,69
+ORD335,01-12-2025,P010,Monitor,Electronics,North,Chandigarh,Online,95,10568,0,6613,73,101,97,104,No,Sunny,10357,112
+ORD336,02-12-2025,P002,Mobile,Electronics,North,Jaipur,Retail Store,71,12896,0,5488,114,72,91,87,No,Rainy,11993,78
+ORD337,03-12-2025,P005,Mouse,Accessories,North,Chandigarh,Retail Store,97,1070,15,1861,174,77,65,80,No,Windy,1070,75
+ORD338,04-12-2025,P001,Laptop,Electronics,West,Ahmedabad,Marketplace,31,73780,5,6531,37,31,25,21,No,Sunny,73042,29
+ORD339,05-12-2025,P008,Power Bank,Accessories,North,Chandigarh,Online,57,2416,20,1469,56,49,50,36,No,Rainy,2271,50
+ORD340,06-12-2025,P002,Mobile,Electronics,West,Mumbai,Retail Store,57,27130,0,17437,126,49,60,60,No,Cloudy,27130,51
+ORD341,07-12-2025,P010,Monitor,Electronics,East,Kolkata,Distributor,60,12923,10,3169,69,39,43,34,No,Cloudy,13569,43
+ORD342,08-12-2025,P007,Tablet,Electronics,North,Jaipur,Online,36,50819,5,4805,74,39,36,38,No,Cloudy,47262,36
+ORD343,09-12-2025,P009,Bluetooth Speaker,Audio,Central,Indore,Marketplace,87,3887,5,3373,87,82,68,54,No,Rainy,4042,75
+ORD344,10-12-2025,P001,Laptop,Electronics,West,Ahmedabad,Online,40,81983,0,17792,53,41,39,43,No,Windy,73785,44
+ORD345,11-12-2025,P002,Mobile,Electronics,West,Ahmedabad,Distributor,18,21285,5,7330,150,19,15,22,No,Rainy,22775,18
+ORD346,12-12-2025,P003,Headphones,Accessories,West,Mumbai,Distributor,7,4428,5,1576,117,8,9,6,No,Sunny,4207,8
+ORD347,13-12-2025,P010,Monitor,Electronics,West,Pune,Online,69,20266,0,3324,49,81,85,65,No,Sunny,21887,82
+ORD348,14-12-2025,P005,Mouse,Accessories,Central,Nagpur,Online,89,666,15,1115,113,78,88,84,Yes,Rainy,659,81
+ORD349,15-12-2025,P004,Keyboard,Accessories,East,Guwahati,Marketplace,51,2359,10,1999,27,48,49,62,No,Windy,2123,49
+ORD350,16-12-2025,P009,Bluetooth Speaker,Audio,North,Jaipur,Distributor,15,4507,5,1595,112,14,15,17,Yes,Cloudy,4913,15
+ORD351,17-12-2025,P004,Keyboard,Accessories,East,Guwahati,Retail Store,85,1430,5,1026,53,83,106,103,No,Windy,1516,91
+ORD352,18-12-2025,P001,Laptop,Electronics,North,Lucknow,Online,81,66156,0,7168,34,87,99,75,No,Cloudy,59540,90
+ORD353,19-12-2025,P004,Keyboard,Accessories,South,Kochi,Online,98,2956,0,958,124,82,81,95,No,Rainy,2660,80
+ORD354,20-12-2025,P002,Mobile,Electronics,East,Kolkata,Online,67,48678,0,16754,61,76,69,83,No,Cloudy,45757,70
+ORD355,21-12-2025,P010,Monitor,Electronics,North,Lucknow,Distributor,29,27177,10,5163,26,25,23,29,No,Cloudy,26090,25
+ORD356,22-12-2025,P009,Bluetooth Speaker,Audio,Central,Raipur,Retail Store,99,6512,10,2403,117,84,81,78,No,Windy,6056,84
+ORD357,23-12-2025,P002,Mobile,Electronics,West,Pune,Online,81,57214,0,13892,127,78,96,90,No,Windy,57786,83
+ORD358,24-12-2025,P010,Monitor,Electronics,South,Chennai,Online,76,19442,15,5034,58,75,72,57,No,Windy,20609,74
+ORD359,25-12-2025,P008,Power Bank,Accessories,South,Kochi,Marketplace,38,1691,10,2156,193,41,33,42,No,Windy,1860,38
+ORD360,26-12-2025,P010,Monitor,Electronics,East,Patna,Distributor,65,18484,10,4428,58,62,63,72,No,Windy,17560,64
+ORD361,27-12-2025,P007,Tablet,Electronics,East,Guwahati,Marketplace,94,44800,0,3664,18,85,86,91,No,Rainy,40768,90
+ORD362,28-12-2025,P001,Laptop,Electronics,South,Chennai,Marketplace,92,57747,15,11298,90,73,71,63,Yes,Windy,60057,74
+ORD363,29-12-2025,P002,Mobile,Electronics,North,Jaipur,Online,53,69522,10,4427,117,42,37,52,No,Rainy,72998,45
+ORD364,30-12-2025,P004,Keyboard,Accessories,South,Kochi,Marketplace,84,2544,0,1891,45,94,99,107,No,Rainy,2366,97
+ORD365,31-12-2025,P004,Keyboard,Accessories,North,Delhi,Retail Store,59,1415,15,2305,94,55,57,77,No,Windy,1344,60
+ORD366,01-01-2026,P002,Mobile,Electronics,North,Jaipur,Online,29,52492,10,13834,118,25,29,26,Yes,Cloudy,47243,25
+ORD367,02-01-2026,P006,Smart Watch,Wearables,West,Mumbai,Marketplace,9,8749,10,6618,78,7,6,9,No,Windy,8224,7
+ORD368,03-01-2026,P009,Bluetooth Speaker,Audio,West,Ahmedabad,Marketplace,87,1067,5,4695,72,71,64,63,No,Sunny,1163,66
+ORD369,04-01-2026,P005,Mouse,Accessories,Central,Raipur,Marketplace,88,1188,10,671,246,67,81,66,No,Windy,1271,68
+ORD370,05-01-2026,P007,Tablet,Electronics,East,Kolkata,Marketplace,41,34610,10,8297,91,42,35,50,Yes,Rainy,38071,41
+ORD371,06-01-2026,P004,Keyboard,Accessories,South,Chennai,Retail Store,40,2991,5,787,89,36,37,32,No,Windy,3260,34
+ORD372,07-01-2026,P003,Headphones,Accessories,Central,Nagpur,Marketplace,99,1489,20,2926,170,92,78,81,No,Sunny,1593,91
+ORD373,08-01-2026,P010,Monitor,Electronics,North,Delhi,Distributor,51,19279,5,4661,41,43,43,35,No,Windy,20821,39
+ORD374,09-01-2026,P004,Keyboard,Accessories,North,Jaipur,Marketplace,95,2420,15,927,38,74,93,94,Yes,Sunny,2251,78
+ORD375,10-01-2026,P004,Keyboard,Accessories,East,Kolkata,Distributor,77,942,10,2966,32,60,48,64,No,Rainy,914,60
+ORD376,11-01-2026,P001,Laptop,Electronics,Central,Nagpur,Distributor,78,86068,15,17063,16,68,67,49,No,Windy,82625,65
+ORD377,12-01-2026,P004,Keyboard,Accessories,East,Bhubaneswar,Distributor,40,1404,15,2138,93,35,37,46,No,Sunny,1502,37
+ORD378,13-01-2026,P009,Bluetooth Speaker,Audio,South,Bengaluru,Marketplace,89,3046,10,2349,94,83,76,102,No,Windy,3137,88
+ORD379,14-01-2026,P006,Smart Watch,Wearables,Central,Bhopal,Online,100,6772,5,2956,95,103,93,139,No,Rainy,7314,112
+ORD380,15-01-2026,P003,Headphones,Accessories,South,Hyderabad,Online,35,4376,15,2161,141,31,34,32,No,Rainy,4288,29
+ORD381,16-01-2026,P002,Mobile,Electronics,South,Hyderabad,Online,50,20927,15,11500,67,44,43,48,No,Cloudy,20718,41
+ORD382,17-01-2026,P006,Smart Watch,Wearables,West,Ahmedabad,Retail Store,76,14710,10,3670,22,77,62,92,No,Sunny,15887,74
+ORD383,18-01-2026,P010,Monitor,Electronics,North,Chandigarh,Marketplace,90,13831,5,6537,44,80,79,61,No,Cloudy,15214,85
+ORD384,19-01-2026,P007,Tablet,Electronics,North,Lucknow,Retail Store,18,32878,15,7455,33,14,11,10,No,Rainy,32220,13
+ORD385,20-01-2026,P007,Tablet,Electronics,Central,Raipur,Online,35,45962,0,4857,63,41,47,37,Yes,Rainy,49639,41
+ORD386,21-01-2026,P007,Tablet,Electronics,East,Bhubaneswar,Online,56,20979,5,4094,81,50,50,41,No,Cloudy,22238,52
+ORD387,22-01-2026,P003,Headphones,Accessories,Central,Bhopal,Distributor,22,4301,15,2432,106,21,22,19,No,Sunny,4344,20
+ORD388,23-01-2026,P001,Laptop,Electronics,Central,Bhopal,Online,26,65260,15,12765,27,17,17,15,Yes,Sunny,59387,18
+ORD389,24-01-2026,P001,Laptop,Electronics,West,Ahmedabad,Retail Store,29,43728,15,10431,52,28,27,25,No,Sunny,42416,27
+ORD390,25-01-2026,P010,Monitor,Electronics,South,Hyderabad,Online,77,24871,0,6803,15,84,92,70,No,Windy,24125,82
+ORD391,26-01-2026,P004,Keyboard,Accessories,Central,Nagpur,Retail Store,66,1059,5,1712,150,71,82,55,Yes,Cloudy,1165,70
+ORD392,27-01-2026,P010,Monitor,Electronics,Central,Indore,Online,31,21334,0,6635,36,36,39,30,No,Rainy,20267,34
+ORD393,28-01-2026,P006,Smart Watch,Wearables,South,Bengaluru,Marketplace,44,7793,15,1537,57,29,28,29,No,Rainy,8572,30
+ORD394,29-01-2026,P010,Monitor,Electronics,South,Kochi,Distributor,19,26542,10,7090,60,13,13,16,No,Windy,23888,14
+ORD395,30-01-2026,P008,Power Bank,Accessories,North,Delhi,Online,98,2948,10,2952,38,67,88,78,No,Rainy,2801,74
+ORD396,31-01-2026,P001,Laptop,Electronics,North,Lucknow,Marketplace,81,45863,5,15733,33,58,66,62,No,Sunny,47239,62
+ORD397,01-02-2026,P009,Bluetooth Speaker,Audio,West,Pune,Online,12,6430,20,1476,33,9,10,10,No,Sunny,7009,9
+ORD398,02-02-2026,P003,Headphones,Accessories,South,Kochi,Distributor,88,2616,20,4330,162,75,82,79,No,Windy,2616,77
+ORD399,03-02-2026,P004,Keyboard,Accessories,South,Hyderabad,Marketplace,62,933,15,2181,108,43,51,40,No,Windy,849,45
+ORD400,04-02-2026,P005,Mouse,Accessories,East,Kolkata,Marketplace,52,580,15,2044,120,54,53,45,No,Windy,621,50
+ORD401,05-02-2026,P009,Bluetooth Speaker,Audio,East,Patna,Distributor,92,4998,15,3629,39,94,103,81,No,Sunny,4948,89
+ORD402,06-02-2026,P007,Tablet,Electronics,South,Kochi,Online,78,12430,10,7075,56,64,62,62,No,Rainy,12430,60
+ORD403,07-02-2026,P005,Mouse,Accessories,West,Ahmedabad,Distributor,38,474,5,2473,165,39,38,48,No,Cloudy,460,38
+ORD404,08-02-2026,P010,Monitor,Electronics,South,Chennai,Distributor,93,18316,5,2727,30,95,100,70,No,Sunny,19232,88
+ORD405,09-02-2026,P010,Monitor,Electronics,North,Lucknow,Retail Store,50,20647,5,6360,61,50,65,42,Yes,Sunny,18582,55
+ORD406,10-02-2026,P009,Bluetooth Speaker,Audio,East,Bhubaneswar,Retail Store,27,6319,5,4906,44,22,20,16,No,Windy,6193,22
+ORD407,11-02-2026,P003,Headphones,Accessories,Central,Nagpur,Retail Store,36,2828,10,3478,84,30,27,39,No,Windy,2771,33
+ORD408,12-02-2026,P009,Bluetooth Speaker,Audio,East,Kolkata,Distributor,97,5995,10,3075,98,87,100,96,No,Windy,6475,85
+ORD409,13-02-2026,P009,Bluetooth Speaker,Audio,East,Kolkata,Retail Store,42,5978,5,4672,15,49,55,46,Yes,Cloudy,5799,46
+ORD410,14-02-2026,P009,Bluetooth Speaker,Audio,West,Mumbai,Marketplace,16,2832,10,1212,103,15,14,14,No,Sunny,2662,17
+ORD411,15-02-2026,P009,Bluetooth Speaker,Audio,North,Jaipur,Online,13,6116,20,3473,97,9,9,7,No,Windy,6605,9
+ORD412,16-02-2026,P009,Bluetooth Speaker,Audio,South,Hyderabad,Marketplace,67,6248,20,1884,96,62,67,63,No,Rainy,6373,60
+ORD413,17-02-2026,P008,Power Bank,Accessories,North,Delhi,Online,89,2430,5,2140,150,89,82,105,No,Rainy,2552,90
+ORD414,18-02-2026,P008,Power Bank,Accessories,North,Lucknow,Distributor,77,968,10,1808,39,69,73,65,No,Windy,900,64
+ORD415,19-02-2026,P006,Smart Watch,Wearables,West,Pune,Online,70,4457,5,2251,29,60,65,48,No,Windy,4903,63
+ORD416,20-02-2026,P002,Mobile,Electronics,East,Guwahati,Online,12,19278,5,10138,129,11,12,10,No,Sunny,20242,10
+ORD417,21-02-2026,P007,Tablet,Electronics,West,Surat,Online,84,19632,10,3130,97,72,58,83,No,Cloudy,20614,70
+ORD418,22-02-2026,P004,Keyboard,Accessories,South,Chennai,Marketplace,51,741,5,562,73,50,53,68,No,Rainy,793,54
+ORD419,23-02-2026,P010,Monitor,Electronics,Central,Indore,Online,74,21235,0,5623,76,71,74,90,Yes,Sunny,20173,70
+ORD420,24-02-2026,P010,Monitor,Electronics,North,Lucknow,Online,63,13224,10,4594,66,48,49,48,No,Rainy,11902,46
+ORD421,25-02-2026,P007,Tablet,Electronics,West,Ahmedabad,Online,100,13236,10,2862,21,84,91,84,No,Cloudy,12309,83
+ORD422,26-02-2026,P003,Headphones,Accessories,Central,Indore,Distributor,97,4160,15,2145,72,68,79,91,No,Sunny,4368,72
+ORD423,27-02-2026,P005,Mouse,Accessories,Central,Nagpur,Retail Store,33,587,0,2234,66,26,25,34,No,Windy,564,27
+ORD424,28-02-2026,P008,Power Bank,Accessories,South,Kochi,Marketplace,14,646,20,2378,187,11,12,11,Yes,Sunny,698,12
+ORD425,01-03-2026,P004,Keyboard,Accessories,South,Hyderabad,Online,84,2465,15,2200,124,76,69,102,No,Rainy,2539,83
+ORD426,02-03-2026,P007,Tablet,Electronics,North,Delhi,Online,66,16432,10,4200,30,70,71,73,No,Windy,17911,67
+ORD427,03-03-2026,P006,Smart Watch,Wearables,Central,Raipur,Marketplace,98,12111,20,4894,71,70,82,67,No,Windy,11142,72
+ORD428,04-03-2026,P004,Keyboard,Accessories,West,Ahmedabad,Online,94,2863,5,1107,105,90,102,64,No,Cloudy,3092,87
+ORD429,05-03-2026,P001,Laptop,Electronics,North,Delhi,Retail Store,74,71371,0,13246,79,63,68,68,No,Windy,70657,69
+ORD430,06-03-2026,P006,Smart Watch,Wearables,East,Kolkata,Online,45,10463,5,4776,64,37,32,44,No,Rainy,10777,34
+ORD431,07-03-2026,P009,Bluetooth Speaker,Audio,East,Guwahati,Distributor,66,6981,15,4470,64,43,40,56,No,Sunny,6981,47
+ORD432,08-03-2026,P008,Power Bank,Accessories,North,Delhi,Distributor,92,2506,5,1739,154,74,83,98,No,Sunny,2331,77
+ORD433,09-03-2026,P002,Mobile,Electronics,Central,Indore,Retail Store,94,27767,0,17327,112,92,81,64,Yes,Sunny,29433,86
+ORD434,10-03-2026,P003,Headphones,Accessories,East,Kolkata,Online,27,4790,5,4283,134,32,25,29,No,Sunny,4934,30
+ORD435,11-03-2026,P002,Mobile,Electronics,West,Pune,Retail Store,69,26088,5,16856,46,61,61,44,No,Sunny,25044,58
+ORD436,12-03-2026,P003,Headphones,Accessories,South,Kochi,Retail Store,18,4103,15,2109,178,16,15,12,No,Sunny,4062,17
+ORD437,13-03-2026,P002,Mobile,Electronics,North,Delhi,Online,79,42727,0,5877,144,80,88,93,No,Sunny,42727,86
+ORD438,14-03-2026,P006,Smart Watch,Wearables,West,Pune,Distributor,86,5347,10,3691,49,83,99,80,No,Windy,4866,87
+ORD439,15-03-2026,P009,Bluetooth Speaker,Audio,North,Delhi,Distributor,8,3675,20,4110,65,8,8,8,Yes,Cloudy,3418,7
+ORD440,16-03-2026,P005,Mouse,Accessories,South,Kochi,Distributor,5,438,0,1181,74,5,5,4,No,Sunny,434,5
+ORD441,17-03-2026,P009,Bluetooth Speaker,Audio,Central,Indore,Retail Store,35,4258,20,3968,26,27,27,34,Yes,Sunny,4343,27
+ORD442,18-03-2026,P006,Smart Watch,Wearables,East,Guwahati,Retail Store,28,5247,10,2329,49,27,30,22,No,Rainy,4775,26
+ORD443,19-03-2026,P006,Smart Watch,Wearables,East,Bhubaneswar,Online,40,5188,15,3166,58,37,44,36,No,Sunny,5084,38
+ORD444,20-03-2026,P010,Monitor,Electronics,North,Chandigarh,Distributor,43,13141,15,6897,50,44,46,47,No,Cloudy,13272,44
+ORD445,21-03-2026,P007,Tablet,Electronics,Central,Nagpur,Online,93,50964,0,3812,19,97,87,83,No,Windy,54022,92
+ORD446,22-03-2026,P006,Smart Watch,Wearables,Central,Bhopal,Distributor,99,9422,5,2621,47,78,76,101,No,Sunny,8857,79
+ORD447,23-03-2026,P004,Keyboard,Accessories,East,Bhubaneswar,Retail Store,48,2163,15,1720,93,34,30,35,No,Windy,2314,33
+ORD448,24-03-2026,P004,Keyboard,Accessories,Central,Nagpur,Retail Store,91,2192,0,1364,94,87,106,77,Yes,Rainy,2258,93
+ORD449,25-03-2026,P004,Keyboard,Accessories,West,Pune,Marketplace,46,742,5,830,139,42,54,57,No,Sunny,683,47
+ORD450,26-03-2026,P009,Bluetooth Speaker,Audio,North,Chandigarh,Retail Store,53,3666,5,4909,23,45,53,39,No,Rainy,3446,45
+ORD451,27-03-2026,P007,Tablet,Electronics,South,Kochi,Retail Store,44,23831,0,7116,57,49,53,38,No,Cloudy,21925,49
+ORD452,28-03-2026,P008,Power Bank,Accessories,Central,Bhopal,Distributor,93,1518,15,2949,155,78,87,93,Yes,Cloudy,1457,78
+ORD453,29-03-2026,P009,Bluetooth Speaker,Audio,Central,Raipur,Retail Store,41,5804,20,1221,72,32,33,36,No,Cloudy,6268,35
+ORD454,30-03-2026,P005,Mouse,Accessories,Central,Bhopal,Marketplace,92,1493,0,2463,95,95,94,102,No,Sunny,1598,105
+ORD455,31-03-2026,P007,Tablet,Electronics,North,Jaipur,Retail Store,52,23310,5,5330,71,57,46,71,No,Sunny,21911,55
+ORD456,01-04-2026,P006,Smart Watch,Wearables,North,Delhi,Online,62,11947,5,5479,37,68,74,65,Yes,Rainy,10752,63
+ORD457,02-04-2026,P005,Mouse,Accessories,North,Delhi,Online,80,1102,15,738,74,55,62,53,No,Rainy,1212,56
+ORD458,03-04-2026,P010,Monitor,Electronics,North,Delhi,Marketplace,21,17453,5,6578,12,23,25,24,No,Rainy,19198,24
+ORD459,04-04-2026,P009,Bluetooth Speaker,Audio,East,Bhubaneswar,Marketplace,87,3290,15,2164,46,63,73,48,No,Windy,3060,65
+ORD460,05-04-2026,P009,Bluetooth Speaker,Audio,North,Jaipur,Distributor,90,4391,20,4467,52,71,88,84,Yes,Windy,4128,76
+ORD461,06-04-2026,P006,Smart Watch,Wearables,East,Kolkata,Retail Store,36,13192,5,5555,14,29,27,31,No,Cloudy,13192,28
+ORD462,07-04-2026,P009,Bluetooth Speaker,Audio,East,Guwahati,Retail Store,42,4407,5,3899,38,34,27,26,No,Sunny,4627,33
+ORD463,08-04-2026,P003,Headphones,Accessories,South,Kochi,Marketplace,34,3948,5,2954,107,38,39,28,No,Windy,4264,38
+ORD464,09-04-2026,P003,Headphones,Accessories,Central,Indore,Distributor,98,876,15,1132,132,88,95,77,No,Sunny,876,86
+ORD465,10-04-2026,P003,Headphones,Accessories,South,Kochi,Distributor,58,552,15,2474,131,52,50,49,Yes,Sunny,602,49
+ORD466,11-04-2026,P008,Power Bank,Accessories,South,Bengaluru,Online,8,848,20,689,137,5,5,6,No,Rainy,890,5
+ORD467,12-04-2026,P004,Keyboard,Accessories,South,Bengaluru,Marketplace,81,1058,10,952,92,60,58,74,No,Cloudy,1079,66
+ORD468,13-04-2026,P003,Headphones,Accessories,North,Chandigarh,Online,93,4459,5,1562,128,104,117,81,No,Windy,4682,104
+ORD469,14-04-2026,P009,Bluetooth Speaker,Audio,Central,Indore,Online,56,4931,15,4067,110,55,46,41,No,Sunny,5178,57
+ORD470,15-04-2026,P002,Mobile,Electronics,North,Jaipur,Distributor,47,50640,15,12645,80,44,34,41,Yes,Rainy,46589,42
+ORD471,16-04-2026,P003,Headphones,Accessories,East,Guwahati,Online,47,542,10,3150,75,51,55,47,No,Cloudy,585,50
+ORD472,17-04-2026,P008,Power Bank,Accessories,East,Kolkata,Retail Store,86,2512,10,873,105,88,73,92,No,Cloudy,2587,81
+ORD473,18-04-2026,P009,Bluetooth Speaker,Audio,Central,Nagpur,Retail Store,23,3600,20,1020,117,20,24,22,Yes,Cloudy,3960,20
+ORD474,19-04-2026,P004,Keyboard,Accessories,North,Lucknow,Retail Store,27,2217,15,820,46,22,24,29,Yes,Rainy,2195,24
+ORD475,20-04-2026,P005,Mouse,Accessories,North,Delhi,Marketplace,85,859,15,2063,170,72,82,55,No,Rainy,893,77
+ORD476,21-04-2026,P001,Laptop,Electronics,East,Guwahati,Marketplace,47,70708,15,10650,79,44,50,30,No,Cloudy,75658,42
+ORD477,22-04-2026,P009,Bluetooth Speaker,Audio,North,Delhi,Online,51,7735,10,1584,56,48,57,37,No,Rainy,8509,50
+ORD478,23-04-2026,P003,Headphones,Accessories,Central,Nagpur,Distributor,84,3045,15,1548,134,78,74,69,No,Sunny,2893,75
+ORD479,24-04-2026,P009,Bluetooth Speaker,Audio,South,Hyderabad,Online,7,3133,10,2330,102,7,8,7,No,Windy,3164,7
+ORD480,25-04-2026,P008,Power Bank,Accessories,South,Chennai,Online,94,2771,5,2031,187,93,84,73,Yes,Windy,3020,91
+ORD481,26-04-2026,P003,Headphones,Accessories,East,Guwahati,Distributor,59,2506,15,3175,190,37,35,44,No,Sunny,2531,41
+ORD482,27-04-2026,P005,Mouse,Accessories,South,Hyderabad,Marketplace,41,841,0,1020,160,38,42,40,Yes,Cloudy,883,36
+ORD483,28-04-2026,P002,Mobile,Electronics,Central,Bhopal,Marketplace,25,43075,0,4551,148,24,22,21,No,Windy,42644,24
+ORD484,29-04-2026,P001,Laptop,Electronics,North,Chandigarh,Online,60,58030,15,11574,80,59,64,49,No,Rainy,59771,60
+ORD485,30-04-2026,P009,Bluetooth Speaker,Audio,Central,Nagpur,Distributor,41,2181,20,2395,53,37,47,31,Yes,Cloudy,2246,39
+ORD486,01-05-2026,P003,Headphones,Accessories,Central,Nagpur,Distributor,63,4258,5,2999,49,55,56,52,No,Rainy,4556,59
+ORD487,02-05-2026,P003,Headphones,Accessories,West,Surat,Marketplace,93,2719,10,2686,136,82,72,94,No,Rainy,2529,82
+ORD488,03-05-2026,P003,Headphones,Accessories,South,Kochi,Online,64,972,10,2463,60,52,57,57,No,Sunny,1011,50
+ORD489,04-05-2026,P002,Mobile,Electronics,East,Kolkata,Retail Store,47,77407,5,14828,40,54,43,39,No,Rainy,74311,53
+ORD490,05-05-2026,P003,Headphones,Accessories,South,Chennai,Online,88,1089,15,4511,150,59,55,64,No,Windy,1067,62
+ORD491,06-05-2026,P008,Power Bank,Accessories,Central,Bhopal,Marketplace,9,1896,15,1973,107,7,8,9,No,Windy,1972,7
+ORD492,07-05-2026,P007,Tablet,Electronics,West,Mumbai,Distributor,60,41549,10,7851,55,48,44,54,No,Rainy,41134,52
+ORD493,08-05-2026,P004,Keyboard,Accessories,Central,Nagpur,Marketplace,61,2907,10,749,119,43,50,40,No,Cloudy,2849,47
+ORD494,09-05-2026,P001,Laptop,Electronics,West,Ahmedabad,Marketplace,67,59926,5,12483,23,78,74,94,No,Cloudy,56330,76
+ORD495,10-05-2026,P005,Mouse,Accessories,Central,Nagpur,Retail Store,68,813,10,2303,155,50,50,62,No,Cloudy,894,51
+ORD496,11-05-2026,P010,Monitor,Electronics,West,Surat,Online,84,15107,5,5188,14,91,72,69,No,Sunny,14050,88
+ORD497,12-05-2026,P009,Bluetooth Speaker,Audio,West,Surat,Online,18,1929,10,2713,63,18,21,20,No,Cloudy,2083,18
+ORD498,13-05-2026,P005,Mouse,Accessories,Central,Nagpur,Marketplace,99,265,10,2162,90,84,80,100,Yes,Sunny,273,92
+ORD499,14-05-2026,P006,Smart Watch,Wearables,East,Patna,Marketplace,48,14647,15,2299,97,47,56,54,Yes,Windy,13915,49
+ORD500,15-05-2026,P005,Mouse,Accessories,Central,Raipur,Online,79,329,15,2032,220,63,49,43,No,Sunny,349,61
+ORD501,16-05-2026,P009,Bluetooth Speaker,Audio,South,Bengaluru,Retail Store,100,5600,5,1583,67,90,89,104,Yes,Cloudy,5152,87
+ORD502,17-05-2026,P007,Tablet,Electronics,East,Guwahati,Marketplace,47,21497,0,6762,99,41,44,38,No,Sunny,19562,39
+ORD503,18-05-2026,P009,Bluetooth Speaker,Audio,North,Delhi,Online,87,2131,5,1399,85,94,95,77,No,Windy,2280,92
+ORD504,19-05-2026,P007,Tablet,Electronics,South,Bengaluru,Distributor,57,35375,15,8081,83,42,38,49,No,Windy,35729,42
+ORD505,20-05-2026,P007,Tablet,Electronics,East,Kolkata,Marketplace,58,27182,5,4115,57,56,43,64,No,Rainy,25007,51
+ORD506,21-05-2026,P004,Keyboard,Accessories,West,Surat,Online,47,2110,15,1109,71,49,37,42,No,Cloudy,2237,45
+ORD507,22-05-2026,P010,Monitor,Electronics,West,Surat,Online,39,20974,5,4534,66,34,39,41,No,Sunny,18877,35
+ORD508,23-05-2026,P001,Laptop,Electronics,South,Bengaluru,Online,83,89514,15,17335,39,86,77,87,No,Rainy,86829,82
+ORD509,24-05-2026,P007,Tablet,Electronics,Central,Raipur,Online,88,21316,15,8508,38,79,96,101,No,Cloudy,23448,81
+ORD510,25-05-2026,P006,Smart Watch,Wearables,Central,Bhopal,Retail Store,11,8589,5,4675,37,9,11,10,No,Cloudy,7988,9
+ORD511,26-05-2026,P008,Power Bank,Accessories,South,Chennai,Distributor,13,1999,5,2255,53,15,12,12,No,Cloudy,2039,15
+ORD512,27-05-2026,P002,Mobile,Electronics,North,Jaipur,Distributor,10,72646,0,10752,129,9,8,10,No,Cloudy,72646,8
+ORD513,28-05-2026,P001,Laptop,Electronics,South,Chennai,Online,59,58513,10,10553,21,65,58,63,No,Rainy,54417,63
+ORD514,29-05-2026,P005,Mouse,Accessories,East,Bhubaneswar,Marketplace,41,1339,5,2030,102,47,49,59,Yes,Cloudy,1205,46
+ORD515,30-05-2026,P002,Mobile,Electronics,Central,Nagpur,Distributor,73,15685,0,8065,131,57,69,66,No,Rainy,17097,58
+ORD516,31-05-2026,P006,Smart Watch,Wearables,East,Kolkata,Marketplace,54,10176,5,3341,83,49,40,50,No,Sunny,9871,47
+ORD517,01-06-2026,P007,Tablet,Electronics,West,Surat,Online,73,35969,5,4979,48,61,70,79,Yes,Windy,33451,62
+ORD518,02-06-2026,P008,Power Bank,Accessories,West,Mumbai,Online,100,1207,20,2839,184,61,68,58,Yes,Windy,1231,66
+ORD519,03-06-2026,P006,Smart Watch,Wearables,East,Kolkata,Retail Store,41,11761,10,2279,46,28,35,25,No,Rainy,11408,30
+ORD520,04-06-2026,P007,Tablet,Electronics,North,Delhi,Retail Store,8,15322,15,7700,60,8,9,7,No,Windy,16395,8
+ORD521,05-06-2026,P006,Smart Watch,Wearables,East,Guwahati,Distributor,59,13068,20,5430,100,56,46,58,No,Rainy,14113,57
+ORD522,06-06-2026,P006,Smart Watch,Wearables,South,Chennai,Distributor,43,14385,10,5419,97,37,32,41,No,Windy,14529,38
+ORD523,07-06-2026,P003,Headphones,Accessories,South,Chennai,Online,88,805,15,4130,53,70,77,67,No,Cloudy,821,70
+ORD524,08-06-2026,P007,Tablet,Electronics,East,Guwahati,Marketplace,11,38673,15,2529,75,9,8,12,No,Sunny,38673,10
+ORD525,09-06-2026,P001,Laptop,Electronics,South,Bengaluru,Retail Store,73,58172,5,17919,47,66,65,75,No,Rainy,58172,64
+ORD526,10-06-2026,P007,Tablet,Electronics,Central,Raipur,Retail Store,90,44679,0,3425,25,111,104,119,No,Rainy,41551,106
+ORD527,11-06-2026,P004,Keyboard,Accessories,East,Guwahati,Distributor,74,2657,15,1588,31,54,48,62,Yes,Cloudy,2577,55
+ORD528,12-06-2026,P007,Tablet,Electronics,North,Lucknow,Online,15,30223,0,7548,72,15,16,17,No,Windy,31734,15
+ORD529,13-06-2026,P008,Power Bank,Accessories,South,Hyderabad,Retail Store,33,1293,5,2431,64,36,34,27,No,Sunny,1177,34
+ORD530,14-06-2026,P003,Headphones,Accessories,South,Bengaluru,Distributor,65,2071,20,1346,148,47,54,41,No,Windy,2216,48
+ORD531,15-06-2026,P007,Tablet,Electronics,West,Surat,Marketplace,36,21696,10,7551,25,33,43,41,No,Windy,23866,37
+ORD532,16-06-2026,P008,Power Bank,Accessories,North,Jaipur,Marketplace,95,2778,15,2433,200,85,100,89,No,Windy,2889,89
+ORD533,17-06-2026,P007,Tablet,Electronics,Central,Indore,Distributor,41,25690,5,5585,56,34,32,39,No,Cloudy,25947,35
+ORD534,18-06-2026,P005,Mouse,Accessories,North,Lucknow,Online,70,422,10,1842,67,75,72,73,Yes,Sunny,384,71
+ORD535,19-06-2026,P007,Tablet,Electronics,Central,Indore,Online,45,17402,5,5097,85,44,36,49,No,Windy,17750,45
+ORD536,20-06-2026,P003,Headphones,Accessories,East,Patna,Online,83,3826,10,1702,115,64,76,67,Yes,Sunny,3673,68
+ORD537,21-06-2026,P003,Headphones,Accessories,South,Chennai,Online,20,795,20,4638,173,17,16,19,No,Cloudy,787,18
+ORD538,22-06-2026,P003,Headphones,Accessories,West,Ahmedabad,Online,45,2963,20,1317,106,38,37,26,No,Rainy,2874,36
+ORD539,23-06-2026,P001,Laptop,Electronics,Central,Nagpur,Distributor,14,61364,15,18520,51,15,12,14,No,Cloudy,67500,14
+ORD540,24-06-2026,P006,Smart Watch,Wearables,West,Mumbai,Distributor,19,2161,10,5662,96,13,15,12,Yes,Windy,2247,14
+ORD541,25-06-2026,P006,Smart Watch,Wearables,East,Patna,Marketplace,26,12031,10,3937,49,25,21,30,No,Cloudy,11429,23
+ORD542,26-06-2026,P002,Mobile,Electronics,South,Bengaluru,Distributor,80,78433,10,7931,126,77,72,60,No,Cloudy,80002,80
+ORD543,27-06-2026,P003,Headphones,Accessories,North,Jaipur,Online,64,2459,10,4281,173,47,41,38,No,Sunny,2213,48
+ORD544,28-06-2026,P002,Mobile,Electronics,North,Chandigarh,Distributor,83,55711,0,12639,52,73,83,88,No,Rainy,52925,71
+ORD545,29-06-2026,P008,Power Bank,Accessories,North,Jaipur,Marketplace,31,2012,15,2394,98,26,31,21,No,Sunny,2072,28
+ORD546,30-06-2026,P004,Keyboard,Accessories,South,Bengaluru,Marketplace,36,2401,15,2769,24,28,23,21,No,Cloudy,2209,26
+ORD547,01-07-2026,P002,Mobile,Electronics,North,Delhi,Retail Store,98,60680,0,16610,46,97,119,93,No,Rainy,61894,104
+ORD548,02-07-2026,P005,Mouse,Accessories,Central,Raipur,Marketplace,21,1159,0,2432,184,21,20,17,No,Cloudy,1252,23
+ORD549,03-07-2026,P006,Smart Watch,Wearables,East,Bhubaneswar,Marketplace,58,11334,5,3610,58,62,64,63,Yes,Sunny,12354,57
+ORD550,04-07-2026,P007,Tablet,Electronics,North,Delhi,Online,40,52254,15,8042,12,36,32,27,No,Rainy,56957,36
+ORD551,05-07-2026,P001,Laptop,Electronics,North,Jaipur,Distributor,66,58022,15,14438,57,42,53,45,No,Sunny,56862,45
+ORD552,06-07-2026,P010,Monitor,Electronics,West,Mumbai,Online,77,15563,10,6704,54,75,83,72,Yes,Rainy,16341,80
+ORD553,07-07-2026,P004,Keyboard,Accessories,North,Jaipur,Retail Store,25,1965,10,695,41,24,24,18,No,Sunny,1847,24
+ORD554,08-07-2026,P006,Smart Watch,Wearables,South,Bengaluru,Retail Store,13,9444,15,4058,36,12,12,8,Yes,Sunny,9161,11
+ORD555,09-07-2026,P009,Bluetooth Speaker,Audio,West,Surat,Retail Store,54,3445,5,3392,116,42,41,49,Yes,Rainy,3617,42
+ORD556,10-07-2026,P004,Keyboard,Accessories,North,Delhi,Marketplace,81,1013,10,2699,42,75,74,51,Yes,Sunny,932,69
+ORD557,11-07-2026,P008,Power Bank,Accessories,West,Ahmedabad,Retail Store,19,1781,10,2814,167,19,20,20,No,Windy,1603,19
+ORD558,12-07-2026,P006,Smart Watch,Wearables,East,Patna,Retail Store,66,4743,10,6698,27,68,56,55,No,Windy,4790,64
+ORD559,13-07-2026,P004,Keyboard,Accessories,Central,Nagpur,Distributor,81,2392,10,2919,26,69,62,64,Yes,Rainy,2201,74
+ORD560,14-07-2026,P001,Laptop,Electronics,South,Kochi,Marketplace,20,63351,10,13736,40,17,17,16,No,Sunny,58283,16
+ORD561,15-07-2026,P007,Tablet,Electronics,North,Delhi,Retail Store,14,20106,5,4323,16,14,11,14,No,Rainy,18900,13
+ORD562,16-07-2026,P008,Power Bank,Accessories,Central,Bhopal,Distributor,92,1960,20,862,117,85,79,57,Yes,Cloudy,1803,80
+ORD563,17-07-2026,P006,Smart Watch,Wearables,North,Jaipur,Marketplace,58,14397,5,2051,79,68,53,49,Yes,Cloudy,15693,64
+ORD564,18-07-2026,P005,Mouse,Accessories,North,Delhi,Online,74,1259,0,1610,147,68,76,79,No,Rainy,1309,72
+ORD565,19-07-2026,P007,Tablet,Electronics,East,Kolkata,Online,9,28463,0,8965,97,8,10,8,Yes,Cloudy,30171,9
+ORD566,20-07-2026,P009,Bluetooth Speaker,Audio,East,Patna,Retail Store,96,2733,10,1169,78,76,71,91,No,Cloudy,2624,79
+ORD567,21-07-2026,P002,Mobile,Electronics,West,Surat,Online,77,71705,10,7331,128,77,97,106,No,Rainy,66686,82
+ORD568,22-07-2026,P003,Headphones,Accessories,Central,Raipur,Retail Store,72,3299,5,1105,51,70,78,85,No,Windy,2969,67
+ORD569,23-07-2026,P003,Headphones,Accessories,West,Mumbai,Marketplace,99,1536,20,1533,120,72,75,84,No,Rainy,1505,66
+ORD570,24-07-2026,P003,Headphones,Accessories,North,Delhi,Online,40,2823,5,4288,180,29,32,26,No,Cloudy,3077,30
+ORD571,25-07-2026,P002,Mobile,Electronics,North,Lucknow,Distributor,82,41523,0,9122,111,92,95,78,No,Rainy,40693,90
+ORD572,26-07-2026,P010,Monitor,Electronics,Central,Raipur,Online,19,21686,10,6991,64,14,14,18,No,Rainy,23855,15
+ORD573,27-07-2026,P002,Mobile,Electronics,Central,Indore,Retail Store,21,26824,10,12020,91,20,20,19,No,Cloudy,28165,20
+ORD574,28-07-2026,P008,Power Bank,Accessories,North,Lucknow,Marketplace,45,1344,15,806,107,35,26,39,No,Cloudy,1304,32
+ORD575,29-07-2026,P010,Monitor,Electronics,North,Lucknow,Online,49,26486,5,7446,66,49,50,53,No,Sunny,24897,46
+ORD576,30-07-2026,P008,Power Bank,Accessories,East,Bhubaneswar,Online,69,1350,5,2504,74,71,64,78,No,Sunny,1256,70
+ORD577,31-07-2026,P009,Bluetooth Speaker,Audio,East,Kolkata,Marketplace,66,7089,20,2625,76,56,55,56,No,Windy,6593,54
+ORD578,01-08-2026,P008,Power Bank,Accessories,East,Patna,Distributor,38,1946,5,688,193,44,41,49,Yes,Sunny,2102,43
+ORD579,02-08-2026,P005,Mouse,Accessories,South,Chennai,Online,43,403,10,1997,149,43,46,28,No,Windy,379,39
+ORD580,03-08-2026,P006,Smart Watch,Wearables,West,Surat,Marketplace,34,5129,20,2917,37,27,29,35,No,Rainy,5026,27
+ORD581,04-08-2026,P003,Headphones,Accessories,North,Delhi,Online,38,4373,15,2605,129,41,44,27,Yes,Windy,4723,37
+ORD582,05-08-2026,P007,Tablet,Electronics,West,Surat,Distributor,79,13982,15,2369,98,75,78,62,No,Windy,13982,71
+ORD583,06-08-2026,P007,Tablet,Electronics,Central,Indore,Distributor,71,25281,5,5838,41,68,79,83,No,Cloudy,26798,72
+ORD584,07-08-2026,P010,Monitor,Electronics,North,Chandigarh,Online,12,25344,15,5729,76,10,11,12,No,Sunny,27118,10
+ORD585,08-08-2026,P005,Mouse,Accessories,Central,Bhopal,Distributor,11,857,0,641,187,10,9,7,No,Cloudy,917,10
+ORD586,09-08-2026,P009,Bluetooth Speaker,Audio,West,Pune,Marketplace,50,5552,20,4390,59,45,40,35,No,Rainy,6107,46
+ORD587,10-08-2026,P003,Headphones,Accessories,North,Delhi,Online,83,3064,15,3138,119,73,77,75,No,Cloudy,2880,71
+ORD588,11-08-2026,P001,Laptop,Electronics,Central,Indore,Retail Store,43,51763,5,14268,38,50,51,55,No,Cloudy,48140,49
+ORD589,12-08-2026,P002,Mobile,Electronics,West,Ahmedabad,Marketplace,19,57549,0,12906,115,21,23,25,No,Cloudy,55823,22
+ORD590,13-08-2026,P006,Smart Watch,Wearables,West,Surat,Distributor,72,8629,15,4361,16,67,67,80,No,Sunny,8370,72
+ORD591,14-08-2026,P010,Monitor,Electronics,East,Guwahati,Retail Store,98,8156,15,6829,34,85,83,93,No,Rainy,7422,80
+ORD592,15-08-2026,P003,Headphones,Accessories,East,Patna,Online,35,4325,15,2304,30,31,29,25,No,Windy,3979,30
+ORD593,16-08-2026,P008,Power Bank,Accessories,East,Kolkata,Retail Store,53,1250,20,943,153,42,41,54,Yes,Cloudy,1250,46
+ORD594,17-08-2026,P007,Tablet,Electronics,South,Kochi,Distributor,17,52478,5,4380,29,19,15,18,No,Sunny,51953,18
+ORD595,18-08-2026,P002,Mobile,Electronics,East,Kolkata,Retail Store,95,34444,5,7330,70,74,68,57,No,Sunny,37200,79
+ORD596,19-08-2026,P002,Mobile,Electronics,West,Surat,Marketplace,91,17559,5,16051,111,89,86,73,No,Windy,17383,88
+ORD597,20-08-2026,P008,Power Bank,Accessories,South,Hyderabad,Retail Store,15,2278,5,2592,125,15,12,16,Yes,Cloudy,2119,14
+ORD598,21-08-2026,P009,Bluetooth Speaker,Audio,North,Chandigarh,Retail Store,95,2600,5,3889,98,92,99,112,No,Rainy,2678,86
+ORD599,22-08-2026,P001,Laptop,Electronics,East,Bhubaneswar,Online,44,78154,15,7175,90,48,41,47,No,Cloudy,72683,45
+ORD600,23-08-2026,P005,Mouse,Accessories,East,Kolkata,Online,87,1263,10,1185,130,70,73,57,No,Cloudy,1187,64
+ORD601,24-08-2026,P004,Keyboard,Accessories,East,Bhubaneswar,Distributor,79,854,15,2578,135,67,66,77,No,Cloudy,922,74
+ORD602,25-08-2026,P010,Monitor,Electronics,South,Chennai,Marketplace,54,23637,5,4863,65,51,52,65,No,Windy,21510,52
+ORD603,26-08-2026,P010,Monitor,Electronics,West,Surat,Marketplace,45,8924,5,5855,59,36,42,34,Yes,Cloudy,9192,38
+ORD604,27-08-2026,P003,Headphones,Accessories,West,Surat,Online,65,3673,5,2878,136,59,55,59,No,Rainy,3306,64
+ORD605,28-08-2026,P009,Bluetooth Speaker,Audio,South,Hyderabad,Online,28,1106,20,4705,37,22,27,23,No,Windy,1172,24
+ORD606,29-08-2026,P008,Power Bank,Accessories,East,Guwahati,Online,19,1216,20,1272,121,16,17,17,No,Cloudy,1204,15
+ORD607,30-08-2026,P004,Keyboard,Accessories,East,Guwahati,Retail Store,96,788,0,2072,100,84,77,89,No,Windy,812,86
+ORD608,31-08-2026,P001,Laptop,Electronics,South,Chennai,Marketplace,30,58893,15,15349,46,27,27,34,No,Rainy,63604,28
+ORD609,01-09-2026,P001,Laptop,Electronics,East,Guwahati,Distributor,8,77395,10,10223,36,8,7,7,No,Sunny,79717,8
+ORD610,02-09-2026,P002,Mobile,Electronics,North,Chandigarh,Marketplace,21,79224,10,9703,96,16,19,15,Yes,Rainy,83977,16
+ORD611,03-09-2026,P001,Laptop,Electronics,South,Bengaluru,Online,42,66263,10,12493,94,40,37,44,No,Windy,62950,43
+ORD612,04-09-2026,P001,Laptop,Electronics,Central,Nagpur,Distributor,25,82112,10,8413,55,27,28,21,No,Sunny,89502,25
+ORD613,05-09-2026,P003,Headphones,Accessories,South,Bengaluru,Online,92,2283,20,3696,75,86,75,80,No,Cloudy,2511,86
+ORD614,06-09-2026,P007,Tablet,Electronics,South,Bengaluru,Distributor,34,58737,0,6277,51,37,41,47,Yes,Sunny,54038,38
+ORD615,07-09-2026,P004,Keyboard,Accessories,Central,Bhopal,Distributor,62,1067,5,682,52,60,60,68,No,Cloudy,1120,55
+ORD616,08-09-2026,P010,Monitor,Electronics,East,Patna,Retail Store,75,22106,0,6161,76,66,60,62,No,Windy,22327,62
+ORD617,09-09-2026,P004,Keyboard,Accessories,Central,Nagpur,Marketplace,56,910,5,1684,29,54,56,65,Yes,Sunny,819,53
+ORD618,10-09-2026,P006,Smart Watch,Wearables,North,Jaipur,Distributor,38,2091,5,4304,60,35,31,27,No,Rainy,2154,34
+ORD619,11-09-2026,P002,Mobile,Electronics,North,Lucknow,Online,55,78459,15,8025,41,48,55,43,No,Sunny,84736,47
+ORD620,12-09-2026,P007,Tablet,Electronics,West,Ahmedabad,Marketplace,40,45616,0,4847,41,39,35,31,No,Cloudy,46984,40
+ORD621,13-09-2026,P007,Tablet,Electronics,East,Patna,Marketplace,43,49489,0,7058,49,47,42,32,No,Cloudy,51469,45
+ORD622,14-09-2026,P003,Headphones,Accessories,South,Hyderabad,Online,46,524,20,3812,174,31,35,33,No,Sunny,576,31
+ORD623,15-09-2026,P008,Power Bank,Accessories,Central,Nagpur,Online,50,2121,5,639,36,49,41,41,No,Rainy,2079,47
+ORD624,16-09-2026,P003,Headphones,Accessories,East,Kolkata,Marketplace,15,1015,20,3132,87,12,13,11,No,Cloudy,914,13
+ORD625,17-09-2026,P003,Headphones,Accessories,West,Mumbai,Distributor,78,1159,10,1915,157,72,60,91,No,Windy,1136,72
+ORD626,18-09-2026,P008,Power Bank,Accessories,North,Chandigarh,Distributor,88,571,20,1707,185,71,66,65,No,Cloudy,520,70
+ORD627,19-09-2026,P001,Laptop,Electronics,South,Chennai,Marketplace,85,65352,15,18820,79,75,74,85,No,Sunny,70580,74
+ORD628,20-09-2026,P009,Bluetooth Speaker,Audio,East,Bhubaneswar,Distributor,9,2348,5,2074,31,8,9,7,No,Cloudy,2207,9
+ORD629,21-09-2026,P008,Power Bank,Accessories,South,Bengaluru,Retail Store,66,1447,20,2944,125,58,67,72,Yes,Sunny,1461,63
+ORD630,22-09-2026,P002,Mobile,Electronics,West,Surat,Retail Store,26,47148,5,5010,143,21,19,18,No,Windy,48562,23
+ORD631,23-09-2026,P005,Mouse,Accessories,West,Pune,Distributor,19,824,10,1010,103,15,16,17,No,Sunny,906,15
+ORD632,24-09-2026,P007,Tablet,Electronics,North,Chandigarh,Distributor,74,48873,5,3406,10,61,50,73,No,Sunny,50339,60
+ORD633,25-09-2026,P002,Mobile,Electronics,East,Patna,Online,65,68773,0,10016,100,56,65,75,No,Windy,70148,60
+ORD634,26-09-2026,P004,Keyboard,Accessories,West,Surat,Online,22,728,15,734,67,16,17,18,Yes,Sunny,721,15
+ORD635,27-09-2026,P009,Bluetooth Speaker,Audio,North,Lucknow,Marketplace,85,5946,10,2787,115,68,81,61,No,Rainy,5589,71
+ORD636,28-09-2026,P008,Power Bank,Accessories,West,Mumbai,Distributor,45,1024,10,2181,172,36,35,34,Yes,Sunny,1044,39
+ORD637,29-09-2026,P006,Smart Watch,Wearables,West,Pune,Marketplace,36,5097,20,2693,94,33,34,31,No,Sunny,4791,31
+ORD638,30-09-2026,P003,Headphones,Accessories,East,Patna,Online,12,3010,15,4033,188,10,11,8,Yes,Cloudy,2739,11
+ORD639,01-10-2026,P003,Headphones,Accessories,North,Jaipur,Marketplace,71,3901,20,3573,195,55,61,47,Yes,Windy,3823,58
+ORD640,02-10-2026,P010,Monitor,Electronics,South,Hyderabad,Retail Store,8,18405,0,2685,69,9,8,7,No,Sunny,17669,8
+ORD641,03-10-2026,P007,Tablet,Electronics,South,Hyderabad,Online,94,17968,10,6311,20,77,88,58,No,Cloudy,19405,83
+ORD642,04-10-2026,P005,Mouse,Accessories,East,Patna,Retail Store,71,1039,15,1512,135,50,45,60,No,Sunny,956,48
+ORD643,05-10-2026,P008,Power Bank,Accessories,East,Guwahati,Distributor,24,2459,20,1164,49,18,21,19,No,Sunny,2631,19
+ORD644,06-10-2026,P001,Laptop,Electronics,South,Chennai,Retail Store,94,41107,15,15079,66,84,88,84,No,Rainy,43573,86
+ORD645,07-10-2026,P005,Mouse,Accessories,West,Ahmedabad,Online,33,597,0,1775,39,34,35,38,No,Cloudy,609,33
+ORD646,08-10-2026,P001,Laptop,Electronics,East,Kolkata,Retail Store,41,61472,0,9738,27,38,44,31,No,Sunny,64546,39
+ORD647,09-10-2026,P009,Bluetooth Speaker,Audio,East,Patna,Marketplace,100,6956,20,2944,102,97,91,88,No,Windy,6539,91
+ORD648,10-10-2026,P006,Smart Watch,Wearables,North,Jaipur,Online,70,13850,10,4335,55,66,74,50,No,Rainy,13989,66
+ORD649,11-10-2026,P002,Mobile,Electronics,South,Kochi,Distributor,12,32275,0,7806,98,11,12,11,No,Rainy,33889,12
+ORD650,12-10-2026,P008,Power Bank,Accessories,South,Chennai,Online,23,2400,5,1368,89,18,18,21,No,Rainy,2280,19
+ORD651,13-10-2026,P003,Headphones,Accessories,North,Jaipur,Retail Store,54,2167,5,2530,194,63,72,73,No,Windy,2037,60
+ORD652,14-10-2026,P002,Mobile,Electronics,West,Pune,Marketplace,27,17051,15,5382,123,27,21,24,No,Rainy,18415,26
+ORD653,15-10-2026,P005,Mouse,Accessories,North,Jaipur,Distributor,7,1231,0,1445,123,6,5,6,No,Windy,1342,6
+ORD654,16-10-2026,P002,Mobile,Electronics,West,Mumbai,Retail Store,63,10893,5,4415,53,59,55,65,No,Windy,10675,56
+ORD655,17-10-2026,P007,Tablet,Electronics,North,Chandigarh,Marketplace,11,38953,0,8249,77,12,12,14,No,Rainy,36226,13
+ORD656,18-10-2026,P003,Headphones,Accessories,East,Kolkata,Marketplace,97,4164,5,3236,129,91,81,100,No,Rainy,4164,88
+ORD657,19-10-2026,P006,Smart Watch,Wearables,North,Delhi,Marketplace,68,11039,10,4994,13,57,58,51,No,Cloudy,10597,55
+ORD658,20-10-2026,P006,Smart Watch,Wearables,Central,Bhopal,Online,20,5258,15,4604,33,17,19,20,No,Rainy,5363,17
+ORD659,21-10-2026,P004,Keyboard,Accessories,West,Surat,Distributor,83,732,10,1641,123,89,74,93,No,Sunny,688,85
+ORD660,22-10-2026,P006,Smart Watch,Wearables,South,Chennai,Distributor,14,5152,5,5442,36,11,9,10,No,Windy,5616,11
+ORD661,23-10-2026,P005,Mouse,Accessories,East,Guwahati,Retail Store,60,1186,10,1027,63,50,49,34,No,Windy,1103,48
+ORD662,24-10-2026,P009,Bluetooth Speaker,Audio,South,Bengaluru,Retail Store,86,4418,10,4649,64,65,64,64,Yes,Sunny,4418,63
+ORD663,25-10-2026,P007,Tablet,Electronics,East,Guwahati,Online,76,12796,0,7581,16,60,53,49,No,Sunny,13564,62
+ORD664,26-10-2026,P003,Headphones,Accessories,East,Guwahati,Distributor,50,3364,10,2750,39,34,36,32,Yes,Rainy,3028,36
+ORD665,27-10-2026,P003,Headphones,Accessories,South,Kochi,Online,86,1151,20,1802,151,74,76,76,Yes,Sunny,1232,74
+ORD666,28-10-2026,P005,Mouse,Accessories,East,Guwahati,Marketplace,84,1029,0,2042,108,79,79,75,No,Rainy,978,77
+ORD667,29-10-2026,P002,Mobile,Electronics,Central,Raipur,Retail Store,19,54624,10,16516,58,18,20,24,Yes,Rainy,55170,19
+ORD668,30-10-2026,P002,Mobile,Electronics,Central,Raipur,Online,42,57752,5,16291,66,38,49,48,Yes,Windy,53709,41
+ORD669,31-10-2026,P007,Tablet,Electronics,Central,Nagpur,Distributor,75,10630,0,4199,34,77,79,57,No,Sunny,9886,71
+ORD670,01-11-2026,P001,Laptop,Electronics,East,Guwahati,Distributor,34,56844,0,5628,12,33,38,38,No,Sunny,55139,32
+ORD671,02-11-2026,P004,Keyboard,Accessories,Central,Raipur,Online,80,851,0,2598,121,81,78,62,No,Windy,894,78
+ORD672,03-11-2026,P009,Bluetooth Speaker,Audio,West,Pune,Marketplace,7,6560,5,2580,52,8,8,10,No,Cloudy,6822,8
+ORD673,04-11-2026,P001,Laptop,Electronics,West,Mumbai,Distributor,20,74953,0,8559,96,18,16,21,No,Cloudy,79450,17
+ORD674,05-11-2026,P006,Smart Watch,Wearables,East,Guwahati,Retail Store,72,8245,20,3857,61,68,78,75,No,Rainy,8492,68
+ORD675,06-11-2026,P010,Monitor,Electronics,East,Bhubaneswar,Retail Store,22,9144,0,4132,61,27,21,24,Yes,Sunny,9418,26
+ORD676,07-11-2026,P010,Monitor,Electronics,West,Pune,Distributor,76,13171,15,2304,22,75,58,69,No,Windy,13566,71
+ORD677,08-11-2026,P006,Smart Watch,Wearables,South,Hyderabad,Distributor,50,14457,10,4160,49,51,53,41,Yes,Cloudy,14457,49
+ORD678,09-11-2026,P010,Monitor,Electronics,West,Surat,Distributor,42,24627,10,2803,43,32,29,39,No,Sunny,22411,33
+ORD679,10-11-2026,P006,Smart Watch,Wearables,North,Chandigarh,Online,51,10701,20,4374,44,42,39,42,No,Sunny,11129,44
+ORD680,11-11-2026,P006,Smart Watch,Wearables,West,Pune,Online,40,4293,20,5351,10,38,37,34,No,Rainy,4336,36
+ORD681,12-11-2026,P005,Mouse,Accessories,Central,Indore,Marketplace,79,894,15,892,57,62,55,44,No,Rainy,930,59
+ORD682,13-11-2026,P004,Keyboard,Accessories,South,Bengaluru,Online,7,2685,10,1027,72,6,8,7,No,Cloudy,2658,7
+ORD683,14-11-2026,P008,Power Bank,Accessories,South,Hyderabad,Retail Store,93,2538,10,2851,52,93,72,105,No,Cloudy,2360,86
+ORD684,15-11-2026,P009,Bluetooth Speaker,Audio,Central,Raipur,Retail Store,38,3796,5,1736,76,41,34,44,No,Sunny,3530,38
+ORD685,16-11-2026,P009,Bluetooth Speaker,Audio,South,Chennai,Retail Store,97,2216,20,1868,74,67,67,84,No,Sunny,2127,72
+ORD686,17-11-2026,P006,Smart Watch,Wearables,East,Bhubaneswar,Retail Store,77,8928,20,5831,15,68,53,68,No,Cloudy,8928,62
+ORD687,18-11-2026,P010,Monitor,Electronics,North,Delhi,Distributor,45,13720,5,5140,76,46,49,44,Yes,Cloudy,12348,44
+ORD688,19-11-2026,P001,Laptop,Electronics,South,Kochi,Distributor,20,78141,10,12563,22,17,15,22,No,Sunny,75797,18
+ORD689,20-11-2026,P008,Power Bank,Accessories,North,Jaipur,Distributor,25,1076,5,802,131,27,23,27,No,Windy,1001,26
+ORD690,21-11-2026,P005,Mouse,Accessories,Central,Nagpur,Distributor,77,707,15,973,120,83,87,72,No,Cloudy,636,77
+ORD691,22-11-2026,P010,Monitor,Electronics,Central,Raipur,Online,30,16569,0,5150,59,32,30,27,No,Sunny,14912,30
+ORD692,23-11-2026,P003,Headphones,Accessories,South,Kochi,Distributor,25,4739,5,2452,123,27,25,35,No,Windy,5071,28
+ORD693,24-11-2026,P007,Tablet,Electronics,North,Jaipur,Distributor,89,14094,0,3798,83,100,109,80,No,Windy,14517,107
+ORD694,25-11-2026,P007,Tablet,Electronics,West,Surat,Retail Store,48,38992,5,6513,63,47,54,44,No,Sunny,36652,52
+ORD695,26-11-2026,P006,Smart Watch,Wearables,Central,Raipur,Retail Store,35,7301,15,1837,73,33,29,27,No,Cloudy,7593,34
+ORD696,27-11-2026,P010,Monitor,Electronics,Central,Indore,Retail Store,50,24229,5,6963,18,43,50,36,No,Windy,23018,45
+ORD697,28-11-2026,P008,Power Bank,Accessories,Central,Indore,Retail Store,18,600,5,2513,33,16,18,17,No,Sunny,582,15
+ORD698,29-11-2026,P004,Keyboard,Accessories,North,Delhi,Distributor,34,768,0,1636,66,29,25,29,No,Rainy,691,28
+ORD699,30-11-2026,P007,Tablet,Electronics,South,Kochi,Retail Store,45,11782,5,3812,20,38,31,30,No,Windy,12842,37
+ORD700,01-12-2026,P008,Power Bank,Accessories,Central,Indore,Marketplace,83,2839,5,2279,110,68,72,91,No,Windy,3066,75
+ORD701,02-12-2026,P007,Tablet,Electronics,Central,Nagpur,Distributor,57,33338,15,3038,98,44,51,50,Yes,Cloudy,33338,48
+ORD702,03-12-2026,P005,Mouse,Accessories,West,Mumbai,Distributor,17,804,5,1066,158,13,11,11,No,Rainy,828,14
+ORD703,04-12-2026,P010,Monitor,Electronics,Central,Nagpur,Online,11,24340,10,5538,25,8,8,9,Yes,Cloudy,21906,8
+ORD704,05-12-2026,P010,Monitor,Electronics,South,Hyderabad,Distributor,29,10068,10,3258,25,30,29,31,No,Cloudy,9665,27
+ORD705,06-12-2026,P003,Headphones,Accessories,West,Surat,Retail Store,94,3073,15,1434,30,61,65,70,No,Windy,2889,65
+ORD706,07-12-2026,P005,Mouse,Accessories,North,Delhi,Retail Store,47,1291,0,2105,76,38,40,38,No,Sunny,1394,39
+ORD707,08-12-2026,P008,Power Bank,Accessories,West,Pune,Online,78,1763,10,2275,62,77,76,85,No,Windy,1886,81
+ORD708,09-12-2026,P010,Monitor,Electronics,South,Bengaluru,Distributor,55,26377,15,3646,12,48,43,44,No,Cloudy,23739,50
+ORD709,10-12-2026,P006,Smart Watch,Wearables,East,Guwahati,Retail Store,46,13645,10,4592,38,48,43,36,No,Rainy,13781,48
+ORD710,11-12-2026,P006,Smart Watch,Wearables,East,Guwahati,Marketplace,12,5410,5,6765,36,12,12,9,No,Rainy,5626,11
+ORD711,12-12-2026,P006,Smart Watch,Wearables,South,Chennai,Online,82,7154,10,6534,98,86,79,68,No,Sunny,6510,83
+ORD712,13-12-2026,P005,Mouse,Accessories,West,Mumbai,Online,41,1304,5,902,64,42,44,38,No,Windy,1239,40
+ORD713,14-12-2026,P001,Laptop,Electronics,West,Surat,Online,90,58992,15,14865,98,56,71,79,No,Sunny,56042,62
+ORD714,15-12-2026,P002,Mobile,Electronics,Central,Nagpur,Retail Store,28,25920,10,18000,143,27,25,32,No,Cloudy,27734,28
+ORD715,16-12-2026,P004,Keyboard,Accessories,North,Jaipur,Marketplace,45,2960,0,2315,88,36,31,32,No,Sunny,2960,36
+ORD716,17-12-2026,P006,Smart Watch,Wearables,Central,Nagpur,Marketplace,7,6302,20,6933,37,6,5,7,No,Cloudy,5861,6
+ORD717,18-12-2026,P010,Monitor,Electronics,East,Patna,Retail Store,52,8009,15,7119,78,54,61,47,No,Windy,8329,52
+ORD718,19-12-2026,P007,Tablet,Electronics,West,Surat,Distributor,45,29576,5,2790,21,36,40,40,No,Sunny,28689,35
+ORD719,20-12-2026,P005,Mouse,Accessories,North,Jaipur,Distributor,68,952,15,2010,162,50,44,59,Yes,Rainy,876,49
+ORD720,21-12-2026,P007,Tablet,Electronics,South,Hyderabad,Online,35,45739,0,8089,60,34,35,23,No,Sunny,43452,32
