@@ -1,5 +1,14 @@
 <a href="https://www.linkedin.com/in/nivi-I/"><img width="60" height="60" alt="image" src="https://github.com/user-attachments/assets/2a8859b9-ac1c-411d-adea-71a05a184ff4" /></a>
 
+**Product Demand Analysis**
+<img width="1211" height="678" alt="Product Demand Analysis" src="https://github.com/user-attachments/assets/6ff36116-6b81-4aaf-99c2-a5fc77965a8c" />
+
+Cleaning Steps Used
+
+No Cleaning required
+
+Measures Used
+
 **Project Management Analysis**
 <img width="1337" height="787" alt="Project Management Analysis" src="https://github.com/user-attachments/assets/b730c41f-6bbb-433d-a043-82ae974e4cee" />
 
