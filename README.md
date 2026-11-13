@@ -1,4 +1,14 @@
 <a href="https://www.linkedin.com/in/nivi-I/"><img width="60" height="60" alt="image" src="https://github.com/user-attachments/assets/2a8859b9-ac1c-411d-adea-71a05a184ff4" /></a>
+
+**Project Management Analysis**
+<img width="1337" height="787" alt="Project Management Analysis" src="https://github.com/user-attachments/assets/b730c41f-6bbb-433d-a043-82ae974e4cee" />
+
+Cleaning Steps Used
+
+No Cleaning required
+
+Measures Used
+
  
 **Digital Marketing Analysis**
 <img width="1337" height="752" alt="Digital Marketing Analysis" src="https://github.com/user-attachments/assets/27719bc3-48f9-4439-9be3-94f442dae33f" />
